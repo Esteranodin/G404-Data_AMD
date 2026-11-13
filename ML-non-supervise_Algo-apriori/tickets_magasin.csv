@@ -1,0 +1,9395 @@
+id_ticket,produit
+TK-00001,Shampoing
+TK-00001,Papier toilette
+TK-00001,Eau
+TK-00001,Dentifrice
+TK-00002,Eau
+TK-00002,Riz
+TK-00002,Bananes
+TK-00002,Baguette
+TK-00002,Lait
+TK-00003,Pâtes
+TK-00003,Eau
+TK-00003,Sauce tomate
+TK-00003,Fromage râpé
+TK-00003,Steak haché
+TK-00004,Yaourts
+TK-00004,Eau
+TK-00005,Riz
+TK-00005,Eau
+TK-00006,Eau
+TK-00006,Jus d'orange
+TK-00006,Bananes
+TK-00006,Céréales
+TK-00006,Confiture
+TK-00006,Beurre
+TK-00006,Baguette
+TK-00007,Eau
+TK-00007,Pommes
+TK-00008,Soda
+TK-00008,Bière
+TK-00008,Chips
+TK-00008,Eau
+TK-00009,Oeufs
+TK-00009,Eau
+TK-00009,Tomates
+TK-00009,Jambon
+TK-00009,Salade
+TK-00010,Bananes
+TK-00010,Yaourts
+TK-00010,Eau
+TK-00010,Céréales
+TK-00011,Bananes
+TK-00011,Pâtes
+TK-00011,Sauce tomate
+TK-00012,Café
+TK-00012,Oeufs
+TK-00012,Yaourts
+TK-00012,Baguette
+TK-00013,Oeufs
+TK-00013,Café
+TK-00013,Confiture
+TK-00013,Beurre
+TK-00013,Baguette
+TK-00013,Croissants
+TK-00014,Eau
+TK-00014,Pommes
+TK-00015,Pâtes
+TK-00015,Sauce tomate
+TK-00015,Saucisses
+TK-00015,Salade
+TK-00015,Lait
+TK-00015,Fromage râpé
+TK-00016,Lait
+TK-00016,Yaourts
+TK-00016,Eau
+TK-00016,Céréales
+TK-00017,Eau
+TK-00017,Café
+TK-00017,Confiture
+TK-00017,Beurre
+TK-00017,Croissants
+TK-00018,Oeufs
+TK-00018,Eau
+TK-00018,Tomates
+TK-00018,Jambon
+TK-00018,Salade
+TK-00019,Fromage râpé
+TK-00020,Cacahuètes
+TK-00020,Eau
+TK-00020,Chips
+TK-00020,Bière
+TK-00020,Pommes
+TK-00021,Eau
+TK-00022,Oeufs
+TK-00022,Eau
+TK-00023,Cacahuètes
+TK-00023,Eau
+TK-00023,Bananes
+TK-00023,Chips
+TK-00023,Bière
+TK-00024,Tomates
+TK-00024,Saucisses
+TK-00024,Bananes
+TK-00024,Salade
+TK-00025,Lait
+TK-00025,Yaourts
+TK-00025,Céréales
+TK-00026,Yaourts
+TK-00026,Sauce tomate
+TK-00026,Pâtes
+TK-00026,Jus d'orange
+TK-00026,Lait
+TK-00026,Fromage râpé
+TK-00027,Oeufs
+TK-00027,Jus d'orange
+TK-00027,Tomates
+TK-00027,Baguette
+TK-00027,Salade
+TK-00028,Eau
+TK-00028,Saucisses
+TK-00028,Bananes
+TK-00028,Salade
+TK-00028,Bière
+TK-00028,Steak haché
+TK-00029,Bière
+TK-00029,Chips
+TK-00030,Saucisses
+TK-00031,Cacahuètes
+TK-00031,Bière
+TK-00032,Tomates
+TK-00032,Saucisses
+TK-00032,Eau
+TK-00032,Steak haché
+TK-00033,Cacahuètes
+TK-00033,Eau
+TK-00033,Confiture
+TK-00033,Chips
+TK-00033,Beurre
+TK-00033,Baguette
+TK-00033,Lait
+TK-00033,Croissants
+TK-00033,Bière
+TK-00034,Tomates
+TK-00034,Eau
+TK-00035,Sauce tomate
+TK-00035,Fromage râpé
+TK-00035,Eau
+TK-00035,Steak haché
+TK-00036,Eau
+TK-00036,Bananes
+TK-00036,Dentifrice
+TK-00036,Confiture
+TK-00036,Beurre
+TK-00036,Pommes
+TK-00037,Pâtes
+TK-00037,Sauce tomate
+TK-00037,Eau
+TK-00037,Bananes
+TK-00037,Céréales
+TK-00037,Lait
+TK-00037,Fromage râpé
+TK-00037,Steak haché
+TK-00038,Eau
+TK-00038,Pommes
+TK-00039,Lait
+TK-00039,Eau
+TK-00040,Yaourts
+TK-00040,Eau
+TK-00040,Céréales
+TK-00041,Cacahuètes
+TK-00041,Eau
+TK-00041,Bananes
+TK-00041,Chips
+TK-00041,Baguette
+TK-00041,Bière
+TK-00042,Eau
+TK-00042,Saucisses
+TK-00042,Bananes
+TK-00042,Baguette
+TK-00042,Salade
+TK-00042,Steak haché
+TK-00043,Cacahuètes
+TK-00043,Soda
+TK-00043,Riz
+TK-00043,Chips
+TK-00043,Bière
+TK-00044,Eau
+TK-00044,Confiture
+TK-00044,Beurre
+TK-00044,Baguette
+TK-00044,Lait
+TK-00045,Eau
+TK-00045,Bananes
+TK-00045,Papier toilette
+TK-00045,Shampoing
+TK-00045,Lait
+TK-00046,Oeufs
+TK-00046,Riz
+TK-00046,Pommes
+TK-00047,Eau
+TK-00047,Café
+TK-00047,Bananes
+TK-00047,Confiture
+TK-00047,Beurre
+TK-00047,Baguette
+TK-00047,Lait
+TK-00047,Croissants
+TK-00048,Bananes
+TK-00048,Pâtes
+TK-00048,Fromage râpé
+TK-00048,Sauce tomate
+TK-00049,Riz
+TK-00049,Eau
+TK-00049,Bananes
+TK-00050,Shampoing
+TK-00050,Oeufs
+TK-00050,Eau
+TK-00050,Dentifrice
+TK-00051,Yaourts
+TK-00051,Eau
+TK-00051,Jus d'orange
+TK-00051,Céréales
+TK-00051,Bananes
+TK-00051,Lait
+TK-00052,Eau
+TK-00053,Jus d'orange
+TK-00053,Pâtes
+TK-00053,Fromage râpé
+TK-00053,Pommes
+TK-00054,Café
+TK-00054,Bananes
+TK-00054,Confiture
+TK-00054,Beurre
+TK-00054,Baguette
+TK-00054,Lait
+TK-00054,Pommes
+TK-00055,Eau
+TK-00055,Confiture
+TK-00055,Beurre
+TK-00055,Baguette
+TK-00055,Lait
+TK-00056,Yaourts
+TK-00056,Soda
+TK-00056,Jus d'orange
+TK-00056,Saucisses
+TK-00056,Céréales
+TK-00056,Tomates
+TK-00056,Salade
+TK-00056,Bière
+TK-00057,Yaourts
+TK-00057,Eau
+TK-00057,Salade
+TK-00057,Bière
+TK-00057,Pommes
+TK-00058,Oeufs
+TK-00058,Eau
+TK-00058,Café
+TK-00058,Saucisses
+TK-00058,Confiture
+TK-00058,Beurre
+TK-00058,Baguette
+TK-00058,Salade
+TK-00058,Bière
+TK-00059,Bananes
+TK-00059,Jus d'orange
+TK-00059,Eau
+TK-00059,Céréales
+TK-00060,Bananes
+TK-00060,Cacahuètes
+TK-00060,Bière
+TK-00060,Chips
+TK-00061,Yaourts
+TK-00061,Eau
+TK-00061,Jus d'orange
+TK-00061,Saucisses
+TK-00061,Céréales
+TK-00061,Bananes
+TK-00061,Tomates
+TK-00061,Salade
+TK-00061,Lait
+TK-00061,Bière
+TK-00062,Oeufs
+TK-00062,Pâtes
+TK-00062,Eau
+TK-00062,Bananes
+TK-00062,Tomates
+TK-00062,Jambon
+TK-00062,Salade
+TK-00062,Lait
+TK-00062,Fromage râpé
+TK-00063,Chips
+TK-00064,Tomates
+TK-00064,Salade
+TK-00065,Yaourts
+TK-00065,Pâtes
+TK-00065,Eau
+TK-00065,Café
+TK-00065,Jus d'orange
+TK-00065,Bananes
+TK-00065,Lait
+TK-00065,Steak haché
+TK-00066,Riz
+TK-00066,Baguette
+TK-00067,Saucisses
+TK-00067,Bière
+TK-00067,Pommes
+TK-00068,Pâtes
+TK-00068,Sauce tomate
+TK-00068,Eau
+TK-00068,Bananes
+TK-00068,Fromage râpé
+TK-00069,Shampoing
+TK-00069,Papier toilette
+TK-00069,Eau
+TK-00069,Dentifrice
+TK-00070,Eau
+TK-00070,Riz
+TK-00070,Saucisses
+TK-00070,Jambon
+TK-00070,Salade
+TK-00070,Steak haché
+TK-00071,Soda
+TK-00071,Lait
+TK-00071,Eau
+TK-00071,Chips
+TK-00072,Pâtes
+TK-00072,Sauce tomate
+TK-00072,Eau
+TK-00072,Beurre
+TK-00072,Baguette
+TK-00072,Fromage râpé
+TK-00073,Soda
+TK-00073,Confiture
+TK-00073,Beurre
+TK-00073,Baguette
+TK-00073,Lait
+TK-00074,Oeufs
+TK-00074,Tomates
+TK-00074,Jambon
+TK-00074,Salade
+TK-00074,Lait
+TK-00075,Baguette
+TK-00075,Bière
+TK-00075,Chips
+TK-00075,Eau
+TK-00076,Cacahuètes
+TK-00076,Yaourts
+TK-00076,Jus d'orange
+TK-00076,Céréales
+TK-00076,Bananes
+TK-00076,Lait
+TK-00076,Bière
+TK-00076,Chips
+TK-00077,Eau
+TK-00077,Café
+TK-00077,Riz
+TK-00077,Bananes
+TK-00077,Beurre
+TK-00077,Baguette
+TK-00078,Oeufs
+TK-00078,Cacahuètes
+TK-00078,Eau
+TK-00078,Chips
+TK-00078,Bière
+TK-00079,Pâtes
+TK-00079,Sauce tomate
+TK-00079,Soda
+TK-00079,Eau
+TK-00079,Fromage râpé
+TK-00080,Eau
+TK-00080,Confiture
+TK-00080,Beurre
+TK-00080,Baguette
+TK-00080,Lait
+TK-00081,Yaourts
+TK-00081,Café
+TK-00081,Jus d'orange
+TK-00081,Céréales
+TK-00081,Baguette
+TK-00081,Lait
+TK-00081,Croissants
+TK-00082,Tomates
+TK-00082,Lait
+TK-00082,Baguette
+TK-00082,Salade
+TK-00083,Lait
+TK-00083,Beurre
+TK-00083,Eau
+TK-00083,Confiture
+TK-00084,Riz
+TK-00084,Jambon
+TK-00084,Pommes
+TK-00085,Pâtes
+TK-00085,Fromage râpé
+TK-00085,Eau
+TK-00085,Steak haché
+TK-00086,Eau
+TK-00086,Bananes
+TK-00086,Dentifrice
+TK-00086,Papier toilette
+TK-00086,Lait
+TK-00086,Pommes
+TK-00087,Eau
+TK-00088,Pâtes
+TK-00088,Fromage râpé
+TK-00088,Sauce tomate
+TK-00089,Oeufs
+TK-00089,Eau
+TK-00089,Soda
+TK-00089,Bananes
+TK-00089,Chips
+TK-00089,Bière
+TK-00090,Oeufs
+TK-00090,Pâtes
+TK-00090,Eau
+TK-00090,Sauce tomate
+TK-00090,Pommes
+TK-00090,Bananes
+TK-00090,Steak haché
+TK-00091,Salade
+TK-00092,Eau
+TK-00092,Café
+TK-00092,Bananes
+TK-00092,Confiture
+TK-00092,Beurre
+TK-00092,Baguette
+TK-00092,Croissants
+TK-00093,Beurre
+TK-00093,Croissants
+TK-00094,Lait
+TK-00094,Oeufs
+TK-00094,Eau
+TK-00095,Eau
+TK-00096,Pâtes
+TK-00096,Eau
+TK-00096,Sauce tomate
+TK-00096,Fromage râpé
+TK-00096,Steak haché
+TK-00097,Oeufs
+TK-00097,Bananes
+TK-00097,Dentifrice
+TK-00097,Papier toilette
+TK-00097,Shampoing
+TK-00098,Pommes
+TK-00099,Lait
+TK-00099,Bananes
+TK-00099,Eau
+TK-00099,Céréales
+TK-00100,Eau
+TK-00100,Café
+TK-00100,Beurre
+TK-00100,Baguette
+TK-00100,Lait
+TK-00100,Croissants
+TK-00101,Yaourts
+TK-00101,Soda
+TK-00101,Bananes
+TK-00101,Céréales
+TK-00101,Lait
+TK-00101,Pommes
+TK-00102,Shampoing
+TK-00102,Papier toilette
+TK-00102,Eau
+TK-00102,Dentifrice
+TK-00103,Eau
+TK-00103,Saucisses
+TK-00103,Tomates
+TK-00103,Salade
+TK-00103,Lait
+TK-00103,Bière
+TK-00103,Steak haché
+TK-00104,Lait
+TK-00104,Riz
+TK-00104,Eau
+TK-00105,Oeufs
+TK-00105,Eau
+TK-00105,Café
+TK-00105,Beurre
+TK-00105,Baguette
+TK-00105,Croissants
+TK-00105,Pommes
+TK-00106,Lait
+TK-00106,Beurre
+TK-00107,Yaourts
+TK-00107,Saucisses
+TK-00107,Tomates
+TK-00107,Salade
+TK-00107,Bière
+TK-00108,Eau
+TK-00108,Café
+TK-00108,Jus d'orange
+TK-00108,Céréales
+TK-00108,Confiture
+TK-00108,Beurre
+TK-00108,Baguette
+TK-00108,Lait
+TK-00109,Oeufs
+TK-00109,Eau
+TK-00109,Tomates
+TK-00109,Baguette
+TK-00109,Pommes
+TK-00110,Shampoing
+TK-00110,Tomates
+TK-00110,Salade
+TK-00110,Dentifrice
+TK-00111,Eau
+TK-00111,Pommes
+TK-00112,Shampoing
+TK-00112,Lait
+TK-00112,Eau
+TK-00112,Dentifrice
+TK-00113,Cacahuètes
+TK-00113,Bière
+TK-00113,Chips
+TK-00114,Yaourts
+TK-00114,Shampoing
+TK-00114,Céréales
+TK-00114,Dentifrice
+TK-00114,Papier toilette
+TK-00114,Lait
+TK-00115,Oeufs
+TK-00115,Eau
+TK-00115,Tomates
+TK-00115,Baguette
+TK-00115,Salade
+TK-00116,Eau
+TK-00116,Tomates
+TK-00116,Baguette
+TK-00116,Jambon
+TK-00116,Salade
+TK-00117,Saucisses
+TK-00117,Dentifrice
+TK-00117,Tomates
+TK-00117,Papier toilette
+TK-00117,Salade
+TK-00117,Shampoing
+TK-00117,Bière
+TK-00117,Steak haché
+TK-00118,Riz
+TK-00118,Soda
+TK-00118,Pommes
+TK-00119,Eau
+TK-00119,Tomates
+TK-00119,Baguette
+TK-00119,Jambon
+TK-00119,Salade
+TK-00120,Tomates
+TK-00120,Oeufs
+TK-00120,Eau
+TK-00120,Salade
+TK-00121,Baguette
+TK-00121,Eau
+TK-00122,Eau
+TK-00122,Soda
+TK-00122,Tomates
+TK-00122,Baguette
+TK-00122,Salade
+TK-00123,Pâtes
+TK-00123,Eau
+TK-00123,Sauce tomate
+TK-00123,Fromage râpé
+TK-00123,Steak haché
+TK-00124,Lait
+TK-00124,Eau
+TK-00124,Pommes
+TK-00125,Café
+TK-00125,Riz
+TK-00126,Oeufs
+TK-00126,Café
+TK-00126,Bananes
+TK-00126,Confiture
+TK-00126,Tomates
+TK-00126,Baguette
+TK-00126,Salade
+TK-00126,Lait
+TK-00127,Lait
+TK-00127,Jus d'orange
+TK-00127,Yaourts
+TK-00127,Céréales
+TK-00128,Saucisses
+TK-00128,Salade
+TK-00128,Steak haché
+TK-00129,Jus d'orange
+TK-00129,Céréales
+TK-00129,Bananes
+TK-00129,Dentifrice
+TK-00129,Papier toilette
+TK-00129,Shampoing
+TK-00129,Pommes
+TK-00130,Lait
+TK-00131,Yaourts
+TK-00131,Eau
+TK-00131,Jus d'orange
+TK-00131,Céréales
+TK-00131,Lait
+TK-00132,Tomates
+TK-00132,Baguette
+TK-00132,Jambon
+TK-00132,Salade
+TK-00133,Eau
+TK-00133,Soda
+TK-00133,Café
+TK-00133,Confiture
+TK-00133,Beurre
+TK-00133,Baguette
+TK-00134,Lait
+TK-00134,Bananes
+TK-00134,Céréales
+TK-00135,Baguette
+TK-00135,Eau
+TK-00136,Oeufs
+TK-00136,Eau
+TK-00136,Riz
+TK-00136,Céréales
+TK-00136,Baguette
+TK-00136,Lait
+TK-00136,Pommes
+TK-00137,Eau
+TK-00138,Oeufs
+TK-00138,Eau
+TK-00138,Café
+TK-00138,Confiture
+TK-00138,Tomates
+TK-00138,Beurre
+TK-00138,Baguette
+TK-00138,Jambon
+TK-00138,Salade
+TK-00138,Lait
+TK-00139,Yaourts
+TK-00139,Jus d'orange
+TK-00139,Céréales
+TK-00139,Baguette
+TK-00139,Lait
+TK-00139,Pommes
+TK-00140,Eau
+TK-00140,Jus d'orange
+TK-00140,Bananes
+TK-00140,Céréales
+TK-00140,Dentifrice
+TK-00140,Papier toilette
+TK-00140,Shampoing
+TK-00141,Oeufs
+TK-00141,Riz
+TK-00141,Baguette
+TK-00142,Jus d'orange
+TK-00142,Cacahuètes
+TK-00142,Chips
+TK-00143,Shampoing
+TK-00143,Papier toilette
+TK-00143,Eau
+TK-00143,Dentifrice
+TK-00144,Shampoing
+TK-00144,Eau
+TK-00144,Bière
+TK-00144,Dentifrice
+TK-00145,Yaourts
+TK-00145,Eau
+TK-00145,Jus d'orange
+TK-00145,Céréales
+TK-00145,Lait
+TK-00146,Tomates
+TK-00146,Salade
+TK-00147,Lait
+TK-00147,Eau
+TK-00148,Eau
+TK-00148,Céréales
+TK-00148,Baguette
+TK-00148,Salade
+TK-00148,Lait
+TK-00149,Lait
+TK-00149,Bananes
+TK-00149,Céréales
+TK-00150,Lait
+TK-00150,Jus d'orange
+TK-00150,Céréales
+TK-00150,Pommes
+TK-00151,Cacahuètes
+TK-00151,Yaourts
+TK-00151,Eau
+TK-00151,Céréales
+TK-00151,Bananes
+TK-00151,Lait
+TK-00151,Bière
+TK-00151,Chips
+TK-00152,Eau
+TK-00153,Pâtes
+TK-00153,Fromage râpé
+TK-00153,Eau
+TK-00154,Tomates
+TK-00154,Eau
+TK-00154,Bananes
+TK-00154,Salade
+TK-00155,Eau
+TK-00155,Bière
+TK-00156,Oeufs
+TK-00156,Riz
+TK-00156,Yaourts
+TK-00156,Eau
+TK-00157,Yaourts
+TK-00157,Eau
+TK-00157,Bananes
+TK-00157,Céréales
+TK-00157,Lait
+TK-00158,Pommes
+TK-00159,Eau
+TK-00159,Café
+TK-00159,Confiture
+TK-00159,Beurre
+TK-00159,Baguette
+TK-00160,Yaourts
+TK-00160,Pâtes
+TK-00160,Eau
+TK-00160,Jus d'orange
+TK-00160,Céréales
+TK-00160,Bananes
+TK-00160,Lait
+TK-00161,Yaourts
+TK-00161,Eau
+TK-00161,Jus d'orange
+TK-00161,Céréales
+TK-00161,Bananes
+TK-00161,Lait
+TK-00162,Eau
+TK-00162,Soda
+TK-00162,Dentifrice
+TK-00162,Papier toilette
+TK-00162,Baguette
+TK-00163,Cacahuètes
+TK-00163,Yaourts
+TK-00163,Bananes
+TK-00163,Dentifrice
+TK-00163,Papier toilette
+TK-00163,Chips
+TK-00163,Baguette
+TK-00163,Shampoing
+TK-00163,Lait
+TK-00163,Bière
+TK-00164,Pâtes
+TK-00164,Eau
+TK-00164,Sauce tomate
+TK-00165,Tomates
+TK-00165,Saucisses
+TK-00165,Bière
+TK-00166,Pommes
+TK-00166,Saucisses
+TK-00166,Confiture
+TK-00166,Tomates
+TK-00166,Beurre
+TK-00166,Baguette
+TK-00166,Steak haché
+TK-00167,Pâtes
+TK-00167,Fromage râpé
+TK-00167,Sauce tomate
+TK-00168,Eau
+TK-00168,Confiture
+TK-00168,Beurre
+TK-00168,Baguette
+TK-00168,Croissants
+TK-00169,Yaourts
+TK-00169,Eau
+TK-00169,Bananes
+TK-00170,Shampoing
+TK-00170,Eau
+TK-00170,Dentifrice
+TK-00171,Café
+TK-00171,Confiture
+TK-00171,Baguette
+TK-00171,Lait
+TK-00171,Pommes
+TK-00172,Tomates
+TK-00172,Bière
+TK-00172,Salade
+TK-00173,Soda
+TK-00173,Cacahuètes
+TK-00173,Bière
+TK-00173,Chips
+TK-00174,Cacahuètes
+TK-00174,Eau
+TK-00174,Chips
+TK-00174,Baguette
+TK-00174,Bière
+TK-00175,Yaourts
+TK-00175,Eau
+TK-00175,Bananes
+TK-00176,Bananes
+TK-00176,Yaourts
+TK-00176,Eau
+TK-00176,Céréales
+TK-00177,Bananes
+TK-00177,Dentifrice
+TK-00177,Confiture
+TK-00177,Papier toilette
+TK-00177,Beurre
+TK-00177,Baguette
+TK-00177,Shampoing
+TK-00177,Lait
+TK-00177,Pommes
+TK-00178,Eau
+TK-00178,Saucisses
+TK-00178,Tomates
+TK-00178,Bière
+TK-00178,Steak haché
+TK-00179,Yaourts
+TK-00179,Eau
+TK-00179,Jus d'orange
+TK-00179,Céréales
+TK-00179,Confiture
+TK-00179,Beurre
+TK-00179,Baguette
+TK-00179,Lait
+TK-00180,Café
+TK-00180,Confiture
+TK-00180,Beurre
+TK-00180,Baguette
+TK-00180,Lait
+TK-00181,Shampoing
+TK-00181,Papier toilette
+TK-00181,Dentifrice
+TK-00182,Lait
+TK-00182,Bananes
+TK-00183,Jus d'orange
+TK-00183,Riz
+TK-00183,Jambon
+TK-00184,Pâtes
+TK-00184,Sauce tomate
+TK-00184,Eau
+TK-00184,Café
+TK-00184,Beurre
+TK-00184,Fromage râpé
+TK-00184,Steak haché
+TK-00185,Sauce tomate
+TK-00185,Fromage râpé
+TK-00185,Bananes
+TK-00185,Eau
+TK-00186,Lait
+TK-00186,Beurre
+TK-00186,Baguette
+TK-00186,Confiture
+TK-00187,Pâtes
+TK-00187,Fromage râpé
+TK-00187,Eau
+TK-00187,Steak haché
+TK-00188,Oeufs
+TK-00188,Tomates
+TK-00188,Baguette
+TK-00188,Jambon
+TK-00188,Salade
+TK-00188,Pommes
+TK-00189,Riz
+TK-00189,Eau
+TK-00190,Yaourts
+TK-00190,Eau
+TK-00190,Dentifrice
+TK-00191,Café
+TK-00191,Jus d'orange
+TK-00191,Saucisses
+TK-00191,Tomates
+TK-00191,Baguette
+TK-00191,Salade
+TK-00191,Lait
+TK-00191,Bière
+TK-00191,Steak haché
+TK-00192,Eau
+TK-00192,Confiture
+TK-00192,Beurre
+TK-00192,Baguette
+TK-00192,Lait
+TK-00192,Pommes
+TK-00193,Café
+TK-00193,Jus d'orange
+TK-00193,Dentifrice
+TK-00194,Pâtes
+TK-00194,Sauce tomate
+TK-00194,Soda
+TK-00194,Eau
+TK-00194,Fromage râpé
+TK-00195,Pâtes
+TK-00195,Sauce tomate
+TK-00196,Oeufs
+TK-00196,Eau
+TK-00196,Bananes
+TK-00196,Tomates
+TK-00196,Salade
+TK-00196,Lait
+TK-00197,Oeufs
+TK-00197,Eau
+TK-00197,Confiture
+TK-00197,Tomates
+TK-00197,Beurre
+TK-00197,Baguette
+TK-00197,Jambon
+TK-00197,Salade
+TK-00197,Pommes
+TK-00198,Riz
+TK-00198,Eau
+TK-00198,Jambon
+TK-00199,Beurre
+TK-00199,Eau
+TK-00199,Confiture
+TK-00200,Cacahuètes
+TK-00200,Eau
+TK-00200,Soda
+TK-00200,Jus d'orange
+TK-00200,Bananes
+TK-00200,Chips
+TK-00201,Papier toilette
+TK-00201,Oeufs
+TK-00201,Pommes
+TK-00201,Dentifrice
+TK-00202,Confiture
+TK-00202,Beurre
+TK-00202,Lait
+TK-00202,Croissants
+TK-00202,Pommes
+TK-00203,Saucisses
+TK-00203,Eau
+TK-00203,Soda
+TK-00204,Eau
+TK-00204,Café
+TK-00204,Jus d'orange
+TK-00204,Céréales
+TK-00204,Lait
+TK-00205,Eau
+TK-00206,Dentifrice
+TK-00207,Pâtes
+TK-00207,Eau
+TK-00207,Steak haché
+TK-00207,Fromage râpé
+TK-00207,Pommes
+TK-00208,Papier toilette
+TK-00208,Eau
+TK-00208,Dentifrice
+TK-00209,Oeufs
+TK-00209,Eau
+TK-00209,Shampoing
+TK-00209,Café
+TK-00209,Confiture
+TK-00209,Dentifrice
+TK-00209,Papier toilette
+TK-00209,Beurre
+TK-00209,Baguette
+TK-00209,Lait
+TK-00209,Pommes
+TK-00210,Pâtes
+TK-00210,Fromage râpé
+TK-00210,Sauce tomate
+TK-00210,Pommes
+TK-00211,Oeufs
+TK-00211,Pâtes
+TK-00211,Sauce tomate
+TK-00211,Eau
+TK-00211,Tomates
+TK-00211,Salade
+TK-00211,Fromage râpé
+TK-00212,Yaourts
+TK-00212,Eau
+TK-00212,Café
+TK-00212,Confiture
+TK-00212,Beurre
+TK-00212,Lait
+TK-00212,Pommes
+TK-00213,Shampoing
+TK-00213,Papier toilette
+TK-00213,Dentifrice
+TK-00214,Tomates
+TK-00214,Saucisses
+TK-00214,Eau
+TK-00214,Salade
+TK-00215,Oeufs
+TK-00215,Tomates
+TK-00215,Jambon
+TK-00215,Salade
+TK-00215,Lait
+TK-00215,Pommes
+TK-00216,Oeufs
+TK-00216,Eau
+TK-00216,Café
+TK-00216,Confiture
+TK-00216,Beurre
+TK-00216,Lait
+TK-00217,Yaourts
+TK-00217,Eau
+TK-00217,Jus d'orange
+TK-00217,Céréales
+TK-00217,Bananes
+TK-00217,Lait
+TK-00218,Eau
+TK-00218,Confiture
+TK-00218,Tomates
+TK-00218,Baguette
+TK-00218,Jambon
+TK-00218,Salade
+TK-00218,Pommes
+TK-00219,Bananes
+TK-00220,Eau
+TK-00221,Eau
+TK-00221,Dentifrice
+TK-00221,Papier toilette
+TK-00221,Baguette
+TK-00221,Shampoing
+TK-00222,Cacahuètes
+TK-00222,Tomates
+TK-00222,Chips
+TK-00222,Baguette
+TK-00222,Salade
+TK-00222,Bière
+TK-00222,Pommes
+TK-00223,Lait
+TK-00223,Yaourts
+TK-00223,Eau
+TK-00223,Bananes
+TK-00224,Yaourts
+TK-00224,Pâtes
+TK-00224,Eau
+TK-00224,Jus d'orange
+TK-00224,Céréales
+TK-00224,Bananes
+TK-00224,Lait
+TK-00224,Fromage râpé
+TK-00225,Pâtes
+TK-00225,Sauce tomate
+TK-00225,Bananes
+TK-00225,Lait
+TK-00225,Fromage râpé
+TK-00226,Cacahuètes
+TK-00226,Bière
+TK-00226,Chips
+TK-00226,Eau
+TK-00227,Lait
+TK-00227,Bananes
+TK-00227,Yaourts
+TK-00227,Céréales
+TK-00228,Lait
+TK-00228,Eau
+TK-00229,Yaourts
+TK-00229,Café
+TK-00229,Beurre
+TK-00229,Baguette
+TK-00229,Lait
+TK-00230,Yaourts
+TK-00230,Eau
+TK-00230,Café
+TK-00230,Jus d'orange
+TK-00230,Céréales
+TK-00230,Bananes
+TK-00230,Confiture
+TK-00230,Beurre
+TK-00230,Lait
+TK-00230,Croissants
+TK-00231,Cacahuètes
+TK-00231,Eau
+TK-00231,Jus d'orange
+TK-00231,Chips
+TK-00231,Lait
+TK-00231,Bière
+TK-00231,Pommes
+TK-00232,Eau
+TK-00232,Saucisses
+TK-00232,Tomates
+TK-00232,Salade
+TK-00232,Bière
+TK-00232,Steak haché
+TK-00233,Eau
+TK-00233,Pommes
+TK-00234,Oeufs
+TK-00234,Riz
+TK-00234,Eau
+TK-00234,Bananes
+TK-00235,Pâtes
+TK-00235,Eau
+TK-00235,Steak haché
+TK-00236,Café
+TK-00236,Confiture
+TK-00236,Beurre
+TK-00236,Baguette
+TK-00236,Lait
+TK-00236,Croissants
+TK-00236,Pommes
+TK-00237,Pâtes
+TK-00237,Sauce tomate
+TK-00237,Saucisses
+TK-00237,Bananes
+TK-00237,Tomates
+TK-00237,Bière
+TK-00237,Steak haché
+TK-00238,Pâtes
+TK-00238,Fromage râpé
+TK-00238,Sauce tomate
+TK-00238,Eau
+TK-00239,Eau
+TK-00240,Pâtes
+TK-00240,Eau
+TK-00240,Sauce tomate
+TK-00240,Steak haché
+TK-00241,Pâtes
+TK-00241,Fromage râpé
+TK-00241,Sauce tomate
+TK-00241,Eau
+TK-00242,Pâtes
+TK-00242,Sauce tomate
+TK-00242,Café
+TK-00242,Lait
+TK-00242,Fromage râpé
+TK-00242,Steak haché
+TK-00243,Oeufs
+TK-00243,Pâtes
+TK-00243,Sauce tomate
+TK-00243,Eau
+TK-00243,Baguette
+TK-00243,Fromage râpé
+TK-00244,Pâtes
+TK-00244,Eau
+TK-00244,Sauce tomate
+TK-00244,Fromage râpé
+TK-00244,Steak haché
+TK-00245,Eau
+TK-00245,Saucisses
+TK-00245,Bananes
+TK-00245,Confiture
+TK-00245,Tomates
+TK-00245,Beurre
+TK-00245,Baguette
+TK-00245,Salade
+TK-00245,Pommes
+TK-00246,Oeufs
+TK-00246,Eau
+TK-00247,Eau
+TK-00248,Pâtes
+TK-00248,Fromage râpé
+TK-00248,Sauce tomate
+TK-00248,Eau
+TK-00249,Eau
+TK-00249,Soda
+TK-00249,Saucisses
+TK-00249,Tomates
+TK-00249,Bière
+TK-00249,Steak haché
+TK-00250,Oeufs
+TK-00250,Yaourts
+TK-00250,Eau
+TK-00250,Café
+TK-00250,Confiture
+TK-00250,Beurre
+TK-00250,Baguette
+TK-00250,Lait
+TK-00251,Cacahuètes
+TK-00251,Riz
+TK-00251,Chips
+TK-00251,Lait
+TK-00251,Bière
+TK-00252,Pommes
+TK-00253,Pâtes
+TK-00253,Sauce tomate
+TK-00253,Eau
+TK-00253,Confiture
+TK-00253,Baguette
+TK-00253,Croissants
+TK-00253,Fromage râpé
+TK-00254,Lait
+TK-00254,Jus d'orange
+TK-00254,Baguette
+TK-00254,Bananes
+TK-00255,Tomates
+TK-00255,Oeufs
+TK-00255,Jambon
+TK-00255,Salade
+TK-00256,Eau
+TK-00257,Papier toilette
+TK-00257,Eau
+TK-00257,Dentifrice
+TK-00258,Pâtes
+TK-00258,Sauce tomate
+TK-00258,Eau
+TK-00258,Jus d'orange
+TK-00258,Bananes
+TK-00258,Dentifrice
+TK-00258,Papier toilette
+TK-00258,Shampoing
+TK-00258,Lait
+TK-00258,Fromage râpé
+TK-00259,Oeufs
+TK-00259,Eau
+TK-00259,Café
+TK-00259,Baguette
+TK-00259,Pommes
+TK-00260,Oeufs
+TK-00260,Eau
+TK-00260,Céréales
+TK-00260,Baguette
+TK-00260,Lait
+TK-00260,Pommes
+TK-00261,Eau
+TK-00261,Soda
+TK-00261,Café
+TK-00261,Bananes
+TK-00261,Confiture
+TK-00261,Beurre
+TK-00261,Chips
+TK-00261,Baguette
+TK-00261,Lait
+TK-00261,Bière
+TK-00262,Café
+TK-00262,Confiture
+TK-00262,Beurre
+TK-00262,Baguette
+TK-00262,Lait
+TK-00262,Bière
+TK-00262,Chips
+TK-00263,Cacahuètes
+TK-00263,Eau
+TK-00263,Bière
+TK-00264,Pâtes
+TK-00264,Sauce tomate
+TK-00264,Eau
+TK-00264,Café
+TK-00264,Pommes
+TK-00264,Beurre
+TK-00264,Baguette
+TK-00264,Lait
+TK-00264,Fromage râpé
+TK-00264,Steak haché
+TK-00265,Jus d'orange
+TK-00265,Bananes
+TK-00265,Dentifrice
+TK-00265,Papier toilette
+TK-00265,Shampoing
+TK-00266,Café
+TK-00266,Beurre
+TK-00266,Eau
+TK-00266,Confiture
+TK-00267,Pommes
+TK-00268,Jus d'orange
+TK-00268,Yaourts
+TK-00268,Eau
+TK-00268,Bananes
+TK-00269,Cacahuètes
+TK-00269,Eau
+TK-00269,Riz
+TK-00269,Chips
+TK-00269,Bière
+TK-00270,Riz
+TK-00270,Bière
+TK-00270,Chips
+TK-00270,Eau
+TK-00271,Dentifrice
+TK-00271,Tomates
+TK-00271,Papier toilette
+TK-00271,Jambon
+TK-00271,Salade
+TK-00271,Shampoing
+TK-00272,Lait
+TK-00272,Bananes
+TK-00273,Lait
+TK-00273,Beurre
+TK-00273,Croissants
+TK-00273,Confiture
+TK-00274,Pâtes
+TK-00274,Sauce tomate
+TK-00274,Eau
+TK-00274,Café
+TK-00274,Confiture
+TK-00274,Beurre
+TK-00274,Baguette
+TK-00274,Lait
+TK-00274,Croissants
+TK-00274,Fromage râpé
+TK-00274,Steak haché
+TK-00275,Eau
+TK-00275,Saucisses
+TK-00275,Bananes
+TK-00275,Tomates
+TK-00275,Baguette
+TK-00275,Salade
+TK-00276,Yaourts
+TK-00276,Eau
+TK-00276,Jus d'orange
+TK-00276,Céréales
+TK-00276,Lait
+TK-00277,Oeufs
+TK-00277,Riz
+TK-00277,Beurre
+TK-00277,Baguette
+TK-00277,Lait
+TK-00278,Bananes
+TK-00279,Soda
+TK-00279,Eau
+TK-00279,Bananes
+TK-00280,Eau
+TK-00281,Eau
+TK-00281,Bananes
+TK-00281,Dentifrice
+TK-00281,Papier toilette
+TK-00281,Beurre
+TK-00281,Baguette
+TK-00281,Shampoing
+TK-00281,Lait
+TK-00282,Oeufs
+TK-00282,Tomates
+TK-00282,Baguette
+TK-00282,Salade
+TK-00282,Pommes
+TK-00283,Oeufs
+TK-00283,Eau
+TK-00283,Tomates
+TK-00283,Baguette
+TK-00283,Salade
+TK-00284,Bière
+TK-00285,Oeufs
+TK-00285,Eau
+TK-00285,Bananes
+TK-00285,Dentifrice
+TK-00285,Tomates
+TK-00285,Baguette
+TK-00285,Jambon
+TK-00285,Salade
+TK-00285,Shampoing
+TK-00286,Oeufs
+TK-00286,Riz
+TK-00287,Riz
+TK-00287,Yaourts
+TK-00287,Jambon
+TK-00287,Pommes
+TK-00288,Baguette
+TK-00288,Eau
+TK-00289,Pâtes
+TK-00289,Eau
+TK-00289,Sauce tomate
+TK-00290,Yaourts
+TK-00290,Eau
+TK-00290,Bananes
+TK-00290,Céréales
+TK-00290,Baguette
+TK-00290,Lait
+TK-00291,Oeufs
+TK-00291,Riz
+TK-00291,Lait
+TK-00292,Pâtes
+TK-00292,Sauce tomate
+TK-00292,Saucisses
+TK-00292,Fromage râpé
+TK-00292,Steak haché
+TK-00293,Eau
+TK-00293,Bananes
+TK-00293,Dentifrice
+TK-00293,Papier toilette
+TK-00293,Shampoing
+TK-00294,Riz
+TK-00294,Jambon
+TK-00295,Lait
+TK-00295,Jus d'orange
+TK-00295,Céréales
+TK-00295,Bananes
+TK-00296,Pâtes
+TK-00296,Eau
+TK-00296,Sauce tomate
+TK-00296,Fromage râpé
+TK-00296,Steak haché
+TK-00297,Lait
+TK-00297,Confiture
+TK-00298,Sauce tomate
+TK-00298,Café
+TK-00298,Confiture
+TK-00298,Beurre
+TK-00298,Lait
+TK-00298,Pommes
+TK-00299,Riz
+TK-00300,Eau
+TK-00300,Pommes
+TK-00300,Beurre
+TK-00300,Baguette
+TK-00300,Salade
+TK-00300,Lait
+TK-00300,Steak haché
+TK-00301,Eau
+TK-00301,Jus d'orange
+TK-00301,Bananes
+TK-00301,Baguette
+TK-00301,Lait
+TK-00302,Eau
+TK-00302,Jus d'orange
+TK-00302,Tomates
+TK-00302,Baguette
+TK-00302,Salade
+TK-00302,Pommes
+TK-00303,Baguette
+TK-00303,Confiture
+TK-00304,Yaourts
+TK-00304,Jus d'orange
+TK-00304,Céréales
+TK-00304,Bananes
+TK-00304,Baguette
+TK-00304,Lait
+TK-00304,Pommes
+TK-00305,Oeufs
+TK-00305,Pâtes
+TK-00305,Sauce tomate
+TK-00305,Eau
+TK-00305,Bananes
+TK-00305,Tomates
+TK-00305,Baguette
+TK-00305,Lait
+TK-00305,Fromage râpé
+TK-00305,Steak haché
+TK-00306,Pâtes
+TK-00306,Sauce tomate
+TK-00306,Eau
+TK-00306,Bananes
+TK-00306,Fromage râpé
+TK-00306,Steak haché
+TK-00307,Pâtes
+TK-00307,Sauce tomate
+TK-00307,Eau
+TK-00307,Yaourts
+TK-00307,Soda
+TK-00307,Bananes
+TK-00307,Baguette
+TK-00307,Lait
+TK-00307,Fromage râpé
+TK-00308,Eau
+TK-00308,Confiture
+TK-00308,Beurre
+TK-00308,Baguette
+TK-00308,Croissants
+TK-00309,Oeufs
+TK-00309,Eau
+TK-00309,Jambon
+TK-00310,Lait
+TK-00310,Baguette
+TK-00310,Bananes
+TK-00311,Shampoing
+TK-00311,Eau
+TK-00311,Bananes
+TK-00311,Dentifrice
+TK-00312,Eau
+TK-00312,Saucisses
+TK-00312,Bananes
+TK-00312,Confiture
+TK-00312,Tomates
+TK-00312,Beurre
+TK-00312,Salade
+TK-00313,Oeufs
+TK-00313,Yaourts
+TK-00313,Jus d'orange
+TK-00313,Bananes
+TK-00313,Céréales
+TK-00313,Baguette
+TK-00314,Yaourts
+TK-00314,Eau
+TK-00314,Saucisses
+TK-00314,Tomates
+TK-00314,Baguette
+TK-00314,Salade
+TK-00314,Bière
+TK-00315,Saucisses
+TK-00315,Eau
+TK-00316,Lait
+TK-00317,Pâtes
+TK-00317,Sauce tomate
+TK-00317,Eau
+TK-00317,Café
+TK-00317,Confiture
+TK-00317,Beurre
+TK-00317,Lait
+TK-00317,Fromage râpé
+TK-00317,Pommes
+TK-00318,Cacahuètes
+TK-00318,Yaourts
+TK-00318,Soda
+TK-00318,Céréales
+TK-00318,Bananes
+TK-00318,Chips
+TK-00318,Lait
+TK-00318,Bière
+TK-00319,Eau
+TK-00320,Eau
+TK-00320,Café
+TK-00320,Tomates
+TK-00320,Baguette
+TK-00320,Salade
+TK-00321,Eau
+TK-00321,Café
+TK-00321,Beurre
+TK-00321,Baguette
+TK-00321,Croissants
+TK-00322,Pâtes
+TK-00322,Sauce tomate
+TK-00322,Eau
+TK-00322,Bananes
+TK-00322,Fromage râpé
+TK-00323,Oeufs
+TK-00323,Café
+TK-00323,Jus d'orange
+TK-00323,Céréales
+TK-00323,Bananes
+TK-00323,Dentifrice
+TK-00323,Papier toilette
+TK-00323,Shampoing
+TK-00323,Lait
+TK-00323,Pommes
+TK-00324,Soda
+TK-00324,Eau
+TK-00324,Bananes
+TK-00325,Yaourts
+TK-00325,Eau
+TK-00325,Jus d'orange
+TK-00325,Saucisses
+TK-00325,Céréales
+TK-00325,Lait
+TK-00325,Bière
+TK-00325,Pommes
+TK-00326,Yaourts
+TK-00326,Eau
+TK-00326,Café
+TK-00326,Jus d'orange
+TK-00326,Céréales
+TK-00326,Bananes
+TK-00326,Beurre
+TK-00326,Baguette
+TK-00326,Lait
+TK-00327,Bananes
+TK-00327,Jus d'orange
+TK-00327,Yaourts
+TK-00327,Céréales
+TK-00328,Yaourts
+TK-00328,Eau
+TK-00328,Café
+TK-00328,Jus d'orange
+TK-00328,Céréales
+TK-00328,Bananes
+TK-00328,Beurre
+TK-00328,Baguette
+TK-00328,Lait
+TK-00328,Croissants
+TK-00329,Cacahuètes
+TK-00329,Eau
+TK-00329,Soda
+TK-00329,Chips
+TK-00329,Bière
+TK-00330,Yaourts
+TK-00330,Soda
+TK-00331,Oeufs
+TK-00331,Eau
+TK-00331,Riz
+TK-00331,Jambon
+TK-00331,Pommes
+TK-00332,Yaourts
+TK-00332,Eau
+TK-00332,Saucisses
+TK-00332,Tomates
+TK-00332,Salade
+TK-00332,Lait
+TK-00332,Bière
+TK-00332,Steak haché
+TK-00333,Café
+TK-00333,Lait
+TK-00333,Eau
+TK-00333,Confiture
+TK-00334,Oeufs
+TK-00334,Céréales
+TK-00334,Bananes
+TK-00334,Tomates
+TK-00334,Baguette
+TK-00334,Salade
+TK-00334,Lait
+TK-00335,Oeufs
+TK-00335,Eau
+TK-00335,Riz
+TK-00335,Bananes
+TK-00335,Jambon
+TK-00335,Pommes
+TK-00336,Yaourts
+TK-00336,Eau
+TK-00336,Café
+TK-00336,Jus d'orange
+TK-00336,Céréales
+TK-00336,Bananes
+TK-00336,Beurre
+TK-00336,Baguette
+TK-00336,Lait
+TK-00336,Pommes
+TK-00337,Shampoing
+TK-00337,Papier toilette
+TK-00337,Eau
+TK-00337,Dentifrice
+TK-00338,Oeufs
+TK-00338,Pâtes
+TK-00338,Sauce tomate
+TK-00338,Café
+TK-00338,Bananes
+TK-00338,Fromage râpé
+TK-00339,Cacahuètes
+TK-00339,Bière
+TK-00339,Chips
+TK-00340,Oeufs
+TK-00340,Tomates
+TK-00340,Jambon
+TK-00340,Salade
+TK-00340,Pommes
+TK-00341,Cacahuètes
+TK-00341,Eau
+TK-00341,Bananes
+TK-00341,Lait
+TK-00341,Bière
+TK-00342,Pâtes
+TK-00342,Eau
+TK-00342,Sauce tomate
+TK-00342,Baguette
+TK-00342,Steak haché
+TK-00343,Tomates
+TK-00343,Eau
+TK-00343,Salade
+TK-00344,Eau
+TK-00344,Bananes
+TK-00345,Lait
+TK-00345,Yaourts
+TK-00345,Bananes
+TK-00346,Pâtes
+TK-00346,Eau
+TK-00346,Yaourts
+TK-00346,Lait
+TK-00346,Fromage râpé
+TK-00346,Pommes
+TK-00347,Yaourts
+TK-00347,Bière
+TK-00347,Chips
+TK-00347,Eau
+TK-00348,Oeufs
+TK-00348,Eau
+TK-00348,Saucisses
+TK-00348,Bananes
+TK-00348,Tomates
+TK-00349,Oeufs
+TK-00349,Cacahuètes
+TK-00349,Soda
+TK-00349,Bière
+TK-00349,Pommes
+TK-00350,Eau
+TK-00350,Jus d'orange
+TK-00350,Céréales
+TK-00350,Bananes
+TK-00350,Tomates
+TK-00350,Salade
+TK-00350,Lait
+TK-00351,Eau
+TK-00351,Saucisses
+TK-00351,Tomates
+TK-00351,Salade
+TK-00351,Bière
+TK-00352,Shampoing
+TK-00352,Dentifrice
+TK-00352,Confiture
+TK-00352,Papier toilette
+TK-00352,Baguette
+TK-00352,Lait
+TK-00352,Pommes
+TK-00353,Jambon
+TK-00354,Jus d'orange
+TK-00354,Jambon
+TK-00354,Salade
+TK-00355,Tomates
+TK-00355,Eau
+TK-00355,Salade
+TK-00356,Cacahuètes
+TK-00356,Eau
+TK-00356,Dentifrice
+TK-00356,Papier toilette
+TK-00356,Chips
+TK-00356,Shampoing
+TK-00356,Bière
+TK-00357,Eau
+TK-00357,Saucisses
+TK-00357,Bananes
+TK-00357,Confiture
+TK-00357,Baguette
+TK-00357,Lait
+TK-00357,Bière
+TK-00357,Steak haché
+TK-00358,Pâtes
+TK-00358,Sauce tomate
+TK-00358,Eau
+TK-00358,Saucisses
+TK-00358,Tomates
+TK-00358,Fromage râpé
+TK-00358,Steak haché
+TK-00359,Eau
+TK-00359,Café
+TK-00359,Confiture
+TK-00359,Beurre
+TK-00359,Lait
+TK-00360,Tomates
+TK-00360,Baguette
+TK-00360,Salade
+TK-00360,Eau
+TK-00361,Riz
+TK-00361,Bananes
+TK-00362,Café
+TK-00362,Confiture
+TK-00362,Tomates
+TK-00362,Baguette
+TK-00362,Lait
+TK-00362,Pommes
+TK-00363,Riz
+TK-00363,Yaourts
+TK-00363,Eau
+TK-00364,Soda
+TK-00364,Bananes
+TK-00364,Cacahuètes
+TK-00364,Bière
+TK-00365,Pâtes
+TK-00365,Sauce tomate
+TK-00365,Bananes
+TK-00365,Fromage râpé
+TK-00365,Steak haché
+TK-00366,Pommes
+TK-00366,Pâtes
+TK-00366,Sauce tomate
+TK-00366,Steak haché
+TK-00367,Oeufs
+TK-00367,Cacahuètes
+TK-00367,Saucisses
+TK-00367,Bière
+TK-00368,Pommes
+TK-00369,Lait
+TK-00369,Croissants
+TK-00369,Confiture
+TK-00370,Tomates
+TK-00370,Eau
+TK-00370,Jambon
+TK-00370,Salade
+TK-00371,Sauce tomate
+TK-00371,Fromage râpé
+TK-00371,Steak haché
+TK-00372,Eau
+TK-00372,Jus d'orange
+TK-00372,Saucisses
+TK-00372,Céréales
+TK-00372,Lait
+TK-00373,Eau
+TK-00373,Soda
+TK-00373,Café
+TK-00373,Confiture
+TK-00373,Beurre
+TK-00373,Baguette
+TK-00373,Croissants
+TK-00374,Eau
+TK-00374,Soda
+TK-00374,Saucisses
+TK-00374,Bière
+TK-00374,Steak haché
+TK-00375,Eau
+TK-00375,Café
+TK-00375,Céréales
+TK-00375,Salade
+TK-00375,Lait
+TK-00375,Bière
+TK-00375,Steak haché
+TK-00376,Jus d'orange
+TK-00376,Saucisses
+TK-00376,Eau
+TK-00376,Steak haché
+TK-00377,Saucisses
+TK-00377,Bananes
+TK-00377,Tomates
+TK-00377,Lait
+TK-00377,Bière
+TK-00378,Yaourts
+TK-00378,Pâtes
+TK-00378,Eau
+TK-00378,Jus d'orange
+TK-00378,Céréales
+TK-00378,Bananes
+TK-00378,Lait
+TK-00378,Fromage râpé
+TK-00379,Pâtes
+TK-00379,Sauce tomate
+TK-00379,Eau
+TK-00379,Yaourts
+TK-00379,Papier toilette
+TK-00379,Shampoing
+TK-00379,Fromage râpé
+TK-00379,Steak haché
+TK-00380,Tomates
+TK-00380,Jus d'orange
+TK-00380,Salade
+TK-00381,Eau
+TK-00381,Saucisses
+TK-00381,Papier toilette
+TK-00381,Baguette
+TK-00381,Shampoing
+TK-00381,Bière
+TK-00381,Steak haché
+TK-00382,Eau
+TK-00383,Salade
+TK-00384,Yaourts
+TK-00384,Eau
+TK-00384,Bananes
+TK-00384,Céréales
+TK-00384,Lait
+TK-00385,Lait
+TK-00385,Jus d'orange
+TK-00385,Yaourts
+TK-00386,Café
+TK-00386,Riz
+TK-00386,Bananes
+TK-00386,Confiture
+TK-00386,Beurre
+TK-00386,Baguette
+TK-00386,Pommes
+TK-00387,Lait
+TK-00387,Pâtes
+TK-00387,Eau
+TK-00388,Shampoing
+TK-00388,Papier toilette
+TK-00388,Eau
+TK-00388,Dentifrice
+TK-00389,Eau
+TK-00389,Jus d'orange
+TK-00389,Céréales
+TK-00389,Bananes
+TK-00389,Lait
+TK-00389,Pommes
+TK-00390,Yaourts
+TK-00390,Eau
+TK-00390,Café
+TK-00390,Céréales
+TK-00390,Confiture
+TK-00390,Lait
+TK-00390,Pommes
+TK-00391,Lait
+TK-00391,Riz
+TK-00391,Eau
+TK-00391,Baguette
+TK-00392,Cacahuètes
+TK-00392,Bière
+TK-00392,Chips
+TK-00392,Eau
+TK-00393,Yaourts
+TK-00393,Jus d'orange
+TK-00393,Céréales
+TK-00393,Confiture
+TK-00393,Beurre
+TK-00393,Baguette
+TK-00393,Lait
+TK-00393,Croissants
+TK-00394,Eau
+TK-00395,Beurre
+TK-00395,Croissants
+TK-00395,Confiture
+TK-00396,Riz
+TK-00396,Céréales
+TK-00397,Bière
+TK-00398,Eau
+TK-00398,Riz
+TK-00398,Bananes
+TK-00398,Baguette
+TK-00398,Jambon
+TK-00399,Soda
+TK-00400,Cacahuètes
+TK-00400,Bière
+TK-00400,Chips
+TK-00401,Pâtes
+TK-00401,Eau
+TK-00401,Sauce tomate
+TK-00401,Yaourts
+TK-00401,Pommes
+TK-00401,Baguette
+TK-00401,Fromage râpé
+TK-00401,Steak haché
+TK-00402,Café
+TK-00402,Céréales
+TK-00402,Confiture
+TK-00402,Beurre
+TK-00402,Lait
+TK-00402,Croissants
+TK-00402,Pommes
+TK-00403,Oeufs
+TK-00403,Café
+TK-00403,Bananes
+TK-00403,Confiture
+TK-00403,Beurre
+TK-00403,Baguette
+TK-00403,Lait
+TK-00403,Croissants
+TK-00403,Pommes
+TK-00404,Lait
+TK-00404,Yaourts
+TK-00404,Céréales
+TK-00405,Cacahuètes
+TK-00405,Pâtes
+TK-00405,Chips
+TK-00405,Fromage râpé
+TK-00405,Bière
+TK-00406,Eau
+TK-00407,Cacahuètes
+TK-00407,Yaourts
+TK-00407,Chips
+TK-00407,Baguette
+TK-00407,Lait
+TK-00407,Bière
+TK-00408,Eau
+TK-00408,Jus d'orange
+TK-00408,Bananes
+TK-00408,Céréales
+TK-00408,Lait
+TK-00409,Cacahuètes
+TK-00409,Yaourts
+TK-00409,Eau
+TK-00409,Soda
+TK-00409,Jus d'orange
+TK-00409,Céréales
+TK-00409,Lait
+TK-00409,Bière
+TK-00410,Eau
+TK-00410,Bananes
+TK-00410,Pommes
+TK-00411,Oeufs
+TK-00411,Soda
+TK-00411,Jus d'orange
+TK-00411,Jambon
+TK-00411,Salade
+TK-00412,Yaourts
+TK-00412,Eau
+TK-00412,Jus d'orange
+TK-00412,Bananes
+TK-00412,Céréales
+TK-00413,Pommes
+TK-00413,Salade
+TK-00413,Steak haché
+TK-00414,Cacahuètes
+TK-00414,Eau
+TK-00414,Soda
+TK-00414,Bananes
+TK-00414,Chips
+TK-00414,Bière
+TK-00415,Jus d'orange
+TK-00415,Bière
+TK-00415,Chips
+TK-00416,Lait
+TK-00416,Eau
+TK-00416,Céréales
+TK-00417,Cacahuètes
+TK-00417,Eau
+TK-00417,Soda
+TK-00417,Bananes
+TK-00417,Chips
+TK-00417,Bière
+TK-00418,Oeufs
+TK-00418,Riz
+TK-00418,Tomates
+TK-00418,Baguette
+TK-00418,Jambon
+TK-00419,Eau
+TK-00419,Jus d'orange
+TK-00419,Confiture
+TK-00419,Beurre
+TK-00419,Baguette
+TK-00419,Lait
+TK-00420,Saucisses
+TK-00420,Eau
+TK-00420,Steak haché
+TK-00421,Lait
+TK-00421,Yaourts
+TK-00421,Eau
+TK-00421,Céréales
+TK-00422,Lait
+TK-00422,Eau
+TK-00422,Chips
+TK-00422,Baguette
+TK-00423,Oeufs
+TK-00423,Pâtes
+TK-00423,Sauce tomate
+TK-00423,Eau
+TK-00423,Confiture
+TK-00423,Beurre
+TK-00423,Baguette
+TK-00423,Lait
+TK-00423,Fromage râpé
+TK-00424,Yaourts
+TK-00424,Pâtes
+TK-00424,Sauce tomate
+TK-00424,Eau
+TK-00424,Bananes
+TK-00424,Céréales
+TK-00424,Lait
+TK-00424,Fromage râpé
+TK-00425,Pâtes
+TK-00425,Sauce tomate
+TK-00425,Pommes
+TK-00425,Bananes
+TK-00425,Fromage râpé
+TK-00425,Steak haché
+TK-00426,Eau
+TK-00426,Soda
+TK-00427,Lait
+TK-00427,Jus d'orange
+TK-00427,Yaourts
+TK-00427,Céréales
+TK-00428,Cacahuètes
+TK-00428,Bière
+TK-00428,Chips
+TK-00428,Eau
+TK-00429,Lait
+TK-00429,Jus d'orange
+TK-00429,Eau
+TK-00429,Céréales
+TK-00430,Pâtes
+TK-00430,Sauce tomate
+TK-00430,Eau
+TK-00430,Bananes
+TK-00430,Baguette
+TK-00430,Fromage râpé
+TK-00430,Chips
+TK-00431,Oeufs
+TK-00431,Riz
+TK-00431,Eau
+TK-00432,Oeufs
+TK-00432,Eau
+TK-00432,Café
+TK-00432,Bananes
+TK-00432,Confiture
+TK-00432,Beurre
+TK-00432,Baguette
+TK-00432,Pommes
+TK-00433,Papier toilette
+TK-00433,Eau
+TK-00433,Dentifrice
+TK-00434,Tomates
+TK-00434,Baguette
+TK-00434,Salade
+TK-00434,Eau
+TK-00435,Eau
+TK-00436,Pâtes
+TK-00436,Sauce tomate
+TK-00436,Eau
+TK-00436,Bananes
+TK-00436,Dentifrice
+TK-00436,Papier toilette
+TK-00436,Shampoing
+TK-00436,Fromage râpé
+TK-00436,Pommes
+TK-00437,Pâtes
+TK-00437,Sauce tomate
+TK-00437,Eau
+TK-00437,Bananes
+TK-00437,Fromage râpé
+TK-00438,Bananes
+TK-00439,Pâtes
+TK-00439,Sauce tomate
+TK-00439,Eau
+TK-00439,Dentifrice
+TK-00439,Papier toilette
+TK-00439,Shampoing
+TK-00439,Fromage râpé
+TK-00440,Yaourts
+TK-00440,Eau
+TK-00440,Shampoing
+TK-00440,Céréales
+TK-00440,Dentifrice
+TK-00440,Papier toilette
+TK-00440,Lait
+TK-00440,Pommes
+TK-00441,Oeufs
+TK-00441,Eau
+TK-00441,Salade
+TK-00442,Lait
+TK-00442,Eau
+TK-00443,Pâtes
+TK-00443,Sauce tomate
+TK-00443,Café
+TK-00443,Confiture
+TK-00443,Beurre
+TK-00443,Baguette
+TK-00443,Lait
+TK-00443,Croissants
+TK-00443,Fromage râpé
+TK-00443,Pommes
+TK-00444,Cacahuètes
+TK-00444,Bière
+TK-00444,Chips
+TK-00444,Eau
+TK-00445,Yaourts
+TK-00445,Eau
+TK-00445,Jus d'orange
+TK-00445,Céréales
+TK-00445,Bananes
+TK-00445,Lait
+TK-00446,Lait
+TK-00446,Jus d'orange
+TK-00446,Eau
+TK-00447,Café
+TK-00447,Beurre
+TK-00447,Baguette
+TK-00447,Confiture
+TK-00448,Oeufs
+TK-00448,Eau
+TK-00448,Bananes
+TK-00448,Tomates
+TK-00448,Baguette
+TK-00448,Lait
+TK-00449,Eau
+TK-00449,Café
+TK-00449,Bananes
+TK-00449,Confiture
+TK-00449,Tomates
+TK-00449,Beurre
+TK-00449,Baguette
+TK-00449,Jambon
+TK-00449,Salade
+TK-00450,Yaourts
+TK-00450,Pommes
+TK-00451,Eau
+TK-00451,Confiture
+TK-00451,Beurre
+TK-00451,Baguette
+TK-00451,Lait
+TK-00451,Croissants
+TK-00452,Oeufs
+TK-00452,Eau
+TK-00452,Tomates
+TK-00452,Baguette
+TK-00452,Salade
+TK-00453,Eau
+TK-00453,Dentifrice
+TK-00453,Papier toilette
+TK-00453,Chips
+TK-00453,Shampoing
+TK-00453,Bière
+TK-00454,Oeufs
+TK-00455,Eau
+TK-00455,Café
+TK-00455,Saucisses
+TK-00455,Confiture
+TK-00455,Tomates
+TK-00455,Beurre
+TK-00455,Baguette
+TK-00455,Lait
+TK-00456,Yaourts
+TK-00456,Pâtes
+TK-00456,Sauce tomate
+TK-00457,Eau
+TK-00457,Café
+TK-00457,Confiture
+TK-00457,Beurre
+TK-00457,Baguette
+TK-00457,Lait
+TK-00457,Croissants
+TK-00458,Yaourts
+TK-00458,Eau
+TK-00458,Salade
+TK-00459,Café
+TK-00459,Bananes
+TK-00459,Confiture
+TK-00459,Beurre
+TK-00459,Croissants
+TK-00460,Tomates
+TK-00461,Oeufs
+TK-00461,Soda
+TK-00461,Bananes
+TK-00461,Tomates
+TK-00461,Jambon
+TK-00461,Salade
+TK-00462,Lait
+TK-00462,Bananes
+TK-00462,Yaourts
+TK-00462,Céréales
+TK-00463,Lait
+TK-00463,Bananes
+TK-00463,Yaourts
+TK-00463,Céréales
+TK-00464,Oeufs
+TK-00464,Eau
+TK-00464,Tomates
+TK-00464,Baguette
+TK-00464,Jambon
+TK-00464,Salade
+TK-00465,Lait
+TK-00465,Jus d'orange
+TK-00465,Céréales
+TK-00466,Oeufs
+TK-00466,Yaourts
+TK-00466,Eau
+TK-00466,Jus d'orange
+TK-00466,Céréales
+TK-00466,Bananes
+TK-00466,Tomates
+TK-00466,Jambon
+TK-00466,Salade
+TK-00466,Lait
+TK-00467,Pâtes
+TK-00467,Sauce tomate
+TK-00467,Steak haché
+TK-00468,Cacahuètes
+TK-00468,Oeufs
+TK-00468,Eau
+TK-00468,Tomates
+TK-00468,Chips
+TK-00468,Baguette
+TK-00468,Salade
+TK-00468,Bière
+TK-00469,Yaourts
+TK-00469,Eau
+TK-00469,Jus d'orange
+TK-00469,Lait
+TK-00469,Pommes
+TK-00470,Bananes
+TK-00470,Cacahuètes
+TK-00470,Baguette
+TK-00470,Chips
+TK-00471,Café
+TK-00471,Confiture
+TK-00471,Beurre
+TK-00471,Baguette
+TK-00471,Lait
+TK-00472,Oeufs
+TK-00472,Eau
+TK-00472,Café
+TK-00472,Confiture
+TK-00472,Tomates
+TK-00472,Beurre
+TK-00473,Oeufs
+TK-00473,Eau
+TK-00473,Riz
+TK-00473,Baguette
+TK-00473,Jambon
+TK-00474,Bananes
+TK-00474,Oeufs
+TK-00474,Jambon
+TK-00474,Salade
+TK-00475,Café
+TK-00475,Beurre
+TK-00475,Lait
+TK-00475,Confiture
+TK-00476,Riz
+TK-00476,Eau
+TK-00477,Cacahuètes
+TK-00477,Eau
+TK-00477,Bananes
+TK-00477,Baguette
+TK-00477,Chips
+TK-00478,Oeufs
+TK-00478,Sauce tomate
+TK-00478,Eau
+TK-00478,Tomates
+TK-00478,Salade
+TK-00478,Fromage râpé
+TK-00479,Oeufs
+TK-00479,Pâtes
+TK-00479,Sauce tomate
+TK-00479,Eau
+TK-00479,Tomates
+TK-00479,Salade
+TK-00479,Fromage râpé
+TK-00480,Oeufs
+TK-00480,Tomates
+TK-00480,Salade
+TK-00480,Bière
+TK-00480,Steak haché
+TK-00481,Eau
+TK-00481,Bananes
+TK-00481,Dentifrice
+TK-00481,Papier toilette
+TK-00481,Shampoing
+TK-00482,Eau
+TK-00482,Saucisses
+TK-00482,Bananes
+TK-00482,Tomates
+TK-00482,Bière
+TK-00482,Steak haché
+TK-00483,Eau
+TK-00483,Dentifrice
+TK-00484,Soda
+TK-00484,Café
+TK-00484,Confiture
+TK-00484,Papier toilette
+TK-00484,Beurre
+TK-00484,Baguette
+TK-00484,Shampoing
+TK-00484,Croissants
+TK-00484,Pommes
+TK-00485,Café
+TK-00485,Bananes
+TK-00485,Confiture
+TK-00485,Beurre
+TK-00485,Baguette
+TK-00485,Lait
+TK-00485,Croissants
+TK-00485,Pommes
+TK-00486,Yaourts
+TK-00486,Bananes
+TK-00486,Pommes
+TK-00487,Eau
+TK-00487,Dentifrice
+TK-00487,Papier toilette
+TK-00487,Beurre
+TK-00487,Baguette
+TK-00487,Shampoing
+TK-00487,Pommes
+TK-00488,Shampoing
+TK-00488,Lait
+TK-00488,Eau
+TK-00489,Pâtes
+TK-00489,Sauce tomate
+TK-00489,Eau
+TK-00489,Baguette
+TK-00489,Fromage râpé
+TK-00490,Oeufs
+TK-00490,Saucisses
+TK-00490,Confiture
+TK-00490,Beurre
+TK-00490,Baguette
+TK-00490,Bière
+TK-00490,Steak haché
+TK-00491,Shampoing
+TK-00491,Papier toilette
+TK-00491,Eau
+TK-00491,Dentifrice
+TK-00492,Fromage râpé
+TK-00493,Oeufs
+TK-00493,Eau
+TK-00493,Café
+TK-00493,Bananes
+TK-00493,Tomates
+TK-00493,Beurre
+TK-00493,Baguette
+TK-00493,Salade
+TK-00493,Lait
+TK-00493,Pommes
+TK-00494,Oeufs
+TK-00494,Saucisses
+TK-00494,Tomates
+TK-00494,Salade
+TK-00494,Bière
+TK-00494,Steak haché
+TK-00495,Tomates
+TK-00495,Jus d'orange
+TK-00495,Bananes
+TK-00495,Salade
+TK-00496,Yaourts
+TK-00496,Jus d'orange
+TK-00496,Saucisses
+TK-00496,Céréales
+TK-00496,Tomates
+TK-00496,Lait
+TK-00496,Steak haché
+TK-00497,Café
+TK-00497,Beurre
+TK-00497,Eau
+TK-00497,Confiture
+TK-00498,Bière
+TK-00499,Oeufs
+TK-00499,Eau
+TK-00499,Soda
+TK-00499,Café
+TK-00499,Confiture
+TK-00499,Baguette
+TK-00499,Jambon
+TK-00499,Salade
+TK-00500,Yaourts
+TK-00500,Eau
+TK-00500,Jus d'orange
+TK-00500,Bananes
+TK-00500,Céréales
+TK-00501,Oeufs
+TK-00501,Pâtes
+TK-00501,Sauce tomate
+TK-00501,Bananes
+TK-00501,Jambon
+TK-00501,Salade
+TK-00501,Fromage râpé
+TK-00502,Oeufs
+TK-00502,Eau
+TK-00502,Soda
+TK-00502,Riz
+TK-00502,Bananes
+TK-00503,Pâtes
+TK-00503,Sauce tomate
+TK-00503,Saucisses
+TK-00503,Bananes
+TK-00503,Tomates
+TK-00503,Steak haché
+TK-00504,Oeufs
+TK-00504,Riz
+TK-00504,Eau
+TK-00505,Cacahuètes
+TK-00505,Eau
+TK-00505,Soda
+TK-00505,Café
+TK-00505,Confiture
+TK-00505,Chips
+TK-00505,Beurre
+TK-00505,Baguette
+TK-00505,Lait
+TK-00505,Bière
+TK-00506,Eau
+TK-00506,Confiture
+TK-00506,Beurre
+TK-00506,Baguette
+TK-00506,Lait
+TK-00507,Cacahuètes
+TK-00507,Eau
+TK-00507,Bananes
+TK-00507,Papier toilette
+TK-00507,Shampoing
+TK-00507,Chips
+TK-00508,Yaourts
+TK-00508,Bananes
+TK-00509,Yaourts
+TK-00510,Shampoing
+TK-00510,Papier toilette
+TK-00510,Bananes
+TK-00510,Dentifrice
+TK-00511,Eau
+TK-00511,Dentifrice
+TK-00511,Papier toilette
+TK-00511,Baguette
+TK-00511,Shampoing
+TK-00512,Oeufs
+TK-00512,Eau
+TK-00512,Jus d'orange
+TK-00512,Saucisses
+TK-00512,Jambon
+TK-00512,Salade
+TK-00512,Bière
+TK-00512,Steak haché
+TK-00513,Cacahuètes
+TK-00513,Eau
+TK-00513,Soda
+TK-00513,Chips
+TK-00513,Bière
+TK-00513,Pommes
+TK-00514,Oeufs
+TK-00514,Sauce tomate
+TK-00514,Tomates
+TK-00514,Baguette
+TK-00514,Salade
+TK-00514,Steak haché
+TK-00515,Eau
+TK-00515,Dentifrice
+TK-00515,Papier toilette
+TK-00515,Shampoing
+TK-00515,Pommes
+TK-00516,Cacahuètes
+TK-00516,Pâtes
+TK-00516,Eau
+TK-00516,Oeufs
+TK-00516,Bananes
+TK-00516,Chips
+TK-00516,Fromage râpé
+TK-00516,Bière
+TK-00517,Lait
+TK-00518,Pâtes
+TK-00518,Sauce tomate
+TK-00518,Jus d'orange
+TK-00518,Céréales
+TK-00518,Bananes
+TK-00518,Lait
+TK-00519,Eau
+TK-00519,Bananes
+TK-00520,Café
+TK-00520,Beurre
+TK-00520,Baguette
+TK-00520,Lait
+TK-00521,Jus d'orange
+TK-00521,Riz
+TK-00521,Saucisses
+TK-00521,Bière
+TK-00521,Steak haché
+TK-00522,Yaourts
+TK-00522,Jus d'orange
+TK-00522,Bananes
+TK-00522,Confiture
+TK-00522,Beurre
+TK-00522,Baguette
+TK-00522,Lait
+TK-00522,Croissants
+TK-00523,Soda
+TK-00523,Cacahuètes
+TK-00523,Eau
+TK-00523,Chips
+TK-00524,Papier toilette
+TK-00524,Eau
+TK-00525,Saucisses
+TK-00525,Bière
+TK-00525,Salade
+TK-00525,Steak haché
+TK-00526,Eau
+TK-00527,Yaourts
+TK-00527,Eau
+TK-00527,Café
+TK-00527,Confiture
+TK-00527,Beurre
+TK-00527,Lait
+TK-00528,Lait
+TK-00528,Yaourts
+TK-00528,Eau
+TK-00528,Baguette
+TK-00529,Pâtes
+TK-00529,Sauce tomate
+TK-00529,Pommes
+TK-00530,Oeufs
+TK-00530,Eau
+TK-00530,Jus d'orange
+TK-00530,Riz
+TK-00530,Saucisses
+TK-00530,Jambon
+TK-00530,Bière
+TK-00530,Steak haché
+TK-00531,Shampoing
+TK-00531,Papier toilette
+TK-00531,Dentifrice
+TK-00532,Eau
+TK-00532,Saucisses
+TK-00532,Dentifrice
+TK-00532,Tomates
+TK-00532,Papier toilette
+TK-00532,Shampoing
+TK-00532,Steak haché
+TK-00533,Pâtes
+TK-00533,Sauce tomate
+TK-00533,Café
+TK-00533,Fromage râpé
+TK-00533,Steak haché
+TK-00534,Oeufs
+TK-00534,Pâtes
+TK-00534,Sauce tomate
+TK-00534,Pommes
+TK-00534,Riz
+TK-00534,Jambon
+TK-00534,Fromage râpé
+TK-00534,Steak haché
+TK-00535,Oeufs
+TK-00535,Eau
+TK-00535,Soda
+TK-00535,Café
+TK-00535,Confiture
+TK-00535,Beurre
+TK-00535,Baguette
+TK-00535,Lait
+TK-00536,Pâtes
+TK-00536,Eau
+TK-00536,Steak haché
+TK-00537,Yaourts
+TK-00537,Eau
+TK-00537,Café
+TK-00537,Jus d'orange
+TK-00537,Bananes
+TK-00537,Confiture
+TK-00537,Baguette
+TK-00537,Lait
+TK-00538,Cacahuètes
+TK-00538,Yaourts
+TK-00538,Saucisses
+TK-00538,Tomates
+TK-00538,Chips
+TK-00538,Salade
+TK-00538,Bière
+TK-00539,Saucisses
+TK-00539,Eau
+TK-00539,Salade
+TK-00539,Steak haché
+TK-00540,Yaourts
+TK-00540,Eau
+TK-00540,Tomates
+TK-00540,Baguette
+TK-00540,Salade
+TK-00541,Cacahuètes
+TK-00541,Eau
+TK-00541,Bananes
+TK-00541,Chips
+TK-00541,Pommes
+TK-00542,Oeufs
+TK-00542,Eau
+TK-00542,Confiture
+TK-00542,Tomates
+TK-00542,Baguette
+TK-00542,Jambon
+TK-00542,Salade
+TK-00543,Cacahuètes
+TK-00543,Eau
+TK-00543,Chips
+TK-00543,Bière
+TK-00543,Pommes
+TK-00544,Pâtes
+TK-00544,Sauce tomate
+TK-00544,Eau
+TK-00544,Yaourts
+TK-00544,Bananes
+TK-00544,Fromage râpé
+TK-00545,Café
+TK-00545,Lait
+TK-00545,Croissants
+TK-00545,Baguette
+TK-00546,Eau
+TK-00546,Confiture
+TK-00546,Beurre
+TK-00546,Baguette
+TK-00546,Croissants
+TK-00547,Oeufs
+TK-00547,Eau
+TK-00547,Bananes
+TK-00547,Tomates
+TK-00547,Jambon
+TK-00547,Salade
+TK-00548,Yaourts
+TK-00548,Pâtes
+TK-00548,Jus d'orange
+TK-00548,Céréales
+TK-00548,Lait
+TK-00548,Fromage râpé
+TK-00549,Café
+TK-00549,Jus d'orange
+TK-00549,Confiture
+TK-00549,Beurre
+TK-00549,Baguette
+TK-00549,Croissants
+TK-00550,Eau
+TK-00550,Dentifrice
+TK-00550,Papier toilette
+TK-00550,Chips
+TK-00550,Shampoing
+TK-00550,Bière
+TK-00551,Soda
+TK-00551,Bananes
+TK-00551,Confiture
+TK-00551,Beurre
+TK-00551,Baguette
+TK-00551,Croissants
+TK-00552,Jus d'orange
+TK-00552,Pâtes
+TK-00552,Fromage râpé
+TK-00552,Sauce tomate
+TK-00553,Baguette
+TK-00553,Eau
+TK-00554,Baguette
+TK-00555,Yaourts
+TK-00555,Eau
+TK-00555,Saucisses
+TK-00555,Tomates
+TK-00555,Salade
+TK-00555,Bière
+TK-00555,Steak haché
+TK-00556,Cacahuètes
+TK-00556,Eau
+TK-00556,Bière
+TK-00556,Pommes
+TK-00557,Café
+TK-00557,Jus d'orange
+TK-00557,Céréales
+TK-00557,Bananes
+TK-00557,Dentifrice
+TK-00557,Papier toilette
+TK-00557,Shampoing
+TK-00557,Lait
+TK-00558,Yaourts
+TK-00558,Eau
+TK-00558,Jus d'orange
+TK-00558,Céréales
+TK-00558,Bananes
+TK-00558,Lait
+TK-00559,Oeufs
+TK-00559,Eau
+TK-00559,Tomates
+TK-00559,Jambon
+TK-00559,Salade
+TK-00560,Eau
+TK-00560,Café
+TK-00560,Jus d'orange
+TK-00560,Confiture
+TK-00560,Lait
+TK-00561,Yaourts
+TK-00561,Jus d'orange
+TK-00561,Pommes
+TK-00561,Saucisses
+TK-00561,Céréales
+TK-00561,Bananes
+TK-00561,Tomates
+TK-00561,Salade
+TK-00561,Lait
+TK-00561,Bière
+TK-00561,Steak haché
+TK-00562,Cacahuètes
+TK-00562,Soda
+TK-00562,Dentifrice
+TK-00562,Papier toilette
+TK-00562,Shampoing
+TK-00562,Bière
+TK-00563,Yaourts
+TK-00563,Jus d'orange
+TK-00563,Bananes
+TK-00563,Céréales
+TK-00563,Lait
+TK-00564,Oeufs
+TK-00564,Yaourts
+TK-00564,Eau
+TK-00564,Céréales
+TK-00564,Lait
+TK-00565,Shampoing
+TK-00565,Papier toilette
+TK-00565,Eau
+TK-00565,Dentifrice
+TK-00566,Baguette
+TK-00566,Eau
+TK-00567,Yaourts
+TK-00567,Eau
+TK-00567,Soda
+TK-00567,Café
+TK-00567,Beurre
+TK-00567,Baguette
+TK-00568,Baguette
+TK-00568,Eau
+TK-00569,Oeufs
+TK-00569,Eau
+TK-00569,Bananes
+TK-00569,Dentifrice
+TK-00569,Papier toilette
+TK-00569,Shampoing
+TK-00570,Oeufs
+TK-00570,Eau
+TK-00570,Riz
+TK-00570,Bananes
+TK-00570,Baguette
+TK-00570,Jambon
+TK-00571,Tomates
+TK-00571,Eau
+TK-00571,Jambon
+TK-00572,Jus d'orange
+TK-00572,Bananes
+TK-00573,Papier toilette
+TK-00573,Bananes
+TK-00573,Dentifrice
+TK-00574,Eau
+TK-00574,Café
+TK-00574,Confiture
+TK-00574,Beurre
+TK-00574,Baguette
+TK-00574,Croissants
+TK-00575,Croissants
+TK-00576,Eau
+TK-00576,Bananes
+TK-00577,Soda
+TK-00577,Oeufs
+TK-00577,Jambon
+TK-00577,Salade
+TK-00578,Oeufs
+TK-00578,Pâtes
+TK-00578,Eau
+TK-00578,Tomates
+TK-00578,Salade
+TK-00578,Fromage râpé
+TK-00579,Pâtes
+TK-00579,Sauce tomate
+TK-00579,Bananes
+TK-00579,Tomates
+TK-00579,Salade
+TK-00579,Fromage râpé
+TK-00579,Steak haché
+TK-00580,Cacahuètes
+TK-00580,Bière
+TK-00580,Chips
+TK-00580,Eau
+TK-00581,Oeufs
+TK-00581,Yaourts
+TK-00581,Eau
+TK-00581,Riz
+TK-00581,Céréales
+TK-00581,Bananes
+TK-00581,Lait
+TK-00582,Eau
+TK-00582,Bananes
+TK-00583,Café
+TK-00583,Confiture
+TK-00583,Beurre
+TK-00583,Baguette
+TK-00583,Lait
+TK-00584,Soda
+TK-00584,Bière
+TK-00584,Chips
+TK-00585,Yaourts
+TK-00585,Eau
+TK-00585,Café
+TK-00585,Bananes
+TK-00585,Céréales
+TK-00585,Beurre
+TK-00585,Baguette
+TK-00585,Croissants
+TK-00586,Eau
+TK-00586,Bananes
+TK-00586,Tomates
+TK-00586,Jambon
+TK-00586,Salade
+TK-00587,Oeufs
+TK-00587,Riz
+TK-00587,Eau
+TK-00587,Lait
+TK-00588,Eau
+TK-00588,Café
+TK-00588,Confiture
+TK-00588,Beurre
+TK-00588,Baguette
+TK-00588,Lait
+TK-00589,Yaourts
+TK-00589,Café
+TK-00589,Jus d'orange
+TK-00589,Céréales
+TK-00589,Bananes
+TK-00589,Confiture
+TK-00589,Beurre
+TK-00589,Baguette
+TK-00589,Lait
+TK-00590,Yaourts
+TK-00590,Pommes
+TK-00591,Yaourts
+TK-00591,Eau
+TK-00591,Jus d'orange
+TK-00591,Céréales
+TK-00591,Bananes
+TK-00591,Baguette
+TK-00591,Lait
+TK-00592,Tomates
+TK-00593,Yaourts
+TK-00593,Eau
+TK-00593,Céréales
+TK-00594,Cacahuètes
+TK-00594,Eau
+TK-00594,Saucisses
+TK-00594,Bière
+TK-00594,Chips
+TK-00594,Steak haché
+TK-00595,Pâtes
+TK-00595,Fromage râpé
+TK-00595,Sauce tomate
+TK-00596,Eau
+TK-00596,Saucisses
+TK-00596,Bananes
+TK-00596,Tomates
+TK-00596,Bière
+TK-00596,Steak haché
+TK-00597,Cacahuètes
+TK-00597,Oeufs
+TK-00597,Dentifrice
+TK-00597,Papier toilette
+TK-00597,Chips
+TK-00597,Bière
+TK-00598,Yaourts
+TK-00598,Eau
+TK-00598,Café
+TK-00598,Bananes
+TK-00598,Confiture
+TK-00598,Baguette
+TK-00599,Lait
+TK-00599,Baguette
+TK-00599,Céréales
+TK-00600,Cacahuètes
+TK-00600,Eau
+TK-00600,Chips
+TK-00600,Baguette
+TK-00600,Bière
+TK-00600,Pommes
+TK-00601,Eau
+TK-00601,Café
+TK-00601,Confiture
+TK-00601,Tomates
+TK-00601,Baguette
+TK-00601,Salade
+TK-00602,Croissants
+TK-00602,Baguette
+TK-00602,Eau
+TK-00603,Soda
+TK-00603,Riz
+TK-00603,Eau
+TK-00603,Jambon
+TK-00604,Oeufs
+TK-00604,Pâtes
+TK-00604,Sauce tomate
+TK-00604,Eau
+TK-00604,Bananes
+TK-00604,Tomates
+TK-00604,Salade
+TK-00605,Eau
+TK-00605,Café
+TK-00605,Confiture
+TK-00605,Beurre
+TK-00605,Baguette
+TK-00605,Lait
+TK-00605,Croissants
+TK-00605,Pommes
+TK-00606,Baguette
+TK-00606,Jus d'orange
+TK-00606,Oeufs
+TK-00606,Eau
+TK-00607,Eau
+TK-00607,Bananes
+TK-00607,Beurre
+TK-00607,Baguette
+TK-00607,Croissants
+TK-00608,Cacahuètes
+TK-00608,Eau
+TK-00608,Dentifrice
+TK-00608,Papier toilette
+TK-00608,Chips
+TK-00608,Bière
+TK-00609,Lait
+TK-00609,Bananes
+TK-00609,Oeufs
+TK-00609,Céréales
+TK-00610,Riz
+TK-00610,Eau
+TK-00610,Pommes
+TK-00611,Lait
+TK-00611,Eau
+TK-00612,Eau
+TK-00613,Eau
+TK-00613,Café
+TK-00613,Confiture
+TK-00613,Beurre
+TK-00613,Baguette
+TK-00613,Croissants
+TK-00614,Pâtes
+TK-00614,Sauce tomate
+TK-00614,Eau
+TK-00614,Tomates
+TK-00614,Jambon
+TK-00614,Salade
+TK-00614,Fromage râpé
+TK-00614,Pommes
+TK-00615,Saucisses
+TK-00615,Bananes
+TK-00615,Tomates
+TK-00615,Jambon
+TK-00615,Salade
+TK-00615,Bière
+TK-00616,Café
+TK-00616,Pâtes
+TK-00616,Bananes
+TK-00617,Yaourts
+TK-00617,Soda
+TK-00617,Jus d'orange
+TK-00617,Céréales
+TK-00617,Bananes
+TK-00617,Lait
+TK-00617,Chips
+TK-00618,Soda
+TK-00618,Cacahuètes
+TK-00618,Bière
+TK-00618,Chips
+TK-00619,Eau
+TK-00619,Soda
+TK-00619,Bananes
+TK-00619,Confiture
+TK-00619,Beurre
+TK-00619,Lait
+TK-00620,Cacahuètes
+TK-00620,Eau
+TK-00620,Soda
+TK-00621,Pâtes
+TK-00621,Sauce tomate
+TK-00621,Eau
+TK-00621,Café
+TK-00621,Bananes
+TK-00621,Confiture
+TK-00621,Beurre
+TK-00621,Lait
+TK-00621,Fromage râpé
+TK-00621,Pommes
+TK-00622,Pâtes
+TK-00622,Sauce tomate
+TK-00622,Pommes
+TK-00623,Cacahuètes
+TK-00623,Pâtes
+TK-00623,Sauce tomate
+TK-00623,Eau
+TK-00623,Bière
+TK-00623,Steak haché
+TK-00624,Tomates
+TK-00624,Eau
+TK-00624,Bananes
+TK-00624,Pommes
+TK-00625,Soda
+TK-00625,Lait
+TK-00625,Bière
+TK-00626,Cacahuètes
+TK-00626,Bière
+TK-00626,Chips
+TK-00627,Cacahuètes
+TK-00627,Eau
+TK-00627,Tomates
+TK-00627,Chips
+TK-00627,Baguette
+TK-00627,Salade
+TK-00627,Lait
+TK-00627,Bière
+TK-00627,Pommes
+TK-00628,Eau
+TK-00629,Eau
+TK-00629,Bananes
+TK-00630,Oeufs
+TK-00630,Eau
+TK-00630,Café
+TK-00630,Bananes
+TK-00630,Céréales
+TK-00630,Confiture
+TK-00630,Beurre
+TK-00630,Baguette
+TK-00630,Lait
+TK-00630,Croissants
+TK-00631,Bière
+TK-00631,Chips
+TK-00631,Eau
+TK-00632,Riz
+TK-00632,Eau
+TK-00632,Bananes
+TK-00633,Soda
+TK-00634,Cacahuètes
+TK-00634,Soda
+TK-00634,Chips
+TK-00634,Bière
+TK-00634,Pommes
+TK-00635,Jus d'orange
+TK-00635,Yaourts
+TK-00635,Céréales
+TK-00636,Saucisses
+TK-00636,Tomates
+TK-00636,Salade
+TK-00636,Bière
+TK-00636,Steak haché
+TK-00637,Oeufs
+TK-00637,Eau
+TK-00637,Soda
+TK-00637,Riz
+TK-00637,Bananes
+TK-00638,Papier toilette
+TK-00638,Eau
+TK-00638,Dentifrice
+TK-00639,Oeufs
+TK-00639,Eau
+TK-00639,Saucisses
+TK-00639,Tomates
+TK-00639,Salade
+TK-00639,Lait
+TK-00639,Bière
+TK-00639,Steak haché
+TK-00640,Café
+TK-00641,Soda
+TK-00641,Cacahuètes
+TK-00641,Eau
+TK-00641,Bière
+TK-00642,Bananes
+TK-00642,Steak haché
+TK-00643,Cacahuètes
+TK-00643,Eau
+TK-00643,Soda
+TK-00643,Chips
+TK-00643,Bière
+TK-00644,Riz
+TK-00644,Eau
+TK-00644,Jambon
+TK-00645,Oeufs
+TK-00645,Eau
+TK-00645,Tomates
+TK-00645,Baguette
+TK-00645,Jambon
+TK-00645,Salade
+TK-00646,Lait
+TK-00646,Oeufs
+TK-00646,Yaourts
+TK-00646,Bananes
+TK-00647,Yaourts
+TK-00647,Eau
+TK-00647,Jus d'orange
+TK-00647,Bananes
+TK-00647,Lait
+TK-00648,Oeufs
+TK-00648,Eau
+TK-00648,Tomates
+TK-00648,Baguette
+TK-00648,Jambon
+TK-00648,Salade
+TK-00649,Eau
+TK-00650,Lait
+TK-00650,Eau
+TK-00651,Eau
+TK-00651,Soda
+TK-00651,Tomates
+TK-00651,Baguette
+TK-00651,Jambon
+TK-00651,Salade
+TK-00652,Cacahuètes
+TK-00652,Bière
+TK-00652,Chips
+TK-00652,Eau
+TK-00653,Pommes
+TK-00653,Saucisses
+TK-00653,Bananes
+TK-00653,Dentifrice
+TK-00653,Tomates
+TK-00653,Papier toilette
+TK-00653,Steak haché
+TK-00654,Bananes
+TK-00654,Saucisses
+TK-00654,Bière
+TK-00654,Steak haché
+TK-00655,Baguette
+TK-00656,Oeufs
+TK-00656,Cacahuètes
+TK-00656,Soda
+TK-00656,Riz
+TK-00656,Baguette
+TK-00656,Jambon
+TK-00656,Bière
+TK-00656,Chips
+TK-00657,Eau
+TK-00657,Bananes
+TK-00657,Chips
+TK-00657,Lait
+TK-00657,Bière
+TK-00658,Oeufs
+TK-00658,Eau
+TK-00658,Confiture
+TK-00658,Baguette
+TK-00658,Lait
+TK-00659,Steak haché
+TK-00660,Cacahuètes
+TK-00660,Eau
+TK-00660,Soda
+TK-00660,Chips
+TK-00660,Lait
+TK-00660,Bière
+TK-00661,Oeufs
+TK-00661,Riz
+TK-00661,Eau
+TK-00661,Baguette
+TK-00662,Oeufs
+TK-00662,Eau
+TK-00663,Eau
+TK-00663,Bananes
+TK-00663,Céréales
+TK-00663,Chips
+TK-00663,Bière
+TK-00664,Baguette
+TK-00664,Eau
+TK-00664,Pommes
+TK-00665,Baguette
+TK-00665,Eau
+TK-00666,Oeufs
+TK-00666,Eau
+TK-00666,Tomates
+TK-00666,Jambon
+TK-00666,Salade
+TK-00666,Shampoing
+TK-00667,Shampoing
+TK-00667,Bananes
+TK-00668,Oeufs
+TK-00668,Eau
+TK-00668,Café
+TK-00668,Confiture
+TK-00668,Beurre
+TK-00669,Yaourts
+TK-00669,Bananes
+TK-00669,Céréales
+TK-00669,Lait
+TK-00669,Pommes
+TK-00670,Yaourts
+TK-00670,Eau
+TK-00670,Bananes
+TK-00670,Céréales
+TK-00670,Lait
+TK-00671,Oeufs
+TK-00671,Eau
+TK-00671,Café
+TK-00671,Riz
+TK-00671,Confiture
+TK-00671,Beurre
+TK-00671,Baguette
+TK-00671,Jambon
+TK-00671,Lait
+TK-00671,Croissants
+TK-00672,Baguette
+TK-00672,Yaourts
+TK-00672,Eau
+TK-00672,Bananes
+TK-00673,Yaourts
+TK-00673,Bière
+TK-00673,Chips
+TK-00673,Eau
+TK-00674,Eau
+TK-00674,Pommes
+TK-00674,Saucisses
+TK-00674,Tomates
+TK-00674,Salade
+TK-00674,Bière
+TK-00674,Steak haché
+TK-00675,Oeufs
+TK-00675,Café
+TK-00675,Confiture
+TK-00675,Beurre
+TK-00675,Baguette
+TK-00675,Lait
+TK-00675,Croissants
+TK-00676,Eau
+TK-00676,Saucisses
+TK-00676,Tomates
+TK-00676,Salade
+TK-00676,Steak haché
+TK-00677,Baguette
+TK-00677,Eau
+TK-00677,Bananes
+TK-00678,Tomates
+TK-00678,Steak haché
+TK-00679,Pâtes
+TK-00679,Sauce tomate
+TK-00679,Eau
+TK-00679,Café
+TK-00679,Beurre
+TK-00679,Lait
+TK-00679,Fromage râpé
+TK-00680,Riz
+TK-00680,Eau
+TK-00680,Pommes
+TK-00681,Oeufs
+TK-00681,Eau
+TK-00681,Café
+TK-00681,Bananes
+TK-00681,Confiture
+TK-00681,Beurre
+TK-00681,Baguette
+TK-00681,Pommes
+TK-00682,Eau
+TK-00682,Bananes
+TK-00682,Dentifrice
+TK-00682,Papier toilette
+TK-00682,Shampoing
+TK-00683,Tomates
+TK-00683,Yaourts
+TK-00683,Baguette
+TK-00683,Salade
+TK-00684,Eau
+TK-00684,Jus d'orange
+TK-00684,Céréales
+TK-00684,Beurre
+TK-00684,Baguette
+TK-00684,Lait
+TK-00684,Croissants
+TK-00685,Eau
+TK-00685,Café
+TK-00685,Beurre
+TK-00685,Baguette
+TK-00685,Lait
+TK-00686,Eau
+TK-00686,Café
+TK-00686,Confiture
+TK-00686,Beurre
+TK-00686,Baguette
+TK-00686,Pommes
+TK-00687,Eau
+TK-00687,Confiture
+TK-00687,Beurre
+TK-00687,Baguette
+TK-00687,Lait
+TK-00687,Croissants
+TK-00688,Oeufs
+TK-00688,Eau
+TK-00688,Saucisses
+TK-00688,Bananes
+TK-00688,Tomates
+TK-00688,Baguette
+TK-00688,Salade
+TK-00689,Oeufs
+TK-00689,Tomates
+TK-00689,Baguette
+TK-00689,Jambon
+TK-00689,Salade
+TK-00690,Soda
+TK-00690,Bière
+TK-00690,Chips
+TK-00690,Eau
+TK-00691,Eau
+TK-00691,Café
+TK-00691,Riz
+TK-00691,Confiture
+TK-00691,Lait
+TK-00691,Croissants
+TK-00692,Café
+TK-00692,Lait
+TK-00692,Croissants
+TK-00692,Confiture
+TK-00693,Yaourts
+TK-00693,Eau
+TK-00693,Jus d'orange
+TK-00693,Bananes
+TK-00693,Céréales
+TK-00694,Cacahuètes
+TK-00694,Soda
+TK-00694,Confiture
+TK-00694,Chips
+TK-00694,Beurre
+TK-00694,Croissants
+TK-00694,Bière
+TK-00695,Yaourts
+TK-00696,Lait
+TK-00696,Eau
+TK-00696,Céréales
+TK-00697,Pommes
+TK-00698,Yaourts
+TK-00698,Pâtes
+TK-00698,Sauce tomate
+TK-00698,Jus d'orange
+TK-00698,Bananes
+TK-00698,Steak haché
+TK-00699,Lait
+TK-00699,Soda
+TK-00699,Confiture
+TK-00700,Yaourts
+TK-00700,Céréales
+TK-00700,Bananes
+TK-00700,Dentifrice
+TK-00700,Papier toilette
+TK-00700,Shampoing
+TK-00700,Lait
+TK-00701,Café
+TK-00701,Confiture
+TK-00701,Chips
+TK-00701,Baguette
+TK-00701,Bière
+TK-00702,Eau
+TK-00702,Café
+TK-00702,Beurre
+TK-00702,Baguette
+TK-00702,Pommes
+TK-00703,Shampoing
+TK-00703,Papier toilette
+TK-00703,Lait
+TK-00704,Pommes
+TK-00705,Tomates
+TK-00705,Eau
+TK-00705,Bananes
+TK-00705,Salade
+TK-00706,Oeufs
+TK-00706,Soda
+TK-00706,Confiture
+TK-00706,Tomates
+TK-00706,Baguette
+TK-00706,Salade
+TK-00706,Croissants
+TK-00707,Jambon
+TK-00708,Bananes
+TK-00708,Pâtes
+TK-00708,Fromage râpé
+TK-00708,Sauce tomate
+TK-00709,Tomates
+TK-00709,Salade
+TK-00710,Baguette
+TK-00711,Lait
+TK-00711,Yaourts
+TK-00711,Bananes
+TK-00711,Pommes
+TK-00712,Lait
+TK-00712,Eau
+TK-00712,Pommes
+TK-00713,Cacahuètes
+TK-00713,Eau
+TK-00713,Dentifrice
+TK-00713,Papier toilette
+TK-00713,Chips
+TK-00713,Shampoing
+TK-00713,Bière
+TK-00714,Oeufs
+TK-00714,Eau
+TK-00714,Tomates
+TK-00714,Jambon
+TK-00714,Lait
+TK-00715,Lait
+TK-00715,Croissants
+TK-00715,Eau
+TK-00715,Confiture
+TK-00716,Cacahuètes
+TK-00716,Oeufs
+TK-00716,Eau
+TK-00716,Soda
+TK-00716,Jus d'orange
+TK-00716,Tomates
+TK-00716,Chips
+TK-00716,Jambon
+TK-00716,Salade
+TK-00716,Lait
+TK-00716,Bière
+TK-00717,Eau
+TK-00718,Eau
+TK-00718,Café
+TK-00718,Confiture
+TK-00718,Beurre
+TK-00718,Croissants
+TK-00719,Eau
+TK-00719,Confiture
+TK-00719,Tomates
+TK-00719,Beurre
+TK-00719,Baguette
+TK-00719,Salade
+TK-00719,Lait
+TK-00719,Croissants
+TK-00720,Eau
+TK-00720,Confiture
+TK-00720,Beurre
+TK-00720,Baguette
+TK-00720,Lait
+TK-00721,Oeufs
+TK-00721,Yaourts
+TK-00721,Jus d'orange
+TK-00721,Céréales
+TK-00721,Lait
+TK-00721,Pommes
+TK-00722,Shampoing
+TK-00722,Papier toilette
+TK-00722,Eau
+TK-00722,Dentifrice
+TK-00723,Pâtes
+TK-00723,Eau
+TK-00723,Sauce tomate
+TK-00723,Tomates
+TK-00723,Jambon
+TK-00723,Pommes
+TK-00724,Yaourts
+TK-00724,Jus d'orange
+TK-00724,Céréales
+TK-00724,Bananes
+TK-00724,Lait
+TK-00725,Yaourts
+TK-00725,Eau
+TK-00725,Jus d'orange
+TK-00725,Céréales
+TK-00725,Bananes
+TK-00725,Baguette
+TK-00725,Lait
+TK-00726,Yaourts
+TK-00726,Jus d'orange
+TK-00726,Céréales
+TK-00726,Bananes
+TK-00726,Baguette
+TK-00726,Lait
+TK-00726,Pommes
+TK-00727,Yaourts
+TK-00727,Soda
+TK-00727,Chips
+TK-00727,Bière
+TK-00727,Pommes
+TK-00728,Saucisses
+TK-00728,Salade
+TK-00728,Lait
+TK-00728,Bière
+TK-00728,Pommes
+TK-00729,Café
+TK-00729,Baguette
+TK-00730,Baguette
+TK-00730,Eau
+TK-00731,Eau
+TK-00731,Saucisses
+TK-00731,Tomates
+TK-00731,Baguette
+TK-00731,Bière
+TK-00732,Bananes
+TK-00733,Café
+TK-00733,Lait
+TK-00733,Eau
+TK-00734,Pâtes
+TK-00734,Baguette
+TK-00734,Sauce tomate
+TK-00735,Soda
+TK-00736,Soda
+TK-00736,Beurre
+TK-00736,Baguette
+TK-00736,Bière
+TK-00736,Chips
+TK-00737,Salade
+TK-00738,Eau
+TK-00738,Saucisses
+TK-00738,Lait
+TK-00738,Bière
+TK-00738,Steak haché
+TK-00739,Lait
+TK-00739,Yaourts
+TK-00739,Eau
+TK-00739,Céréales
+TK-00740,Shampoing
+TK-00740,Papier toilette
+TK-00740,Eau
+TK-00740,Dentifrice
+TK-00741,Eau
+TK-00741,Pommes
+TK-00741,Saucisses
+TK-00741,Bananes
+TK-00741,Bière
+TK-00741,Steak haché
+TK-00742,Pâtes
+TK-00742,Sauce tomate
+TK-00742,Café
+TK-00742,Bananes
+TK-00742,Baguette
+TK-00742,Fromage râpé
+TK-00743,Oeufs
+TK-00743,Eau
+TK-00743,Riz
+TK-00743,Chips
+TK-00743,Bière
+TK-00744,Papier toilette
+TK-00744,Eau
+TK-00744,Dentifrice
+TK-00745,Cacahuètes
+TK-00745,Bière
+TK-00745,Chips
+TK-00745,Eau
+TK-00746,Pâtes
+TK-00746,Sauce tomate
+TK-00746,Jus d'orange
+TK-00746,Céréales
+TK-00746,Bananes
+TK-00746,Lait
+TK-00746,Fromage râpé
+TK-00747,Yaourts
+TK-00747,Soda
+TK-00747,Jus d'orange
+TK-00747,Céréales
+TK-00747,Lait
+TK-00748,Eau
+TK-00748,Bananes
+TK-00749,Lait
+TK-00749,Yaourts
+TK-00749,Bananes
+TK-00750,Pâtes
+TK-00750,Fromage râpé
+TK-00750,Sauce tomate
+TK-00751,Soda
+TK-00751,Bananes
+TK-00752,Pâtes
+TK-00752,Sauce tomate
+TK-00753,Bananes
+TK-00753,Cacahuètes
+TK-00753,Bière
+TK-00753,Chips
+TK-00754,Oeufs
+TK-00754,Pâtes
+TK-00754,Sauce tomate
+TK-00754,Fromage râpé
+TK-00754,Steak haché
+TK-00755,Lait
+TK-00755,Beurre
+TK-00755,Baguette
+TK-00755,Eau
+TK-00756,Yaourts
+TK-00756,Eau
+TK-00756,Bananes
+TK-00756,Céréales
+TK-00756,Lait
+TK-00757,Soda
+TK-00757,Café
+TK-00757,Confiture
+TK-00757,Beurre
+TK-00757,Baguette
+TK-00757,Croissants
+TK-00758,Yaourts
+TK-00758,Eau
+TK-00758,Chips
+TK-00758,Lait
+TK-00758,Bière
+TK-00759,Eau
+TK-00760,Bananes
+TK-00760,Cacahuètes
+TK-00760,Eau
+TK-00760,Chips
+TK-00761,Oeufs
+TK-00761,Eau
+TK-00761,Bananes
+TK-00761,Tomates
+TK-00761,Baguette
+TK-00761,Salade
+TK-00762,Café
+TK-00762,Saucisses
+TK-00762,Confiture
+TK-00762,Beurre
+TK-00762,Baguette
+TK-00762,Salade
+TK-00762,Lait
+TK-00762,Bière
+TK-00762,Steak haché
+TK-00763,Papier toilette
+TK-00763,Pommes
+TK-00763,Dentifrice
+TK-00764,Pâtes
+TK-00764,Sauce tomate
+TK-00764,Eau
+TK-00764,Lait
+TK-00764,Fromage râpé
+TK-00765,Oeufs
+TK-00765,Cacahuètes
+TK-00765,Eau
+TK-00765,Riz
+TK-00765,Bananes
+TK-00765,Chips
+TK-00765,Bière
+TK-00766,Café
+TK-00766,Beurre
+TK-00766,Eau
+TK-00766,Lait
+TK-00767,Cacahuètes
+TK-00767,Eau
+TK-00767,Café
+TK-00767,Confiture
+TK-00767,Beurre
+TK-00767,Lait
+TK-00767,Bière
+TK-00767,Chips
+TK-00767,Pommes
+TK-00768,Pâtes
+TK-00768,Sauce tomate
+TK-00768,Pommes
+TK-00768,Saucisses
+TK-00768,Bananes
+TK-00768,Fromage râpé
+TK-00768,Bière
+TK-00768,Steak haché
+TK-00769,Pâtes
+TK-00769,Eau
+TK-00769,Yaourts
+TK-00769,Steak haché
+TK-00769,Fromage râpé
+TK-00769,Pommes
+TK-00770,Saucisses
+TK-00770,Bière
+TK-00770,Steak haché
+TK-00771,Lait
+TK-00771,Bananes
+TK-00771,Yaourts
+TK-00771,Céréales
+TK-00772,Cacahuètes
+TK-00772,Bière
+TK-00773,Shampoing
+TK-00773,Papier toilette
+TK-00773,Eau
+TK-00773,Dentifrice
+TK-00774,Lait
+TK-00774,Yaourts
+TK-00774,Eau
+TK-00774,Céréales
+TK-00775,Yaourts
+TK-00775,Pâtes
+TK-00775,Sauce tomate
+TK-00775,Eau
+TK-00775,Fromage râpé
+TK-00776,Eau
+TK-00776,Bananes
+TK-00777,Pâtes
+TK-00777,Fromage râpé
+TK-00777,Sauce tomate
+TK-00777,Pommes
+TK-00778,Dentifrice
+TK-00778,Tomates
+TK-00778,Salade
+TK-00778,Shampoing
+TK-00778,Pommes
+TK-00779,Shampoing
+TK-00779,Papier toilette
+TK-00779,Lait
+TK-00779,Dentifrice
+TK-00780,Pâtes
+TK-00780,Fromage râpé
+TK-00780,Pommes
+TK-00781,Oeufs
+TK-00781,Riz
+TK-00781,Baguette
+TK-00781,Jambon
+TK-00782,Pâtes
+TK-00782,Sauce tomate
+TK-00782,Eau
+TK-00782,Bananes
+TK-00782,Fromage râpé
+TK-00782,Steak haché
+TK-00783,Tomates
+TK-00783,Baguette
+TK-00783,Salade
+TK-00784,Eau
+TK-00784,Café
+TK-00784,Confiture
+TK-00784,Papier toilette
+TK-00784,Shampoing
+TK-00785,Pâtes
+TK-00785,Sauce tomate
+TK-00785,Eau
+TK-00785,Yaourts
+TK-00785,Fromage râpé
+TK-00785,Chips
+TK-00785,Bière
+TK-00785,Steak haché
+TK-00786,Eau
+TK-00786,Soda
+TK-00786,Riz
+TK-00786,Chips
+TK-00786,Bière
+TK-00787,Tomates
+TK-00787,Oeufs
+TK-00787,Eau
+TK-00787,Salade
+TK-00788,Eau
+TK-00788,Soda
+TK-00788,Café
+TK-00788,Bananes
+TK-00788,Confiture
+TK-00788,Beurre
+TK-00788,Baguette
+TK-00788,Lait
+TK-00788,Croissants
+TK-00789,Yaourts
+TK-00789,Eau
+TK-00789,Soda
+TK-00789,Café
+TK-00789,Confiture
+TK-00789,Beurre
+TK-00789,Baguette
+TK-00789,Lait
+TK-00789,Pommes
+TK-00790,Tomates
+TK-00790,Saucisses
+TK-00790,Bière
+TK-00790,Steak haché
+TK-00791,Eau
+TK-00791,Café
+TK-00791,Confiture
+TK-00791,Beurre
+TK-00791,Baguette
+TK-00791,Lait
+TK-00791,Pommes
+TK-00792,Cacahuètes
+TK-00792,Eau
+TK-00792,Soda
+TK-00792,Café
+TK-00792,Chips
+TK-00792,Bière
+TK-00793,Oeufs
+TK-00793,Café
+TK-00793,Riz
+TK-00793,Confiture
+TK-00793,Beurre
+TK-00793,Jambon
+TK-00793,Lait
+TK-00794,Lait
+TK-00794,Jus d'orange
+TK-00794,Yaourts
+TK-00794,Bananes
+TK-00795,Oeufs
+TK-00795,Yaourts
+TK-00795,Eau
+TK-00795,Café
+TK-00795,Riz
+TK-00795,Confiture
+TK-00795,Beurre
+TK-00795,Baguette
+TK-00796,Eau
+TK-00796,Shampoing
+TK-00796,Confiture
+TK-00796,Papier toilette
+TK-00796,Beurre
+TK-00796,Baguette
+TK-00796,Lait
+TK-00797,Cacahuètes
+TK-00797,Eau
+TK-00797,Bananes
+TK-00797,Chips
+TK-00797,Lait
+TK-00797,Bière
+TK-00798,Yaourts
+TK-00798,Eau
+TK-00798,Bananes
+TK-00798,Céréales
+TK-00798,Lait
+TK-00799,Steak haché
+TK-00800,Oeufs
+TK-00800,Eau
+TK-00800,Café
+TK-00800,Tomates
+TK-00800,Beurre
+TK-00800,Salade
+TK-00800,Lait
+TK-00800,Bière
+TK-00800,Steak haché
+TK-00801,Beurre
+TK-00801,Croissants
+TK-00801,Eau
+TK-00801,Confiture
+TK-00802,Oeufs
+TK-00802,Yaourts
+TK-00802,Eau
+TK-00802,Café
+TK-00802,Jus d'orange
+TK-00802,Céréales
+TK-00802,Bananes
+TK-00802,Confiture
+TK-00802,Beurre
+TK-00802,Baguette
+TK-00802,Lait
+TK-00803,Eau
+TK-00803,Jus d'orange
+TK-00803,Bananes
+TK-00803,Céréales
+TK-00803,Dentifrice
+TK-00803,Papier toilette
+TK-00804,Bière
+TK-00804,Chips
+TK-00804,Eau
+TK-00805,Jus d'orange
+TK-00805,Yaourts
+TK-00805,Eau
+TK-00805,Bananes
+TK-00806,Oeufs
+TK-00806,Yaourts
+TK-00806,Eau
+TK-00806,Jus d'orange
+TK-00806,Bananes
+TK-00806,Baguette
+TK-00806,Lait
+TK-00807,Yaourts
+TK-00807,Eau
+TK-00807,Bananes
+TK-00807,Lait
+TK-00807,Pommes
+TK-00808,Bananes
+TK-00809,Pâtes
+TK-00809,Sauce tomate
+TK-00809,Soda
+TK-00809,Fromage râpé
+TK-00809,Steak haché
+TK-00810,Eau
+TK-00810,Saucisses
+TK-00810,Bananes
+TK-00810,Baguette
+TK-00810,Salade
+TK-00811,Pâtes
+TK-00811,Sauce tomate
+TK-00811,Eau
+TK-00811,Saucisses
+TK-00811,Bananes
+TK-00811,Tomates
+TK-00811,Salade
+TK-00811,Fromage râpé
+TK-00811,Bière
+TK-00811,Steak haché
+TK-00812,Yaourts
+TK-00813,Eau
+TK-00813,Jus d'orange
+TK-00813,Tomates
+TK-00813,Baguette
+TK-00813,Salade
+TK-00814,Tomates
+TK-00814,Eau
+TK-00814,Jambon
+TK-00814,Salade
+TK-00815,Baguette
+TK-00815,Bière
+TK-00815,Chips
+TK-00816,Oeufs
+TK-00816,Pâtes
+TK-00816,Sauce tomate
+TK-00816,Eau
+TK-00816,Tomates
+TK-00816,Baguette
+TK-00816,Salade
+TK-00817,Eau
+TK-00817,Jambon
+TK-00817,Salade
+TK-00818,Eau
+TK-00818,Dentifrice
+TK-00818,Papier toilette
+TK-00818,Shampoing
+TK-00818,Lait
+TK-00819,Yaourts
+TK-00819,Eau
+TK-00819,Jus d'orange
+TK-00819,Baguette
+TK-00819,Lait
+TK-00820,Lait
+TK-00820,Yaourts
+TK-00820,Baguette
+TK-00820,Céréales
+TK-00821,Café
+TK-00821,Dentifrice
+TK-00821,Tomates
+TK-00821,Papier toilette
+TK-00821,Baguette
+TK-00821,Salade
+TK-00821,Shampoing
+TK-00822,Shampoing
+TK-00822,Lait
+TK-00822,Dentifrice
+TK-00823,Tomates
+TK-00823,Yaourts
+TK-00823,Pommes
+TK-00824,Yaourts
+TK-00824,Eau
+TK-00824,Bananes
+TK-00824,Céréales
+TK-00824,Bière
+TK-00824,Chips
+TK-00825,Dentifrice
+TK-00825,Papier toilette
+TK-00825,Baguette
+TK-00825,Shampoing
+TK-00825,Lait
+TK-00825,Croissants
+TK-00826,Café
+TK-00826,Lait
+TK-00826,Baguette
+TK-00826,Confiture
+TK-00827,Lait
+TK-00827,Beurre
+TK-00827,Croissants
+TK-00827,Baguette
+TK-00828,Beurre
+TK-00828,Baguette
+TK-00829,Oeufs
+TK-00830,Oeufs
+TK-00830,Tomates
+TK-00830,Salade
+TK-00830,Lait
+TK-00830,Bière
+TK-00830,Steak haché
+TK-00831,Oeufs
+TK-00831,Pâtes
+TK-00831,Sauce tomate
+TK-00831,Lait
+TK-00831,Fromage râpé
+TK-00831,Pommes
+TK-00832,Yaourts
+TK-00832,Eau
+TK-00832,Jus d'orange
+TK-00832,Céréales
+TK-00832,Bananes
+TK-00832,Lait
+TK-00833,Eau
+TK-00833,Bananes
+TK-00833,Pommes
+TK-00834,Yaourts
+TK-00834,Eau
+TK-00835,Shampoing
+TK-00835,Papier toilette
+TK-00835,Eau
+TK-00835,Dentifrice
+TK-00836,Yaourts
+TK-00836,Café
+TK-00836,Jus d'orange
+TK-00836,Céréales
+TK-00836,Bananes
+TK-00836,Lait
+TK-00837,Eau
+TK-00838,Yaourts
+TK-00838,Eau
+TK-00838,Café
+TK-00838,Jus d'orange
+TK-00838,Confiture
+TK-00838,Beurre
+TK-00838,Baguette
+TK-00838,Lait
+TK-00838,Pommes
+TK-00839,Oeufs
+TK-00839,Riz
+TK-00840,Saucisses
+TK-00840,Eau
+TK-00840,Bière
+TK-00840,Steak haché
+TK-00841,Eau
+TK-00842,Baguette
+TK-00843,Pâtes
+TK-00843,Sauce tomate
+TK-00843,Bananes
+TK-00843,Céréales
+TK-00843,Lait
+TK-00843,Fromage râpé
+TK-00844,Confiture
+TK-00844,Tomates
+TK-00844,Beurre
+TK-00844,Baguette
+TK-00844,Salade
+TK-00844,Croissants
+TK-00844,Pommes
+TK-00845,Pâtes
+TK-00845,Sauce tomate
+TK-00845,Eau
+TK-00845,Dentifrice
+TK-00845,Papier toilette
+TK-00845,Shampoing
+TK-00845,Fromage râpé
+TK-00845,Pommes
+TK-00846,Pâtes
+TK-00846,Fromage râpé
+TK-00846,Sauce tomate
+TK-00847,Bananes
+TK-00847,Confiture
+TK-00847,Beurre
+TK-00847,Baguette
+TK-00847,Lait
+TK-00847,Croissants
+TK-00848,Yaourts
+TK-00848,Eau
+TK-00848,Jus d'orange
+TK-00848,Riz
+TK-00848,Céréales
+TK-00848,Lait
+TK-00849,Cacahuètes
+TK-00849,Eau
+TK-00849,Chips
+TK-00849,Lait
+TK-00849,Bière
+TK-00849,Pommes
+TK-00850,Lait
+TK-00850,Riz
+TK-00850,Yaourts
+TK-00850,Eau
+TK-00851,Yaourts
+TK-00851,Eau
+TK-00851,Bananes
+TK-00851,Céréales
+TK-00851,Lait
+TK-00851,Pommes
+TK-00852,Cacahuètes
+TK-00852,Soda
+TK-00852,Dentifrice
+TK-00852,Chips
+TK-00852,Baguette
+TK-00852,Shampoing
+TK-00852,Bière
+TK-00853,Shampoing
+TK-00853,Eau
+TK-00853,Dentifrice
+TK-00854,Pâtes
+TK-00854,Eau
+TK-00854,Sauce tomate
+TK-00854,Pommes
+TK-00854,Fromage râpé
+TK-00854,Steak haché
+TK-00855,Eau
+TK-00855,Bananes
+TK-00855,Pommes
+TK-00856,Tomates
+TK-00856,Saucisses
+TK-00856,Salade
+TK-00857,Baguette
+TK-00857,Eau
+TK-00857,Bananes
+TK-00858,Eau
+TK-00859,Soda
+TK-00859,Bière
+TK-00859,Chips
+TK-00859,Pommes
+TK-00860,Cacahuètes
+TK-00860,Eau
+TK-00860,Dentifrice
+TK-00860,Papier toilette
+TK-00860,Chips
+TK-00860,Shampoing
+TK-00860,Bière
+TK-00861,Lait
+TK-00861,Jus d'orange
+TK-00861,Yaourts
+TK-00861,Céréales
+TK-00862,Pâtes
+TK-00862,Sauce tomate
+TK-00862,Eau
+TK-00862,Pommes
+TK-00862,Jus d'orange
+TK-00862,Bananes
+TK-00862,Fromage râpé
+TK-00862,Steak haché
+TK-00863,Sauce tomate
+TK-00863,Pâtes
+TK-00863,Saucisses
+TK-00863,Bananes
+TK-00863,Tomates
+TK-00863,Fromage râpé
+TK-00864,Pâtes
+TK-00864,Sauce tomate
+TK-00864,Eau
+TK-00864,Bananes
+TK-00864,Fromage râpé
+TK-00864,Steak haché
+TK-00865,Jus d'orange
+TK-00865,Eau
+TK-00866,Eau
+TK-00866,Riz
+TK-00866,Dentifrice
+TK-00866,Papier toilette
+TK-00866,Shampoing
+TK-00867,Cacahuètes
+TK-00867,Yaourts
+TK-00867,Bière
+TK-00867,Chips
+TK-00868,Yaourts
+TK-00868,Eau
+TK-00868,Jus d'orange
+TK-00868,Céréales
+TK-00868,Bananes
+TK-00868,Lait
+TK-00869,Eau
+TK-00869,Café
+TK-00869,Confiture
+TK-00869,Beurre
+TK-00869,Baguette
+TK-00869,Lait
+TK-00869,Croissants
+TK-00870,Baguette
+TK-00870,Bière
+TK-00870,Chips
+TK-00870,Pommes
+TK-00871,Cacahuètes
+TK-00871,Pâtes
+TK-00871,Sauce tomate
+TK-00871,Eau
+TK-00871,Yaourts
+TK-00871,Pommes
+TK-00871,Chips
+TK-00871,Baguette
+TK-00871,Fromage râpé
+TK-00871,Bière
+TK-00871,Steak haché
+TK-00872,Tomates
+TK-00872,Oeufs
+TK-00872,Salade
+TK-00872,Pommes
+TK-00873,Pâtes
+TK-00873,Sauce tomate
+TK-00873,Bananes
+TK-00873,Fromage râpé
+TK-00873,Steak haché
+TK-00874,Bananes
+TK-00874,Cacahuètes
+TK-00874,Bière
+TK-00875,Yaourts
+TK-00875,Saucisses
+TK-00875,Baguette
+TK-00875,Salade
+TK-00875,Steak haché
+TK-00876,Yaourts
+TK-00876,Eau
+TK-00876,Pommes
+TK-00877,Jus d'orange
+TK-00877,Yaourts
+TK-00877,Baguette
+TK-00877,Céréales
+TK-00878,Café
+TK-00878,Beurre
+TK-00878,Baguette
+TK-00878,Lait
+TK-00879,Oeufs
+TK-00879,Eau
+TK-00879,Tomates
+TK-00879,Baguette
+TK-00879,Pommes
+TK-00880,Lait
+TK-00880,Jus d'orange
+TK-00880,Yaourts
+TK-00880,Eau
+TK-00881,Cacahuètes
+TK-00881,Eau
+TK-00881,Chips
+TK-00882,Café
+TK-00882,Bananes
+TK-00882,Confiture
+TK-00882,Lait
+TK-00882,Croissants
+TK-00883,Pâtes
+TK-00883,Eau
+TK-00883,Café
+TK-00883,Tomates
+TK-00883,Baguette
+TK-00883,Jambon
+TK-00883,Salade
+TK-00883,Fromage râpé
+TK-00884,Oeufs
+TK-00884,Eau
+TK-00884,Soda
+TK-00884,Chips
+TK-00884,Jambon
+TK-00884,Salade
+TK-00884,Bière
+TK-00885,Cacahuètes
+TK-00885,Dentifrice
+TK-00885,Papier toilette
+TK-00885,Chips
+TK-00885,Shampoing
+TK-00885,Bière
+TK-00885,Pommes
+TK-00886,Eau
+TK-00886,Dentifrice
+TK-00886,Tomates
+TK-00886,Papier toilette
+TK-00886,Jambon
+TK-00886,Salade
+TK-00886,Shampoing
+TK-00887,Eau
+TK-00887,Jus d'orange
+TK-00887,Saucisses
+TK-00887,Céréales
+TK-00887,Baguette
+TK-00887,Salade
+TK-00887,Lait
+TK-00887,Steak haché
+TK-00888,Cacahuètes
+TK-00888,Eau
+TK-00888,Soda
+TK-00888,Dentifrice
+TK-00888,Papier toilette
+TK-00888,Chips
+TK-00888,Shampoing
+TK-00888,Lait
+TK-00888,Bière
+TK-00889,Pâtes
+TK-00889,Sauce tomate
+TK-00889,Soda
+TK-00889,Tomates
+TK-00889,Salade
+TK-00889,Pommes
+TK-00890,Lait
+TK-00890,Eau
+TK-00890,Baguette
+TK-00891,Saucisses
+TK-00891,Eau
+TK-00891,Bière
+TK-00892,Pâtes
+TK-00892,Fromage râpé
+TK-00892,Sauce tomate
+TK-00892,Eau
+TK-00893,Yaourts
+TK-00894,Pâtes
+TK-00894,Fromage râpé
+TK-00894,Sauce tomate
+TK-00894,Eau
+TK-00895,Pâtes
+TK-00895,Fromage râpé
+TK-00895,Sauce tomate
+TK-00896,Yaourts
+TK-00896,Jus d'orange
+TK-00896,Céréales
+TK-00896,Bananes
+TK-00896,Lait
+TK-00897,Lait
+TK-00897,Pâtes
+TK-00897,Fromage râpé
+TK-00897,Sauce tomate
+TK-00898,Eau
+TK-00899,Eau
+TK-00899,Soda
+TK-00899,Café
+TK-00899,Confiture
+TK-00899,Tomates
+TK-00899,Beurre
+TK-00899,Baguette
+TK-00899,Jambon
+TK-00899,Salade
+TK-00899,Lait
+TK-00899,Croissants
+TK-00900,Jus d'orange
+TK-00900,Eau
+TK-00901,Oeufs
+TK-00901,Café
+TK-00901,Bananes
+TK-00901,Tomates
+TK-00901,Beurre
+TK-00901,Salade
+TK-00901,Lait
+TK-00902,Lait
+TK-00902,Jus d'orange
+TK-00902,Beurre
+TK-00903,Yaourts
+TK-00903,Jus d'orange
+TK-00903,Céréales
+TK-00903,Bananes
+TK-00903,Lait
+TK-00904,Café
+TK-00904,Saucisses
+TK-00904,Bananes
+TK-00904,Confiture
+TK-00904,Tomates
+TK-00904,Beurre
+TK-00904,Salade
+TK-00905,Oeufs
+TK-00905,Yaourts
+TK-00905,Eau
+TK-00905,Jus d'orange
+TK-00905,Bananes
+TK-00905,Tomates
+TK-00905,Baguette
+TK-00905,Jambon
+TK-00905,Salade
+TK-00905,Lait
+TK-00905,Pommes
+TK-00906,Pâtes
+TK-00906,Sauce tomate
+TK-00906,Confiture
+TK-00906,Beurre
+TK-00906,Baguette
+TK-00906,Lait
+TK-00906,Fromage râpé
+TK-00907,Baguette
+TK-00907,Yaourts
+TK-00907,Eau
+TK-00908,Tomates
+TK-00908,Lait
+TK-00908,Saucisses
+TK-00908,Steak haché
+TK-00909,Oeufs
+TK-00909,Eau
+TK-00909,Bananes
+TK-00909,Tomates
+TK-00909,Baguette
+TK-00909,Salade
+TK-00910,Tomates
+TK-00910,Oeufs
+TK-00910,Salade
+TK-00910,Pommes
+TK-00911,Oeufs
+TK-00911,Pâtes
+TK-00911,Eau
+TK-00911,Bananes
+TK-00911,Fromage râpé
+TK-00912,Yaourts
+TK-00912,Eau
+TK-00912,Soda
+TK-00912,Jus d'orange
+TK-00912,Céréales
+TK-00913,Cacahuètes
+TK-00913,Eau
+TK-00913,Bière
+TK-00914,Oeufs
+TK-00914,Yaourts
+TK-00914,Eau
+TK-00914,Jus d'orange
+TK-00914,Céréales
+TK-00914,Bananes
+TK-00914,Lait
+TK-00915,Pâtes
+TK-00915,Sauce tomate
+TK-00915,Eau
+TK-00915,Bananes
+TK-00915,Dentifrice
+TK-00915,Papier toilette
+TK-00916,Tomates
+TK-00916,Saucisses
+TK-00916,Eau
+TK-00916,Steak haché
+TK-00917,Lait
+TK-00917,Eau
+TK-00918,Eau
+TK-00918,Soda
+TK-00918,Bananes
+TK-00918,Chips
+TK-00918,Bière
+TK-00919,Pâtes
+TK-00919,Sauce tomate
+TK-00919,Eau
+TK-00919,Saucisses
+TK-00919,Tomates
+TK-00919,Fromage râpé
+TK-00920,Yaourts
+TK-00920,Eau
+TK-00920,Jus d'orange
+TK-00920,Céréales
+TK-00920,Bananes
+TK-00920,Baguette
+TK-00920,Lait
+TK-00921,Tomates
+TK-00921,Saucisses
+TK-00921,Bière
+TK-00921,Steak haché
+TK-00922,Soda
+TK-00922,Bière
+TK-00922,Chips
+TK-00922,Eau
+TK-00923,Baguette
+TK-00923,Bière
+TK-00923,Steak haché
+TK-00924,Oeufs
+TK-00924,Pâtes
+TK-00924,Eau
+TK-00924,Sauce tomate
+TK-00924,Yaourts
+TK-00924,Lait
+TK-00924,Steak haché
+TK-00925,Cacahuètes
+TK-00925,Yaourts
+TK-00925,Eau
+TK-00925,Café
+TK-00925,Chips
+TK-00925,Baguette
+TK-00925,Bière
+TK-00926,Pâtes
+TK-00926,Sauce tomate
+TK-00926,Eau
+TK-00926,Bananes
+TK-00926,Confiture
+TK-00926,Beurre
+TK-00926,Baguette
+TK-00926,Lait
+TK-00926,Fromage râpé
+TK-00927,Soda
+TK-00927,Bananes
+TK-00927,Café
+TK-00928,Eau
+TK-00929,Lait
+TK-00929,Beurre
+TK-00929,Bananes
+TK-00930,Yaourts
+TK-00930,Eau
+TK-00930,Jus d'orange
+TK-00930,Bananes
+TK-00930,Céréales
+TK-00931,Yaourts
+TK-00931,Eau
+TK-00931,Jus d'orange
+TK-00931,Céréales
+TK-00931,Bananes
+TK-00931,Baguette
+TK-00931,Lait
+TK-00931,Pommes
+TK-00932,Cacahuètes
+TK-00932,Eau
+TK-00932,Soda
+TK-00932,Chips
+TK-00932,Jambon
+TK-00932,Salade
+TK-00932,Bière
+TK-00933,Céréales
+TK-00934,Oeufs
+TK-00934,Pâtes
+TK-00934,Eau
+TK-00934,Tomates
+TK-00934,Baguette
+TK-00934,Salade
+TK-00934,Fromage râpé
+TK-00935,Lait
+TK-00935,Bananes
+TK-00935,Yaourts
+TK-00935,Céréales
+TK-00936,Jus d'orange
+TK-00936,Confiture
+TK-00936,Beurre
+TK-00936,Baguette
+TK-00936,Croissants
+TK-00937,Café
+TK-00937,Bananes
+TK-00937,Beurre
+TK-00937,Baguette
+TK-00937,Lait
+TK-00937,Croissants
+TK-00938,Bananes
+TK-00939,Bananes
+TK-00939,Dentifrice
+TK-00939,Papier toilette
+TK-00939,Baguette
+TK-00939,Shampoing
+TK-00940,Pâtes
+TK-00940,Bananes
+TK-00940,Tomates
+TK-00940,Salade
+TK-00940,Fromage râpé
+TK-00940,Steak haché
+TK-00941,Eau
+TK-00941,Jus d'orange
+TK-00941,Céréales
+TK-00941,Bananes
+TK-00941,Tomates
+TK-00941,Baguette
+TK-00941,Jambon
+TK-00941,Salade
+TK-00942,Yaourts
+TK-00943,Pâtes
+TK-00943,Fromage râpé
+TK-00943,Pommes
+TK-00944,Pâtes
+TK-00944,Sauce tomate
+TK-00944,Eau
+TK-00944,Soda
+TK-00944,Confiture
+TK-00944,Baguette
+TK-00944,Lait
+TK-00944,Croissants
+TK-00944,Fromage râpé
+TK-00944,Steak haché
+TK-00945,Soda
+TK-00945,Bananes
+TK-00945,Eau
+TK-00945,Chips
+TK-00946,Oeufs
+TK-00946,Soda
+TK-00946,Tomates
+TK-00946,Baguette
+TK-00946,Salade
+TK-00947,Beurre
+TK-00947,Eau
+TK-00947,Baguette
+TK-00947,Confiture
+TK-00948,Eau
+TK-00948,Beurre
+TK-00948,Baguette
+TK-00948,Lait
+TK-00948,Pommes
+TK-00949,Baguette
+TK-00949,Salade
+TK-00949,Pommes
+TK-00950,Lait
+TK-00950,Jus d'orange
+TK-00950,Eau
+TK-00950,Céréales
+TK-00951,Yaourts
+TK-00951,Eau
+TK-00951,Jus d'orange
+TK-00951,Beurre
+TK-00951,Baguette
+TK-00952,Yaourts
+TK-00952,Eau
+TK-00952,Tomates
+TK-00952,Chips
+TK-00952,Salade
+TK-00952,Lait
+TK-00952,Bière
+TK-00953,Eau
+TK-00953,Bananes
+TK-00954,Cacahuètes
+TK-00954,Bananes
+TK-00954,Chips
+TK-00954,Baguette
+TK-00954,Bière
+TK-00955,Eau
+TK-00956,Yaourts
+TK-00956,Eau
+TK-00956,Dentifrice
+TK-00956,Papier toilette
+TK-00956,Shampoing
+TK-00957,Eau
+TK-00957,Confiture
+TK-00957,Beurre
+TK-00957,Baguette
+TK-00957,Lait
+TK-00958,Yaourts
+TK-00958,Eau
+TK-00958,Jus d'orange
+TK-00958,Baguette
+TK-00958,Lait
+TK-00959,Eau
+TK-00960,Oeufs
+TK-00960,Cacahuètes
+TK-00960,Eau
+TK-00960,Chips
+TK-00960,Bière
+TK-00961,Yaourts
+TK-00961,Eau
+TK-00961,Jus d'orange
+TK-00961,Saucisses
+TK-00961,Céréales
+TK-00961,Bananes
+TK-00961,Tomates
+TK-00961,Salade
+TK-00961,Bière
+TK-00962,Soda
+TK-00962,Cacahuètes
+TK-00962,Eau
+TK-00962,Bière
+TK-00963,Tomates
+TK-00963,Oeufs
+TK-00963,Eau
+TK-00964,Eau
+TK-00964,Bananes
+TK-00964,Pommes
+TK-00965,Café
+TK-00965,Beurre
+TK-00965,Lait
+TK-00966,Oeufs
+TK-00966,Eau
+TK-00966,Soda
+TK-00966,Tomates
+TK-00966,Jambon
+TK-00966,Salade
+TK-00967,Lait
+TK-00967,Saucisses
+TK-00967,Eau
+TK-00967,Bière
+TK-00968,Yaourts
+TK-00968,Eau
+TK-00968,Jus d'orange
+TK-00968,Céréales
+TK-00968,Bananes
+TK-00968,Lait
+TK-00969,Lait
+TK-00969,Jus d'orange
+TK-00969,Yaourts
+TK-00969,Céréales
+TK-00970,Eau
+TK-00970,Café
+TK-00970,Confiture
+TK-00970,Beurre
+TK-00970,Baguette
+TK-00970,Lait
+TK-00971,Pâtes
+TK-00971,Sauce tomate
+TK-00971,Eau
+TK-00971,Fromage râpé
+TK-00971,Pommes
+TK-00972,Bière
+TK-00972,Chips
+TK-00973,Shampoing
+TK-00973,Papier toilette
+TK-00973,Eau
+TK-00973,Baguette
+TK-00974,Cacahuètes
+TK-00974,Bière
+TK-00974,Chips
+TK-00975,Pâtes
+TK-00975,Eau
+TK-00975,Sauce tomate
+TK-00975,Steak haché
+TK-00976,Pâtes
+TK-00976,Fromage râpé
+TK-00976,Sauce tomate
+TK-00976,Pommes
+TK-00977,Jambon
+TK-00978,Saucisses
+TK-00978,Eau
+TK-00978,Bière
+TK-00978,Salade
+TK-00979,Yaourts
+TK-00979,Eau
+TK-00979,Jus d'orange
+TK-00979,Céréales
+TK-00979,Lait
+TK-00979,Pommes
+TK-00980,Oeufs
+TK-00980,Yaourts
+TK-00980,Eau
+TK-00980,Tomates
+TK-00980,Jambon
+TK-00980,Salade
+TK-00980,Lait
+TK-00981,Beurre
+TK-00981,Croissants
+TK-00981,Bananes
+TK-00981,Confiture
+TK-00982,Tomates
+TK-00982,Oeufs
+TK-00982,Eau
+TK-00982,Salade
+TK-00983,Lait
+TK-00983,Pommes
+TK-00984,Eau
+TK-00984,Pommes
+TK-00984,Saucisses
+TK-00984,Tomates
+TK-00984,Lait
+TK-00984,Bière
+TK-00984,Steak haché
+TK-00985,Café
+TK-00985,Bananes
+TK-00985,Confiture
+TK-00985,Tomates
+TK-00985,Baguette
+TK-00985,Jambon
+TK-00985,Salade
+TK-00985,Lait
+TK-00986,Eau
+TK-00987,Cacahuètes
+TK-00987,Eau
+TK-00987,Soda
+TK-00987,Chips
+TK-00987,Baguette
+TK-00987,Bière
+TK-00988,Dentifrice
+TK-00988,Tomates
+TK-00988,Papier toilette
+TK-00988,Salade
+TK-00988,Shampoing
+TK-00988,Lait
+TK-00989,Baguette
+TK-00990,Café
+TK-00990,Saucisses
+TK-00990,Eau
+TK-00990,Bière
+TK-00991,Shampoing
+TK-00991,Papier toilette
+TK-00991,Bananes
+TK-00991,Dentifrice
+TK-00992,Bière
+TK-00992,Chips
+TK-00993,Shampoing
+TK-00993,Papier toilette
+TK-00993,Eau
+TK-00993,Dentifrice
+TK-00994,Pâtes
+TK-00994,Fromage râpé
+TK-00994,Sauce tomate
+TK-00994,Dentifrice
+TK-00995,Oeufs
+TK-00995,Eau
+TK-00995,Bananes
+TK-00996,Eau
+TK-00997,Riz
+TK-00997,Jambon
+TK-00998,Pâtes
+TK-00998,Sauce tomate
+TK-00998,Bananes
+TK-00998,Fromage râpé
+TK-00998,Steak haché
+TK-00999,Eau
+TK-00999,Saucisses
+TK-00999,Tomates
+TK-00999,Lait
+TK-00999,Steak haché
+TK-01000,Yaourts
+TK-01000,Eau
+TK-01000,Soda
+TK-01000,Bière
+TK-01000,Pommes
+TK-01001,Oeufs
+TK-01001,Yaourts
+TK-01001,Bananes
+TK-01001,Céréales
+TK-01001,Tomates
+TK-01001,Baguette
+TK-01001,Jambon
+TK-01001,Salade
+TK-01001,Lait
+TK-01002,Eau
+TK-01002,Café
+TK-01002,Confiture
+TK-01002,Beurre
+TK-01002,Baguette
+TK-01002,Lait
+TK-01003,Pâtes
+TK-01003,Sauce tomate
+TK-01003,Dentifrice
+TK-01003,Baguette
+TK-01003,Fromage râpé
+TK-01004,Oeufs
+TK-01004,Eau
+TK-01004,Soda
+TK-01004,Tomates
+TK-01004,Salade
+TK-01005,Baguette
+TK-01005,Oeufs
+TK-01005,Yaourts
+TK-01005,Eau
+TK-01006,Eau
+TK-01006,Shampoing
+TK-01006,Jus d'orange
+TK-01006,Céréales
+TK-01006,Bananes
+TK-01006,Dentifrice
+TK-01006,Papier toilette
+TK-01006,Lait
+TK-01006,Pommes
+TK-01007,Café
+TK-01007,Beurre
+TK-01007,Baguette
+TK-01007,Confiture
+TK-01008,Eau
+TK-01008,Bananes
+TK-01008,Pommes
+TK-01009,Lait
+TK-01009,Beurre
+TK-01009,Confiture
+TK-01010,Pâtes
+TK-01010,Sauce tomate
+TK-01010,Jus d'orange
+TK-01010,Fromage râpé
+TK-01010,Pommes
+TK-01011,Pâtes
+TK-01011,Fromage râpé
+TK-01011,Sauce tomate
+TK-01011,Eau
+TK-01012,Yaourts
+TK-01012,Café
+TK-01012,Jus d'orange
+TK-01012,Céréales
+TK-01012,Bananes
+TK-01012,Confiture
+TK-01012,Beurre
+TK-01012,Lait
+TK-01013,Cacahuètes
+TK-01013,Yaourts
+TK-01013,Eau
+TK-01013,Chips
+TK-01013,Bière
+TK-01014,Café
+TK-01015,Yaourts
+TK-01015,Eau
+TK-01015,Céréales
+TK-01015,Tomates
+TK-01015,Steak haché
+TK-01016,Oeufs
+TK-01016,Riz
+TK-01016,Tomates
+TK-01016,Jambon
+TK-01016,Salade
+TK-01016,Lait
+TK-01017,Papier toilette
+TK-01018,Tomates
+TK-01018,Salade
+TK-01019,Cacahuètes
+TK-01019,Yaourts
+TK-01019,Eau
+TK-01019,Soda
+TK-01019,Chips
+TK-01019,Lait
+TK-01019,Bière
+TK-01019,Pommes
+TK-01020,Eau
+TK-01021,Tomates
+TK-01021,Eau
+TK-01021,Salade
+TK-01022,Yaourts
+TK-01022,Eau
+TK-01022,Confiture
+TK-01022,Beurre
+TK-01022,Baguette
+TK-01022,Lait
+TK-01023,Eau
+TK-01023,Bananes
+TK-01023,Confiture
+TK-01023,Baguette
+TK-01023,Lait
+TK-01023,Croissants
+TK-01024,Yaourts
+TK-01024,Jus d'orange
+TK-01024,Tomates
+TK-01024,Jambon
+TK-01024,Salade
+TK-01024,Lait
+TK-01025,Yaourts
+TK-01025,Jus d'orange
+TK-01025,Céréales
+TK-01025,Confiture
+TK-01025,Beurre
+TK-01025,Lait
+TK-01026,Yaourts
+TK-01026,Café
+TK-01026,Confiture
+TK-01026,Beurre
+TK-01026,Baguette
+TK-01026,Lait
+TK-01026,Croissants
+TK-01027,Eau
+TK-01028,Tomates
+TK-01028,Jus d'orange
+TK-01028,Jambon
+TK-01028,Salade
+TK-01029,Eau
+TK-01029,Riz
+TK-01029,Bananes
+TK-01029,Confiture
+TK-01029,Beurre
+TK-01029,Baguette
+TK-01029,Lait
+TK-01030,Tomates
+TK-01030,Oeufs
+TK-01031,Pâtes
+TK-01031,Beurre
+TK-01031,Baguette
+TK-01031,Lait
+TK-01031,Croissants
+TK-01031,Fromage râpé
+TK-01031,Steak haché
+TK-01032,Yaourts
+TK-01032,Eau
+TK-01032,Bananes
+TK-01032,Céréales
+TK-01032,Lait
+TK-01033,Pâtes
+TK-01033,Sauce tomate
+TK-01033,Bananes
+TK-01033,Lait
+TK-01033,Fromage râpé
+TK-01033,Pommes
+TK-01034,Pâtes
+TK-01034,Sauce tomate
+TK-01035,Tomates
+TK-01035,Papier toilette
+TK-01035,Baguette
+TK-01036,Lait
+TK-01036,Bananes
+TK-01036,Eau
+TK-01036,Céréales
+TK-01037,Oeufs
+TK-01037,Eau
+TK-01037,Saucisses
+TK-01037,Tomates
+TK-01037,Baguette
+TK-01037,Salade
+TK-01037,Bière
+TK-01038,Sauce tomate
+TK-01038,Fromage râpé
+TK-01038,Soda
+TK-01038,Eau
+TK-01039,Oeufs
+TK-01039,Eau
+TK-01039,Tomates
+TK-01039,Baguette
+TK-01039,Jambon
+TK-01039,Salade
+TK-01040,Sauce tomate
+TK-01040,Fromage râpé
+TK-01040,Eau
+TK-01041,Oeufs
+TK-01041,Eau
+TK-01041,Café
+TK-01041,Bananes
+TK-01041,Tomates
+TK-01041,Beurre
+TK-01041,Baguette
+TK-01041,Salade
+TK-01041,Lait
+TK-01042,Eau
+TK-01042,Pommes
+TK-01043,Oeufs
+TK-01043,Yaourts
+TK-01043,Eau
+TK-01043,Céréales
+TK-01043,Bananes
+TK-01043,Tomates
+TK-01043,Jambon
+TK-01043,Salade
+TK-01043,Lait
+TK-01044,Bananes
+TK-01045,Oeufs
+TK-01045,Eau
+TK-01045,Soda
+TK-01045,Bananes
+TK-01045,Tomates
+TK-01045,Baguette
+TK-01045,Salade
+TK-01045,Pommes
+TK-01046,Lait
+TK-01046,Pâtes
+TK-01046,Fromage râpé
+TK-01046,Sauce tomate
+TK-01047,Café
+TK-01047,Bananes
+TK-01047,Confiture
+TK-01047,Beurre
+TK-01047,Baguette
+TK-01047,Lait
+TK-01047,Croissants
+TK-01048,Yaourts
+TK-01049,Eau
+TK-01049,Café
+TK-01049,Céréales
+TK-01049,Confiture
+TK-01049,Beurre
+TK-01049,Lait
+TK-01050,Eau
+TK-01050,Saucisses
+TK-01050,Tomates
+TK-01050,Salade
+TK-01050,Bière
+TK-01050,Steak haché
+TK-01051,Tomates
+TK-01051,Salade
+TK-01051,Steak haché
+TK-01052,Cacahuètes
+TK-01052,Oeufs
+TK-01052,Eau
+TK-01052,Soda
+TK-01052,Chips
+TK-01052,Bière
+TK-01053,Tomates
+TK-01053,Beurre
+TK-01053,Bananes
+TK-01053,Confiture
+TK-01054,Yaourts
+TK-01054,Eau
+TK-01054,Bananes
+TK-01054,Céréales
+TK-01054,Baguette
+TK-01054,Lait
+TK-01055,Eau
+TK-01056,Pâtes
+TK-01056,Sauce tomate
+TK-01056,Eau
+TK-01056,Saucisses
+TK-01056,Bananes
+TK-01056,Tomates
+TK-01056,Baguette
+TK-01056,Fromage râpé
+TK-01056,Bière
+TK-01057,Oeufs
+TK-01057,Yaourts
+TK-01057,Eau
+TK-01057,Tomates
+TK-01057,Jambon
+TK-01057,Salade
+TK-01057,Pommes
+TK-01058,Cacahuètes
+TK-01058,Yaourts
+TK-01058,Eau
+TK-01058,Jus d'orange
+TK-01058,Céréales
+TK-01058,Bananes
+TK-01058,Lait
+TK-01058,Bière
+TK-01058,Chips
+TK-01059,Pâtes
+TK-01059,Fromage râpé
+TK-01059,Sauce tomate
+TK-01059,Steak haché
+TK-01060,Oeufs
+TK-01061,Cacahuètes
+TK-01061,Bière
+TK-01061,Chips
+TK-01062,Yaourts
+TK-01062,Pâtes
+TK-01062,Sauce tomate
+TK-01062,Eau
+TK-01062,Jus d'orange
+TK-01062,Céréales
+TK-01062,Bananes
+TK-01062,Lait
+TK-01062,Fromage râpé
+TK-01063,Lait
+TK-01063,Jus d'orange
+TK-01063,Yaourts
+TK-01064,Cacahuètes
+TK-01064,Soda
+TK-01064,Café
+TK-01064,Chips
+TK-01064,Bière
+TK-01065,Eau
+TK-01065,Confiture
+TK-01065,Beurre
+TK-01065,Baguette
+TK-01065,Lait
+TK-01065,Croissants
+TK-01066,Oeufs
+TK-01066,Yaourts
+TK-01066,Eau
+TK-01066,Céréales
+TK-01066,Baguette
+TK-01066,Lait
+TK-01067,Lait
+TK-01067,Yaourts
+TK-01067,Croissants
+TK-01068,Oeufs
+TK-01068,Pâtes
+TK-01068,Sauce tomate
+TK-01068,Riz
+TK-01068,Bananes
+TK-01068,Fromage râpé
+TK-01068,Pommes
+TK-01069,Eau
+TK-01070,Eau
+TK-01070,Café
+TK-01070,Beurre
+TK-01070,Baguette
+TK-01070,Croissants
+TK-01071,Oeufs
+TK-01071,Riz
+TK-01072,Eau
+TK-01072,Jus d'orange
+TK-01072,Céréales
+TK-01072,Bananes
+TK-01072,Lait
+TK-01073,Tomates
+TK-01073,Soda
+TK-01073,Salade
+TK-01074,Eau
+TK-01074,Bananes
+TK-01074,Dentifrice
+TK-01074,Tomates
+TK-01074,Papier toilette
+TK-01074,Jambon
+TK-01074,Salade
+TK-01074,Shampoing
+TK-01074,Lait
+TK-01075,Dentifrice
+TK-01076,Yaourts
+TK-01076,Eau
+TK-01076,Jus d'orange
+TK-01076,Céréales
+TK-01076,Lait
+TK-01077,Soda
+TK-01077,Cacahuètes
+TK-01077,Eau
+TK-01077,Chips
+TK-01078,Yaourts
+TK-01078,Eau
+TK-01078,Café
+TK-01078,Céréales
+TK-01078,Bananes
+TK-01078,Confiture
+TK-01078,Beurre
+TK-01078,Baguette
+TK-01078,Lait
+TK-01079,Oeufs
+TK-01079,Eau
+TK-01079,Café
+TK-01079,Riz
+TK-01079,Confiture
+TK-01079,Baguette
+TK-01079,Lait
+TK-01079,Croissants
+TK-01080,Cacahuètes
+TK-01080,Eau
+TK-01080,Bananes
+TK-01080,Dentifrice
+TK-01080,Papier toilette
+TK-01080,Shampoing
+TK-01080,Bière
+TK-01081,Eau
+TK-01082,Yaourts
+TK-01082,Jus d'orange
+TK-01082,Céréales
+TK-01082,Bananes
+TK-01082,Lait
+TK-01083,Lait
+TK-01083,Bananes
+TK-01083,Yaourts
+TK-01083,Céréales
+TK-01084,Pâtes
+TK-01084,Sauce tomate
+TK-01084,Eau
+TK-01084,Yaourts
+TK-01084,Bananes
+TK-01084,Fromage râpé
+TK-01085,Tomates
+TK-01085,Salade
+TK-01086,Tomates
+TK-01086,Eau
+TK-01086,Pommes
+TK-01087,Cacahuètes
+TK-01087,Eau
+TK-01087,Jus d'orange
+TK-01087,Chips
+TK-01087,Baguette
+TK-01087,Bière
+TK-01088,Tomates
+TK-01088,Yaourts
+TK-01088,Jambon
+TK-01088,Salade
+TK-01089,Eau
+TK-01090,Pommes
+TK-01090,Pâtes
+TK-01090,Fromage râpé
+TK-01090,Eau
+TK-01091,Oeufs
+TK-01091,Bananes
+TK-01091,Tomates
+TK-01091,Jambon
+TK-01091,Salade
+TK-01091,Pommes
+TK-01092,Oeufs
+TK-01092,Eau
+TK-01092,Tomates
+TK-01092,Baguette
+TK-01092,Pommes
+TK-01093,Eau
+TK-01094,Oeufs
+TK-01094,Café
+TK-01094,Confiture
+TK-01094,Beurre
+TK-01094,Baguette
+TK-01094,Lait
+TK-01095,Yaourts
+TK-01095,Eau
+TK-01095,Tomates
+TK-01095,Baguette
+TK-01095,Jambon
+TK-01095,Salade
+TK-01096,Oeufs
+TK-01096,Eau
+TK-01096,Bananes
+TK-01096,Tomates
+TK-01096,Salade
+TK-01097,Eau
+TK-01097,Café
+TK-01097,Beurre
+TK-01097,Baguette
+TK-01097,Lait
+TK-01097,Croissants
+TK-01098,Yaourts
+TK-01098,Eau
+TK-01098,Café
+TK-01098,Bananes
+TK-01098,Confiture
+TK-01098,Beurre
+TK-01098,Baguette
+TK-01099,Pâtes
+TK-01099,Eau
+TK-01099,Sauce tomate
+TK-01100,Pâtes
+TK-01100,Sauce tomate
+TK-01100,Jus d'orange
+TK-01100,Céréales
+TK-01100,Lait
+TK-01100,Fromage râpé
+TK-01101,Eau
+TK-01101,Café
+TK-01101,Bananes
+TK-01101,Confiture
+TK-01101,Beurre
+TK-01101,Baguette
+TK-01102,Eau
+TK-01102,Dentifrice
+TK-01102,Papier toilette
+TK-01102,Shampoing
+TK-01102,Pommes
+TK-01103,Yaourts
+TK-01103,Eau
+TK-01103,Saucisses
+TK-01103,Tomates
+TK-01103,Bière
+TK-01103,Steak haché
+TK-01104,Cacahuètes
+TK-01104,Bière
+TK-01104,Chips
+TK-01104,Eau
+TK-01105,Yaourts
+TK-01105,Café
+TK-01105,Céréales
+TK-01105,Confiture
+TK-01105,Beurre
+TK-01105,Baguette
+TK-01105,Lait
+TK-01106,Yaourts
+TK-01106,Sauce tomate
+TK-01106,Jus d'orange
+TK-01106,Céréales
+TK-01106,Baguette
+TK-01106,Lait
+TK-01106,Fromage râpé
+TK-01107,Shampoing
+TK-01107,Papier toilette
+TK-01107,Eau
+TK-01107,Dentifrice
+TK-01108,Pâtes
+TK-01108,Sauce tomate
+TK-01108,Eau
+TK-01108,Bananes
+TK-01108,Fromage râpé
+TK-01108,Steak haché
+TK-01109,Lait
+TK-01109,Eau
+TK-01110,Pâtes
+TK-01110,Fromage râpé
+TK-01110,Sauce tomate
+TK-01110,Eau
+TK-01111,Yaourts
+TK-01111,Confiture
+TK-01111,Beurre
+TK-01111,Baguette
+TK-01111,Lait
+TK-01111,Croissants
+TK-01112,Yaourts
+TK-01112,Eau
+TK-01112,Riz
+TK-01112,Bananes
+TK-01112,Céréales
+TK-01112,Lait
+TK-01112,Pommes
+TK-01113,Pâtes
+TK-01113,Eau
+TK-01113,Dentifrice
+TK-01113,Papier toilette
+TK-01113,Shampoing
+TK-01113,Fromage râpé
+TK-01113,Pommes
+TK-01114,Oeufs
+TK-01114,Eau
+TK-01114,Café
+TK-01114,Confiture
+TK-01114,Tomates
+TK-01114,Baguette
+TK-01114,Jambon
+TK-01114,Salade
+TK-01114,Lait
+TK-01114,Croissants
+TK-01115,Café
+TK-01115,Bananes
+TK-01115,Confiture
+TK-01115,Beurre
+TK-01115,Lait
+TK-01116,Lait
+TK-01116,Jus d'orange
+TK-01116,Beurre
+TK-01116,Baguette
+TK-01117,Oeufs
+TK-01117,Baguette
+TK-01117,Jambon
+TK-01117,Salade
+TK-01118,Saucisses
+TK-01118,Eau
+TK-01118,Salade
+TK-01118,Steak haché
+TK-01119,Cacahuètes
+TK-01119,Yaourts
+TK-01119,Eau
+TK-01119,Bananes
+TK-01119,Chips
+TK-01119,Bière
+TK-01120,Lait
+TK-01120,Eau
+TK-01121,Eau
+TK-01121,Riz
+TK-01121,Beurre
+TK-01121,Baguette
+TK-01121,Lait
+TK-01121,Croissants
+TK-01122,Yaourts
+TK-01122,Eau
+TK-01122,Jus d'orange
+TK-01122,Céréales
+TK-01122,Bananes
+TK-01122,Lait
+TK-01123,Lait
+TK-01123,Oeufs
+TK-01124,Soda
+TK-01124,Bananes
+TK-01124,Pâtes
+TK-01124,Sauce tomate
+TK-01125,Yaourts
+TK-01125,Eau
+TK-01126,Eau
+TK-01126,Saucisses
+TK-01126,Bananes
+TK-01126,Salade
+TK-01126,Bière
+TK-01126,Steak haché
+TK-01127,Eau
+TK-01127,Café
+TK-01127,Confiture
+TK-01127,Beurre
+TK-01127,Lait
+TK-01128,Oeufs
+TK-01128,Pâtes
+TK-01128,Sauce tomate
+TK-01128,Eau
+TK-01128,Tomates
+TK-01128,Salade
+TK-01129,Baguette
+TK-01129,Eau
+TK-01129,Bananes
+TK-01130,Yaourts
+TK-01130,Eau
+TK-01130,Shampoing
+TK-01130,Jus d'orange
+TK-01130,Céréales
+TK-01130,Bananes
+TK-01130,Dentifrice
+TK-01130,Lait
+TK-01130,Pommes
+TK-01131,Tomates
+TK-01131,Jambon
+TK-01131,Salade
+TK-01132,Shampoing
+TK-01132,Oeufs
+TK-01132,Soda
+TK-01132,Dentifrice
+TK-01133,Eau
+TK-01133,Café
+TK-01133,Confiture
+TK-01133,Beurre
+TK-01133,Baguette
+TK-01133,Lait
+TK-01134,Soda
+TK-01134,Café
+TK-01134,Saucisses
+TK-01134,Tomates
+TK-01134,Lait
+TK-01134,Bière
+TK-01134,Steak haché
+TK-01135,Yaourts
+TK-01135,Eau
+TK-01135,Jus d'orange
+TK-01135,Céréales
+TK-01135,Baguette
+TK-01135,Lait
+TK-01136,Bananes
+TK-01137,Bananes
+TK-01137,Tomates
+TK-01137,Baguette
+TK-01137,Salade
+TK-01137,Lait
+TK-01138,Bananes
+TK-01138,Cacahuètes
+TK-01138,Bière
+TK-01138,Chips
+TK-01139,Oeufs
+TK-01139,Eau
+TK-01139,Riz
+TK-01139,Bananes
+TK-01139,Chips
+TK-01140,Yaourts
+TK-01140,Eau
+TK-01140,Café
+TK-01140,Bananes
+TK-01140,Tomates
+TK-01140,Salade
+TK-01141,Soda
+TK-01141,Saucisses
+TK-01141,Confiture
+TK-01141,Beurre
+TK-01141,Baguette
+TK-01141,Salade
+TK-01141,Croissants
+TK-01142,Saucisses
+TK-01142,Tomates
+TK-01142,Baguette
+TK-01142,Salade
+TK-01142,Steak haché
+TK-01143,Pâtes
+TK-01143,Sauce tomate
+TK-01143,Confiture
+TK-01143,Beurre
+TK-01143,Baguette
+TK-01143,Croissants
+TK-01144,Dentifrice
+TK-01145,Shampoing
+TK-01145,Papier toilette
+TK-01145,Eau
+TK-01145,Dentifrice
+TK-01146,Oeufs
+TK-01146,Cacahuètes
+TK-01146,Eau
+TK-01146,Riz
+TK-01146,Chips
+TK-01146,Baguette
+TK-01146,Bière
+TK-01147,Pâtes
+TK-01147,Sauce tomate
+TK-01148,Lait
+TK-01148,Eau
+TK-01149,Eau
+TK-01149,Shampoing
+TK-01149,Dentifrice
+TK-01149,Confiture
+TK-01149,Papier toilette
+TK-01149,Beurre
+TK-01149,Lait
+TK-01150,Yaourts
+TK-01150,Eau
+TK-01150,Jus d'orange
+TK-01150,Saucisses
+TK-01150,Bananes
+TK-01150,Céréales
+TK-01150,Bière
+TK-01151,Lait
+TK-01151,Eau
+TK-01151,Pommes
+TK-01152,Eau
+TK-01152,Café
+TK-01152,Bananes
+TK-01152,Confiture
+TK-01152,Beurre
+TK-01152,Baguette
+TK-01152,Lait
+TK-01153,Soda
+TK-01153,Café
+TK-01153,Beurre
+TK-01153,Lait
+TK-01153,Croissants
+TK-01153,Pommes
+TK-01154,Yaourts
+TK-01154,Eau
+TK-01154,Jus d'orange
+TK-01154,Bananes
+TK-01154,Céréales
+TK-01155,Pâtes
+TK-01155,Eau
+TK-01155,Soda
+TK-01155,Pommes
+TK-01155,Saucisses
+TK-01155,Bananes
+TK-01155,Tomates
+TK-01155,Fromage râpé
+TK-01155,Steak haché
+TK-01156,Shampoing
+TK-01156,Papier toilette
+TK-01156,Eau
+TK-01156,Dentifrice
+TK-01157,Eau
+TK-01157,Confiture
+TK-01157,Dentifrice
+TK-01157,Papier toilette
+TK-01157,Beurre
+TK-01157,Baguette
+TK-01158,Pâtes
+TK-01158,Fromage râpé
+TK-01158,Sauce tomate
+TK-01159,Pâtes
+TK-01159,Fromage râpé
+TK-01159,Sauce tomate
+TK-01160,Lait
+TK-01160,Pâtes
+TK-01160,Fromage râpé
+TK-01160,Eau
+TK-01161,Yaourts
+TK-01161,Pâtes
+TK-01161,Eau
+TK-01161,Sauce tomate
+TK-01161,Café
+TK-01162,Café
+TK-01162,Yaourts
+TK-01162,Eau
+TK-01163,Cacahuètes
+TK-01163,Eau
+TK-01163,Soda
+TK-01163,Dentifrice
+TK-01163,Papier toilette
+TK-01163,Chips
+TK-01163,Bière
+TK-01164,Eau
+TK-01164,Tomates
+TK-01164,Baguette
+TK-01164,Jambon
+TK-01164,Salade
+TK-01165,Oeufs
+TK-01165,Saucisses
+TK-01165,Tomates
+TK-01165,Baguette
+TK-01165,Salade
+TK-01165,Steak haché
+TK-01166,Yaourts
+TK-01166,Jus d'orange
+TK-01166,Riz
+TK-01166,Céréales
+TK-01166,Bananes
+TK-01166,Lait
+TK-01167,Oeufs
+TK-01167,Eau
+TK-01167,Bananes
+TK-01167,Tomates
+TK-01167,Jambon
+TK-01167,Salade
+TK-01167,Lait
+TK-01168,Oeufs
+TK-01168,Pâtes
+TK-01168,Tomates
+TK-01168,Salade
+TK-01168,Fromage râpé
+TK-01168,Steak haché
+TK-01169,Lait
+TK-01169,Yaourts
+TK-01169,Eau
+TK-01169,Céréales
+TK-01170,Oeufs
+TK-01170,Bananes
+TK-01170,Confiture
+TK-01170,Tomates
+TK-01170,Beurre
+TK-01170,Salade
+TK-01170,Lait
+TK-01170,Croissants
+TK-01170,Pommes
+TK-01171,Pommes
+TK-01172,Baguette
+TK-01172,Riz
+TK-01172,Eau
+TK-01172,Pommes
+TK-01173,Eau
+TK-01173,Café
+TK-01173,Jus d'orange
+TK-01173,Bananes
+TK-01173,Confiture
+TK-01173,Baguette
+TK-01173,Lait
+TK-01173,Croissants
+TK-01174,Lait
+TK-01174,Pâtes
+TK-01174,Eau
+TK-01175,Lait
+TK-01175,Riz
+TK-01175,Eau
+TK-01175,Pommes
+TK-01176,Eau
+TK-01177,Lait
+TK-01177,Bananes
+TK-01177,Yaourts
+TK-01177,Céréales
+TK-01178,Tomates
+TK-01178,Bière
+TK-01178,Salade
+TK-01179,Soda
+TK-01179,Bananes
+TK-01179,Céréales
+TK-01179,Chips
+TK-01179,Bière
+TK-01180,Eau
+TK-01180,Confiture
+TK-01180,Beurre
+TK-01180,Baguette
+TK-01180,Pommes
+TK-01181,Yaourts
+TK-01181,Eau
+TK-01181,Café
+TK-01181,Jus d'orange
+TK-01181,Céréales
+TK-01181,Bananes
+TK-01181,Confiture
+TK-01181,Lait
+TK-01182,Baguette
+TK-01182,Bière
+TK-01182,Chips
+TK-01183,Café
+TK-01183,Confiture
+TK-01183,Dentifrice
+TK-01183,Papier toilette
+TK-01183,Beurre
+TK-01183,Baguette
+TK-01183,Lait
+TK-01184,Lait
+TK-01184,Riz
+TK-01184,Eau
+TK-01185,Jus d'orange
+TK-01185,Riz
+TK-01185,Céréales
+TK-01185,Jambon
+TK-01185,Lait
+TK-01186,Pâtes
+TK-01186,Café
+TK-01186,Beurre
+TK-01186,Baguette
+TK-01186,Croissants
+TK-01186,Fromage râpé
+TK-01187,Baguette
+TK-01187,Eau
+TK-01188,Yaourts
+TK-01188,Confiture
+TK-01188,Beurre
+TK-01188,Baguette
+TK-01188,Croissants
+TK-01189,Eau
+TK-01190,Shampoing
+TK-01190,Papier toilette
+TK-01190,Eau
+TK-01190,Dentifrice
+TK-01191,Soda
+TK-01191,Bière
+TK-01191,Chips
+TK-01191,Eau
+TK-01192,Tomates
+TK-01192,Oeufs
+TK-01192,Salade
+TK-01193,Bananes
+TK-01193,Cacahuètes
+TK-01193,Bière
+TK-01193,Chips
+TK-01194,Pâtes
+TK-01194,Fromage râpé
+TK-01194,Eau
+TK-01195,Pâtes
+TK-01195,Sauce tomate
+TK-01195,Eau
+TK-01195,Café
+TK-01195,Beurre
+TK-01195,Lait
+TK-01195,Croissants
+TK-01195,Pommes
+TK-01196,Pâtes
+TK-01196,Sauce tomate
+TK-01196,Eau
+TK-01196,Jus d'orange
+TK-01196,Céréales
+TK-01196,Bananes
+TK-01196,Fromage râpé
+TK-01197,Yaourts
+TK-01197,Eau
+TK-01197,Café
+TK-01197,Bananes
+TK-01197,Tomates
+TK-01197,Beurre
+TK-01197,Baguette
+TK-01197,Salade
+TK-01197,Lait
+TK-01198,Oeufs
+TK-01198,Pâtes
+TK-01198,Sauce tomate
+TK-01198,Tomates
+TK-01198,Salade
+TK-01198,Fromage râpé
+TK-01199,Confiture
+TK-01200,Eau
+TK-01200,Saucisses
+TK-01200,Tomates
+TK-01200,Salade
+TK-01200,Lait
+TK-01200,Bière
+TK-01200,Steak haché
+TK-01201,Eau
+TK-01202,Pâtes
+TK-01202,Sauce tomate
+TK-01202,Soda
+TK-01202,Dentifrice
+TK-01202,Papier toilette
+TK-01202,Fromage râpé
+TK-01203,Cacahuètes
+TK-01203,Eau
+TK-01203,Chips
+TK-01204,Cacahuètes
+TK-01204,Eau
+TK-01204,Saucisses
+TK-01204,Bananes
+TK-01204,Tomates
+TK-01204,Lait
+TK-01204,Bière
+TK-01204,Chips
+TK-01204,Pommes
+TK-01205,Soda
+TK-01205,Saucisses
+TK-01205,Eau
+TK-01205,Bière
+TK-01206,Jus d'orange
+TK-01206,Céréales
+TK-01207,Cacahuètes
+TK-01207,Eau
+TK-01207,Soda
+TK-01207,Bananes
+TK-01207,Chips
+TK-01207,Bière
+TK-01208,Soda
+TK-01208,Café
+TK-01208,Bananes
+TK-01208,Confiture
+TK-01208,Beurre
+TK-01208,Lait
+TK-01208,Croissants
+TK-01209,Eau
+TK-01209,Pommes
+TK-01210,Bananes
+TK-01210,Dentifrice
+TK-01210,Papier toilette
+TK-01210,Baguette
+TK-01210,Shampoing
+TK-01211,Baguette
+TK-01211,Bananes
+TK-01211,Eau
+TK-01212,Shampoing
+TK-01212,Papier toilette
+TK-01212,Bananes
+TK-01212,Dentifrice
+TK-01213,Pâtes
+TK-01213,Fromage râpé
+TK-01213,Eau
+TK-01214,Oeufs
+TK-01214,Cacahuètes
+TK-01214,Eau
+TK-01214,Soda
+TK-01215,Oeufs
+TK-01215,Bananes
+TK-01215,Jambon
+TK-01215,Salade
+TK-01215,Pommes
+TK-01216,Tomates
+TK-01216,Lait
+TK-01216,Saucisses
+TK-01216,Salade
+TK-01217,Papier toilette
+TK-01218,Saucisses
+TK-01218,Eau
+TK-01218,Bière
+TK-01218,Steak haché
+TK-01219,Confiture
+TK-01219,Beurre
+TK-01219,Baguette
+TK-01219,Lait
+TK-01219,Croissants
+TK-01219,Pommes
+TK-01220,Eau
+TK-01221,Oeufs
+TK-01221,Yaourts
+TK-01221,Bananes
+TK-01221,Céréales
+TK-01221,Salade
+TK-01221,Lait
+TK-01222,Eau
+TK-01222,Soda
+TK-01222,Café
+TK-01222,Confiture
+TK-01222,Beurre
+TK-01222,Baguette
+TK-01222,Lait
+TK-01222,Croissants
+TK-01222,Pommes
+TK-01223,Lait
+TK-01223,Eau
+TK-01223,Pommes
+TK-01224,Cacahuètes
+TK-01224,Eau
+TK-01224,Chips
+TK-01224,Lait
+TK-01224,Bière
+TK-01225,Shampoing
+TK-01225,Papier toilette
+TK-01225,Lait
+TK-01225,Bananes
+TK-01226,Eau
+TK-01226,Café
+TK-01226,Saucisses
+TK-01226,Confiture
+TK-01226,Beurre
+TK-01226,Salade
+TK-01226,Croissants
+TK-01226,Bière
+TK-01226,Steak haché
+TK-01227,Eau
+TK-01227,Café
+TK-01227,Beurre
+TK-01227,Baguette
+TK-01227,Lait
+TK-01228,Eau
+TK-01229,Shampoing
+TK-01229,Eau
+TK-01229,Baguette
+TK-01229,Dentifrice
+TK-01230,Pâtes
+TK-01230,Eau
+TK-01230,Sauce tomate
+TK-01231,Eau
+TK-01231,Dentifrice
+TK-01231,Papier toilette
+TK-01231,Shampoing
+TK-01231,Pommes
+TK-01232,Oeufs
+TK-01232,Eau
+TK-01232,Café
+TK-01232,Saucisses
+TK-01232,Baguette
+TK-01232,Bière
+TK-01233,Pâtes
+TK-01233,Eau
+TK-01233,Sauce tomate
+TK-01233,Lait
+TK-01233,Fromage râpé
+TK-01233,Steak haché
+TK-01234,Baguette
+TK-01234,Pommes
+TK-01235,Pâtes
+TK-01235,Sauce tomate
+TK-01235,Pommes
+TK-01235,Bananes
+TK-01235,Fromage râpé
+TK-01235,Steak haché
+TK-01236,Eau
+TK-01236,Bananes
+TK-01236,Céréales
+TK-01236,Confiture
+TK-01236,Beurre
+TK-01236,Lait
+TK-01236,Pommes
+TK-01237,Eau
+TK-01237,Bananes
+TK-01237,Beurre
+TK-01237,Baguette
+TK-01237,Lait
+TK-01238,Jus d'orange
+TK-01238,Eau
+TK-01239,Jus d'orange
+TK-01239,Saucisses
+TK-01239,Bière
+TK-01240,Pâtes
+TK-01240,Dentifrice
+TK-01240,Papier toilette
+TK-01240,Fromage râpé
+TK-01240,Steak haché
+TK-01241,Eau
+TK-01241,Soda
+TK-01241,Café
+TK-01241,Saucisses
+TK-01241,Tomates
+TK-01241,Salade
+TK-01241,Bière
+TK-01241,Steak haché
+TK-01242,Eau
+TK-01242,Café
+TK-01242,Confiture
+TK-01242,Beurre
+TK-01242,Baguette
+TK-01242,Lait
+TK-01242,Croissants
+TK-01243,Soda
+TK-01243,Baguette
+TK-01243,Bananes
+TK-01244,Yaourts
+TK-01244,Eau
+TK-01244,Bananes
+TK-01244,Céréales
+TK-01244,Lait
+TK-01245,Yaourts
+TK-01245,Pâtes
+TK-01245,Fromage râpé
+TK-01245,Chips
+TK-01245,Steak haché
+TK-01246,Oeufs
+TK-01246,Yaourts
+TK-01246,Jus d'orange
+TK-01246,Bananes
+TK-01246,Baguette
+TK-01246,Pommes
+TK-01247,Lait
+TK-01247,Eau
+TK-01248,Eau
+TK-01248,Jambon
+TK-01249,Jus d'orange
+TK-01249,Eau
+TK-01249,Céréales
+TK-01250,Lait
+TK-01250,Jus d'orange
+TK-01250,Yaourts
+TK-01250,Céréales
+TK-01251,Oeufs
+TK-01251,Eau
+TK-01251,Tomates
+TK-01251,Baguette
+TK-01251,Jambon
+TK-01251,Salade
+TK-01252,Pâtes
+TK-01252,Eau
+TK-01252,Sauce tomate
+TK-01252,Soda
+TK-01252,Baguette
+TK-01252,Fromage râpé
+TK-01252,Steak haché
+TK-01253,Lait
+TK-01253,Eau
+TK-01253,Céréales
+TK-01254,Café
+TK-01254,Jus d'orange
+TK-01254,Céréales
+TK-01254,Bananes
+TK-01254,Confiture
+TK-01254,Beurre
+TK-01254,Baguette
+TK-01254,Lait
+TK-01255,Eau
+TK-01255,Café
+TK-01255,Confiture
+TK-01255,Beurre
+TK-01255,Baguette
+TK-01256,Eau
+TK-01256,Café
+TK-01256,Bananes
+TK-01256,Confiture
+TK-01256,Baguette
+TK-01256,Lait
+TK-01256,Croissants
+TK-01257,Baguette
+TK-01258,Eau
+TK-01259,Baguette
+TK-01260,Lait
+TK-01260,Cacahuètes
+TK-01260,Bière
+TK-01260,Chips
+TK-01261,Eau
+TK-01261,Café
+TK-01261,Bananes
+TK-01261,Bière
+TK-01261,Steak haché
+TK-01262,Pâtes
+TK-01262,Fromage râpé
+TK-01262,Sauce tomate
+TK-01262,Eau
+TK-01263,Pâtes
+TK-01263,Sauce tomate
+TK-01263,Steak haché
+TK-01264,Bananes
+TK-01265,Eau
+TK-01265,Bananes
+TK-01265,Tomates
+TK-01265,Salade
+TK-01265,Bière
+TK-01266,Oeufs
+TK-01266,Shampoing
+TK-01266,Jus d'orange
+TK-01266,Céréales
+TK-01266,Dentifrice
+TK-01266,Papier toilette
+TK-01266,Lait
+TK-01267,Riz
+TK-01267,Eau
+TK-01268,Pâtes
+TK-01268,Sauce tomate
+TK-01268,Yaourts
+TK-01268,Eau
+TK-01268,Céréales
+TK-01268,Lait
+TK-01268,Steak haché
+TK-01269,Cacahuètes
+TK-01269,Eau
+TK-01269,Confiture
+TK-01269,Chips
+TK-01269,Beurre
+TK-01269,Baguette
+TK-01269,Bière
+TK-01270,Oeufs
+TK-01270,Eau
+TK-01270,Café
+TK-01270,Tomates
+TK-01270,Beurre
+TK-01270,Baguette
+TK-01270,Jambon
+TK-01270,Salade
+TK-01270,Lait
+TK-01270,Croissants
+TK-01271,Shampoing
+TK-01271,Papier toilette
+TK-01271,Eau
+TK-01271,Dentifrice
+TK-01272,Eau
+TK-01273,Lait
+TK-01273,Pâtes
+TK-01273,Sauce tomate
+TK-01274,Oeufs
+TK-01274,Eau
+TK-01274,Riz
+TK-01274,Dentifrice
+TK-01274,Papier toilette
+TK-01274,Jambon
+TK-01274,Shampoing
+TK-01275,Yaourts
+TK-01275,Eau
+TK-01275,Jus d'orange
+TK-01275,Céréales
+TK-01275,Tomates
+TK-01275,Salade
+TK-01276,Yaourts
+TK-01276,Eau
+TK-01276,Soda
+TK-01276,Tomates
+TK-01276,Chips
+TK-01276,Baguette
+TK-01276,Salade
+TK-01276,Bière
+TK-01277,Eau
+TK-01277,Bananes
+TK-01278,Eau
+TK-01279,Pâtes
+TK-01279,Sauce tomate
+TK-01279,Eau
+TK-01279,Jus d'orange
+TK-01279,Céréales
+TK-01279,Bananes
+TK-01279,Lait
+TK-01279,Fromage râpé
+TK-01279,Steak haché
+TK-01280,Yaourts
+TK-01280,Eau
+TK-01280,Saucisses
+TK-01280,Bananes
+TK-01280,Tomates
+TK-01280,Baguette
+TK-01280,Salade
+TK-01280,Bière
+TK-01280,Steak haché
+TK-01281,Yaourts
+TK-01281,Céréales
+TK-01281,Pommes
+TK-01282,Cacahuètes
+TK-01282,Bière
+TK-01282,Chips
+TK-01283,Yaourts
+TK-01283,Café
+TK-01283,Confiture
+TK-01283,Beurre
+TK-01283,Lait
+TK-01283,Croissants
+TK-01284,Saucisses
+TK-01284,Bananes
+TK-01284,Steak haché
+TK-01285,Yaourts
+TK-01285,Eau
+TK-01285,Jus d'orange
+TK-01285,Céréales
+TK-01285,Lait
+TK-01286,Lait
+TK-01286,Eau
+TK-01286,Soda
+TK-01287,Tomates
+TK-01287,Eau
+TK-01287,Salade
+TK-01288,Saucisses
+TK-01288,Bière
+TK-01288,Salade
+TK-01288,Steak haché
+TK-01289,Pâtes
+TK-01289,Sauce tomate
+TK-01289,Eau
+TK-01289,Saucisses
+TK-01289,Bananes
+TK-01289,Tomates
+TK-01289,Baguette
+TK-01289,Salade
+TK-01289,Bière
+TK-01290,Jus d'orange
+TK-01291,Cacahuètes
+TK-01291,Eau
+TK-01291,Pommes
+TK-01291,Saucisses
+TK-01291,Tomates
+TK-01291,Bière
+TK-01291,Chips
+TK-01291,Steak haché
+TK-01292,Eau
+TK-01293,Bière
+TK-01293,Salade
+TK-01293,Steak haché
+TK-01294,Pâtes
+TK-01294,Fromage râpé
+TK-01294,Bananes
+TK-01295,Pâtes
+TK-01295,Sauce tomate
+TK-01295,Jus d'orange
+TK-01295,Céréales
+TK-01295,Bananes
+TK-01295,Lait
+TK-01295,Fromage râpé
+TK-01296,Bananes
+TK-01297,Yaourts
+TK-01297,Saucisses
+TK-01297,Bananes
+TK-01297,Baguette
+TK-01297,Salade
+TK-01297,Bière
+TK-01297,Steak haché
+TK-01298,Tomates
+TK-01298,Saucisses
+TK-01298,Salade
+TK-01298,Steak haché
+TK-01299,Eau
+TK-01299,Café
+TK-01299,Confiture
+TK-01299,Beurre
+TK-01299,Baguette
+TK-01300,Café
+TK-01300,Confiture
+TK-01300,Baguette
+TK-01300,Lait
+TK-01300,Croissants
+TK-01301,Pâtes
+TK-01301,Sauce tomate
+TK-01301,Eau
+TK-01301,Pommes
+TK-01301,Saucisses
+TK-01301,Tomates
+TK-01301,Salade
+TK-01301,Steak haché
+TK-01302,Jus d'orange
+TK-01302,Yaourts
+TK-01303,Sauce tomate
+TK-01303,Yaourts
+TK-01303,Pâtes
+TK-01303,Eau
+TK-01303,Bananes
+TK-01303,Céréales
+TK-01303,Pommes
+TK-01304,Eau
+TK-01304,Café
+TK-01304,Jus d'orange
+TK-01304,Beurre
+TK-01304,Baguette
+TK-01305,Café
+TK-01305,Oeufs
+TK-01305,Eau
+TK-01305,Bière
+TK-01306,Pâtes
+TK-01306,Sauce tomate
+TK-01306,Yaourts
+TK-01306,Eau
+TK-01306,Céréales
+TK-01306,Fromage râpé
+TK-01307,Shampoing
+TK-01307,Café
+TK-01307,Confiture
+TK-01307,Dentifrice
+TK-01307,Papier toilette
+TK-01307,Beurre
+TK-01307,Baguette
+TK-01307,Lait
+TK-01308,Lait
+TK-01308,Baguette
+TK-01308,Confiture
+TK-01309,Oeufs
+TK-01309,Eau
+TK-01309,Soda
+TK-01309,Bananes
+TK-01309,Chips
+TK-01309,Lait
+TK-01309,Bière
+TK-01310,Soda
+TK-01310,Riz
+TK-01310,Eau
+TK-01310,Bananes
+TK-01311,Oeufs
+TK-01311,Eau
+TK-01311,Café
+TK-01311,Beurre
+TK-01311,Baguette
+TK-01311,Lait
+TK-01312,Yaourts
+TK-01312,Eau
+TK-01312,Jus d'orange
+TK-01312,Céréales
+TK-01312,Bananes
+TK-01312,Lait
+TK-01313,Soda
+TK-01313,Bière
+TK-01313,Chips
+TK-01313,Eau
+TK-01314,Cacahuètes
+TK-01314,Pâtes
+TK-01314,Sauce tomate
+TK-01314,Soda
+TK-01314,Eau
+TK-01314,Fromage râpé
+TK-01314,Chips
+TK-01314,Bière
+TK-01314,Steak haché
+TK-01315,Pâtes
+TK-01315,Eau
+TK-01315,Sauce tomate
+TK-01316,Oeufs
+TK-01316,Pâtes
+TK-01316,Fromage râpé
+TK-01316,Soda
+TK-01317,Oeufs
+TK-01317,Yaourts
+TK-01317,Eau
+TK-01317,Jus d'orange
+TK-01317,Céréales
+TK-01317,Tomates
+TK-01317,Lait
+TK-01318,Baguette
+TK-01319,Lait
+TK-01319,Yaourts
+TK-01319,Eau
+TK-01319,Bananes
+TK-01320,Cacahuètes
+TK-01320,Pâtes
+TK-01320,Sauce tomate
+TK-01320,Eau
+TK-01320,Oeufs
+TK-01320,Fromage râpé
+TK-01320,Chips
+TK-01320,Bière
+TK-01320,Steak haché
+TK-01321,Eau
+TK-01321,Bananes
+TK-01321,Tomates
+TK-01321,Baguette
+TK-01321,Salade
+TK-01322,Oeufs
+TK-01322,Yaourts
+TK-01322,Céréales
+TK-01322,Bananes
+TK-01322,Tomates
+TK-01322,Baguette
+TK-01322,Jambon
+TK-01322,Salade
+TK-01322,Lait
+TK-01323,Tomates
+TK-01323,Eau
+TK-01323,Salade
+TK-01324,Eau
+TK-01324,Dentifrice
+TK-01324,Papier toilette
+TK-01324,Shampoing
+TK-01324,Pommes
+TK-01325,Cacahuètes
+TK-01325,Oeufs
+TK-01325,Eau
+TK-01325,Jus d'orange
+TK-01325,Tomates
+TK-01325,Chips
+TK-01325,Baguette
+TK-01325,Jambon
+TK-01325,Salade
+TK-01325,Bière
+TK-01326,Tomates
+TK-01326,Bananes
+TK-01326,Eau
+TK-01326,Céréales
+TK-01327,Oeufs
+TK-01327,Yaourts
+TK-01327,Tomates
+TK-01327,Salade
+TK-01327,Steak haché
+TK-01328,Eau
+TK-01328,Saucisses
+TK-01328,Salade
+TK-01328,Bière
+TK-01328,Pommes
+TK-01329,Yaourts
+TK-01329,Eau
+TK-01329,Jus d'orange
+TK-01329,Céréales
+TK-01329,Bananes
+TK-01329,Lait
+TK-01330,Yaourts
+TK-01330,Eau
+TK-01330,Jus d'orange
+TK-01330,Céréales
+TK-01330,Bananes
+TK-01330,Lait
+TK-01331,Yaourts
+TK-01331,Pâtes
+TK-01331,Fromage râpé
+TK-01331,Sauce tomate
+TK-01332,Eau
+TK-01333,Eau
+TK-01333,Saucisses
+TK-01333,Tomates
+TK-01333,Baguette
+TK-01333,Salade
+TK-01333,Lait
+TK-01333,Bière
+TK-01334,Pâtes
+TK-01334,Eau
+TK-01334,Sauce tomate
+TK-01334,Steak haché
+TK-01335,Oeufs
+TK-01335,Cacahuètes
+TK-01335,Soda
+TK-01335,Tomates
+TK-01335,Jambon
+TK-01335,Salade
+TK-01335,Bière
+TK-01335,Chips
+TK-01335,Pommes
+TK-01336,Soda
+TK-01336,Oeufs
+TK-01336,Eau
+TK-01336,Bananes
+TK-01337,Cacahuètes
+TK-01337,Eau
+TK-01337,Bananes
+TK-01337,Chips
+TK-01337,Bière
+TK-01338,Eau
+TK-01338,Café
+TK-01338,Dentifrice
+TK-01338,Confiture
+TK-01338,Papier toilette
+TK-01338,Beurre
+TK-01338,Baguette
+TK-01338,Shampoing
+TK-01338,Lait
+TK-01338,Pommes
+TK-01339,Pâtes
+TK-01339,Sauce tomate
+TK-01339,Eau
+TK-01339,Café
+TK-01339,Fromage râpé
+TK-01340,Riz
+TK-01340,Bananes
+TK-01340,Confiture
+TK-01340,Beurre
+TK-01340,Baguette
+TK-01340,Lait
+TK-01341,Pâtes
+TK-01341,Fromage râpé
+TK-01341,Bananes
+TK-01341,Steak haché
+TK-01342,Croissants
+TK-01343,Oeufs
+TK-01344,Yaourts
+TK-01344,Eau
+TK-01344,Céréales
+TK-01344,Tomates
+TK-01344,Salade
+TK-01344,Lait
+TK-01344,Pommes
+TK-01345,Soda
+TK-01345,Saucisses
+TK-01345,Confiture
+TK-01345,Tomates
+TK-01345,Beurre
+TK-01345,Baguette
+TK-01345,Salade
+TK-01345,Lait
+TK-01345,Bière
+TK-01346,Café
+TK-01346,Confiture
+TK-01346,Beurre
+TK-01346,Lait
+TK-01346,Pommes
+TK-01347,Lait
+TK-01347,Jus d'orange
+TK-01347,Yaourts
+TK-01347,Bananes
+TK-01348,Eau
+TK-01348,Pommes
+TK-01348,Saucisses
+TK-01348,Dentifrice
+TK-01348,Papier toilette
+TK-01348,Shampoing
+TK-01348,Bière
+TK-01348,Steak haché
+TK-01349,Oeufs
+TK-01349,Riz
+TK-01349,Eau
+TK-01350,Yaourts
+TK-01350,Eau
+TK-01350,Saucisses
+TK-01350,Salade
+TK-01350,Steak haché
+TK-01351,Jambon
+TK-01352,Jus d'orange
+TK-01352,Cacahuètes
+TK-01352,Céréales
+TK-01352,Bière
+TK-01353,Yaourts
+TK-01353,Soda
+TK-01353,Jus d'orange
+TK-01353,Céréales
+TK-01353,Baguette
+TK-01353,Lait
+TK-01354,Saucisses
+TK-01354,Bananes
+TK-01354,Tomates
+TK-01354,Salade
+TK-01354,Bière
+TK-01354,Steak haché
+TK-01355,Tomates
+TK-01355,Oeufs
+TK-01355,Jambon
+TK-01355,Salade
+TK-01356,Cacahuètes
+TK-01356,Eau
+TK-01356,Soda
+TK-01356,Chips
+TK-01356,Bière
+TK-01357,Shampoing
+TK-01357,Papier toilette
+TK-01357,Jus d'orange
+TK-01357,Dentifrice
+TK-01358,Pâtes
+TK-01358,Sauce tomate
+TK-01358,Baguette
+TK-01358,Fromage râpé
+TK-01358,Steak haché
+TK-01359,Pâtes
+TK-01359,Sauce tomate
+TK-01359,Yaourts
+TK-01359,Café
+TK-01359,Bananes
+TK-01359,Confiture
+TK-01359,Beurre
+TK-01359,Baguette
+TK-01359,Lait
+TK-01359,Fromage râpé
+TK-01360,Baguette
+TK-01360,Eau
+TK-01361,Eau
+TK-01361,Café
+TK-01361,Confiture
+TK-01361,Beurre
+TK-01361,Baguette
+TK-01362,Eau
+TK-01362,Café
+TK-01362,Bananes
+TK-01362,Confiture
+TK-01362,Beurre
+TK-01362,Baguette
+TK-01362,Lait
+TK-01362,Croissants
+TK-01363,Eau
+TK-01363,Café
+TK-01363,Confiture
+TK-01363,Beurre
+TK-01363,Baguette
+TK-01364,Cacahuètes
+TK-01364,Yaourts
+TK-01364,Soda
+TK-01364,Bananes
+TK-01364,Bière
+TK-01365,Café
+TK-01365,Lait
+TK-01365,Croissants
+TK-01365,Baguette
+TK-01366,Pâtes
+TK-01366,Sauce tomate
+TK-01366,Jus d'orange
+TK-01366,Céréales
+TK-01366,Bananes
+TK-01366,Baguette
+TK-01366,Fromage râpé
+TK-01367,Lait
+TK-01367,Bananes
+TK-01367,Yaourts
+TK-01367,Céréales
+TK-01368,Yaourts
+TK-01368,Bière
+TK-01368,Chips
+TK-01368,Eau
+TK-01369,Yaourts
+TK-01369,Bananes
+TK-01369,Céréales
+TK-01369,Lait
+TK-01369,Pommes
+TK-01370,Tomates
+TK-01370,Bière
+TK-01370,Steak haché
+TK-01371,Pâtes
+TK-01371,Eau
+TK-01371,Sauce tomate
+TK-01371,Soda
+TK-01371,Bananes
+TK-01371,Baguette
+TK-01372,Beurre
+TK-01372,Eau
+TK-01372,Baguette
+TK-01372,Confiture
+TK-01373,Eau
+TK-01373,Jus d'orange
+TK-01373,Céréales
+TK-01373,Beurre
+TK-01373,Baguette
+TK-01373,Lait
+TK-01374,Eau
+TK-01374,Saucisses
+TK-01374,Bananes
+TK-01374,Salade
+TK-01374,Steak haché
+TK-01375,Yaourts
+TK-01375,Eau
+TK-01375,Soda
+TK-01375,Jus d'orange
+TK-01375,Céréales
+TK-01375,Baguette
+TK-01376,Oeufs
+TK-01376,Riz
+TK-01376,Baguette
+TK-01376,Jambon
+TK-01377,Oeufs
+TK-01377,Eau
+TK-01377,Riz
+TK-01377,Bananes
+TK-01377,Jambon
+TK-01378,Yaourts
+TK-01378,Eau
+TK-01378,Pommes
+TK-01379,Lait
+TK-01379,Eau
+TK-01380,Eau
+TK-01380,Bananes
+TK-01380,Tomates
+TK-01380,Baguette
+TK-01380,Salade
+TK-01381,Yaourts
+TK-01381,Eau
+TK-01381,Jus d'orange
+TK-01381,Bananes
+TK-01381,Baguette
+TK-01382,Shampoing
+TK-01382,Eau
+TK-01382,Café
+TK-01382,Dentifrice
+TK-01383,Pâtes
+TK-01383,Sauce tomate
+TK-01383,Eau
+TK-01383,Jus d'orange
+TK-01383,Céréales
+TK-01383,Bananes
+TK-01383,Lait
+TK-01383,Fromage râpé
+TK-01383,Steak haché
+TK-01384,Eau
+TK-01384,Bananes
+TK-01384,Céréales
+TK-01384,Baguette
+TK-01384,Lait
+TK-01385,Riz
+TK-01385,Bananes
+TK-01385,Pommes
+TK-01386,Pâtes
+TK-01386,Sauce tomate
+TK-01386,Steak haché
+TK-01387,Eau
+TK-01387,Jus d'orange
+TK-01387,Céréales
+TK-01387,Bananes
+TK-01387,Lait
+TK-01388,Pâtes
+TK-01388,Fromage râpé
+TK-01388,Sauce tomate
+TK-01388,Eau
+TK-01389,Bananes
+TK-01389,Baguette
+TK-01389,Jambon
+TK-01389,Salade
+TK-01390,Tomates
+TK-01390,Oeufs
+TK-01390,Salade
+TK-01391,Lait
+TK-01391,Yaourts
+TK-01391,Céréales
+TK-01392,Eau
+TK-01392,Soda
+TK-01392,Pommes
+TK-01393,Pâtes
+TK-01393,Sauce tomate
+TK-01394,Yaourts
+TK-01394,Pâtes
+TK-01394,Sauce tomate
+TK-01394,Eau
+TK-01394,Bananes
+TK-01394,Céréales
+TK-01394,Lait
+TK-01394,Fromage râpé
+TK-01395,Lait
+TK-01395,Jus d'orange
+TK-01395,Céréales
+TK-01396,Pâtes
+TK-01396,Eau
+TK-01396,Sauce tomate
+TK-01396,Fromage râpé
+TK-01396,Steak haché
+TK-01397,Eau
+TK-01397,Café
+TK-01397,Confiture
+TK-01397,Tomates
+TK-01397,Beurre
+TK-01397,Baguette
+TK-01397,Salade
+TK-01397,Lait
+TK-01397,Steak haché
+TK-01398,Yaourts
+TK-01398,Eau
+TK-01398,Bananes
+TK-01398,Dentifrice
+TK-01398,Shampoing
+TK-01398,Lait
+TK-01399,Bananes
+TK-01399,Pâtes
+TK-01399,Sauce tomate
+TK-01399,Steak haché
+TK-01400,Baguette
+TK-01400,Pâtes
+TK-01400,Eau
+TK-01400,Sauce tomate
+TK-01401,Shampoing
+TK-01401,Papier toilette
+TK-01401,Eau
+TK-01401,Dentifrice
+TK-01402,Tomates
+TK-01402,Oeufs
+TK-01402,Salade
+TK-01403,Yaourts
+TK-01403,Jus d'orange
+TK-01403,Saucisses
+TK-01403,Céréales
+TK-01403,Tomates
+TK-01403,Salade
+TK-01403,Lait
+TK-01404,Pâtes
+TK-01404,Sauce tomate
+TK-01404,Café
+TK-01404,Bananes
+TK-01404,Beurre
+TK-01404,Baguette
+TK-01404,Lait
+TK-01404,Fromage râpé
+TK-01404,Pommes
+TK-01405,Baguette
+TK-01406,Pâtes
+TK-01406,Sauce tomate
+TK-01406,Saucisses
+TK-01406,Tomates
+TK-01406,Salade
+TK-01406,Fromage râpé
+TK-01406,Steak haché
+TK-01407,Oeufs
+TK-01407,Riz
+TK-01407,Pommes
+TK-01408,Oeufs
+TK-01408,Sauce tomate
+TK-01408,Eau
+TK-01408,Baguette
+TK-01408,Fromage râpé
+TK-01409,Bière
+TK-01409,Chips
+TK-01410,Oeufs
+TK-01410,Eau
+TK-01410,Tomates
+TK-01410,Baguette
+TK-01410,Salade
+TK-01411,Yaourts
+TK-01411,Eau
+TK-01411,Jus d'orange
+TK-01411,Céréales
+TK-01411,Bananes
+TK-01411,Lait
+TK-01412,Soda
+TK-01412,Cacahuètes
+TK-01412,Bière
+TK-01412,Chips
+TK-01413,Lait
+TK-01413,Cacahuètes
+TK-01413,Bière
+TK-01413,Chips
+TK-01414,Pâtes
+TK-01414,Eau
+TK-01414,Soda
+TK-01414,Sauce tomate
+TK-01414,Café
+TK-01415,Eau
+TK-01415,Bananes
+TK-01415,Dentifrice
+TK-01415,Papier toilette
+TK-01415,Baguette
+TK-01415,Shampoing
+TK-01416,Oeufs
+TK-01416,Riz
+TK-01417,Café
+TK-01417,Papier toilette
+TK-01417,Dentifrice
+TK-01418,Lait
+TK-01418,Jus d'orange
+TK-01418,Céréales
+TK-01419,Oeufs
+TK-01419,Bananes
+TK-01419,Tomates
+TK-01419,Baguette
+TK-01419,Jambon
+TK-01419,Salade
+TK-01420,Shampoing
+TK-01420,Papier toilette
+TK-01420,Eau
+TK-01420,Dentifrice
+TK-01421,Baguette
+TK-01421,Bière
+TK-01421,Salade
+TK-01421,Steak haché
+TK-01422,Eau
+TK-01423,Oeufs
+TK-01423,Eau
+TK-01423,Bananes
+TK-01423,Dentifrice
+TK-01423,Papier toilette
+TK-01423,Shampoing
+TK-01424,Lait
+TK-01424,Eau
+TK-01424,Céréales
+TK-01425,Eau
+TK-01425,Café
+TK-01425,Dentifrice
+TK-01425,Papier toilette
+TK-01425,Baguette
+TK-01425,Shampoing
+TK-01425,Croissants
+TK-01426,Cacahuètes
+TK-01426,Eau
+TK-01426,Beurre
+TK-01426,Baguette
+TK-01426,Bière
+TK-01426,Chips
+TK-01427,Tomates
+TK-01427,Bananes
+TK-01427,Lait
+TK-01427,Jambon
+TK-01428,Eau
+TK-01428,Pommes
+TK-01429,Soda
+TK-01429,Baguette
+TK-01429,Bananes
+TK-01430,Pâtes
+TK-01430,Sauce tomate
+TK-01430,Eau
+TK-01430,Bananes
+TK-01430,Tomates
+TK-01430,Baguette
+TK-01430,Salade
+TK-01430,Fromage râpé
+TK-01430,Steak haché
+TK-01431,Jambon
+TK-01431,Pommes
+TK-01432,Oeufs
+TK-01432,Eau
+TK-01432,Riz
+TK-01432,Céréales
+TK-01432,Lait
+TK-01433,Saucisses
+TK-01433,Confiture
+TK-01433,Beurre
+TK-01433,Baguette
+TK-01433,Salade
+TK-01433,Lait
+TK-01434,Oeufs
+TK-01435,Eau
+TK-01435,Café
+TK-01435,Bananes
+TK-01435,Beurre
+TK-01435,Baguette
+TK-01435,Lait
+TK-01435,Pommes
+TK-01436,Tomates
+TK-01436,Eau
+TK-01436,Jambon
+TK-01437,Cacahuètes
+TK-01437,Riz
+TK-01437,Bananes
+TK-01437,Baguette
+TK-01437,Jambon
+TK-01437,Bière
+TK-01437,Chips
+TK-01438,Eau
+TK-01439,Lait
+TK-01439,Papier toilette
+TK-01439,Café
+TK-01439,Dentifrice
+TK-01440,Pâtes
+TK-01440,Eau
+TK-01440,Sauce tomate
+TK-01440,Fromage râpé
+TK-01440,Steak haché
+TK-01441,Shampoing
+TK-01441,Papier toilette
+TK-01441,Eau
+TK-01441,Pommes
+TK-01442,Cacahuètes
+TK-01442,Soda
+TK-01442,Chips
+TK-01442,Lait
+TK-01442,Bière
+TK-01443,Eau
+TK-01443,Bananes
+TK-01444,Pâtes
+TK-01444,Fromage râpé
+TK-01444,Eau
+TK-01444,Steak haché
+TK-01445,Lait
+TK-01445,Eau
+TK-01445,Bananes
+TK-01445,Baguette
+TK-01446,Shampoing
+TK-01446,Jus d'orange
+TK-01446,Eau
+TK-01446,Dentifrice
+TK-01447,Eau
+TK-01447,Saucisses
+TK-01447,Tomates
+TK-01447,Bière
+TK-01447,Steak haché
+TK-01448,Eau
+TK-01448,Bananes
+TK-01448,Tomates
+TK-01448,Baguette
+TK-01448,Salade
+TK-01449,Eau
+TK-01449,Riz
+TK-01449,Saucisses
+TK-01449,Tomates
+TK-01449,Jambon
+TK-01449,Bière
+TK-01450,Eau
+TK-01450,Saucisses
+TK-01450,Bananes
+TK-01450,Baguette
+TK-01450,Bière
+TK-01450,Pommes
+TK-01451,Baguette
+TK-01451,Eau
+TK-01451,Bananes
+TK-01452,Eau
+TK-01452,Bananes
+TK-01452,Baguette
+TK-01452,Jambon
+TK-01452,Salade
+TK-01453,Yaourts
+TK-01453,Eau
+TK-01453,Jus d'orange
+TK-01453,Bananes
+TK-01453,Céréales
+TK-01454,Tomates
+TK-01454,Eau
+TK-01454,Salade
+TK-01455,Confiture
+TK-01455,Tomates
+TK-01455,Beurre
+TK-01455,Baguette
+TK-01455,Jambon
+TK-01455,Salade
+TK-01456,Eau
+TK-01456,Café
+TK-01456,Beurre
+TK-01456,Baguette
+TK-01456,Croissants
+TK-01457,Pâtes
+TK-01457,Sauce tomate
+TK-01457,Eau
+TK-01457,Confiture
+TK-01457,Beurre
+TK-01457,Baguette
+TK-01457,Lait
+TK-01457,Fromage râpé
+TK-01458,Lait
+TK-01458,Jus d'orange
+TK-01458,Eau
+TK-01458,Céréales
+TK-01459,Tomates
+TK-01459,Saucisses
+TK-01459,Salade
+TK-01460,Yaourts
+TK-01460,Eau
+TK-01460,Jus d'orange
+TK-01460,Céréales
+TK-01460,Bananes
+TK-01460,Lait
+TK-01461,Bananes
+TK-01461,Eau
+TK-01461,Jambon
+TK-01461,Salade
+TK-01462,Yaourts
+TK-01463,Tomates
+TK-01463,Oeufs
+TK-01463,Eau
+TK-01463,Salade
+TK-01464,Bananes
+TK-01464,Jus d'orange
+TK-01464,Baguette
+TK-01464,Céréales
+TK-01465,Sauce tomate
+TK-01465,Eau
+TK-01465,Baguette
+TK-01465,Lait
+TK-01465,Croissants
+TK-01465,Fromage râpé
+TK-01465,Steak haché
+TK-01466,Oeufs
+TK-01466,Café
+TK-01466,Riz
+TK-01466,Tomates
+TK-01466,Steak haché
+TK-01467,Yaourts
+TK-01467,Eau
+TK-01467,Bananes
+TK-01467,Céréales
+TK-01467,Lait
+TK-01468,Shampoing
+TK-01468,Papier toilette
+TK-01468,Eau
+TK-01468,Soda
+TK-01469,Eau
+TK-01469,Jus d'orange
+TK-01469,Céréales
+TK-01469,Bananes
+TK-01469,Lait
+TK-01470,Eau
+TK-01470,Beurre
+TK-01470,Baguette
+TK-01470,Salade
+TK-01470,Lait
+TK-01470,Croissants
+TK-01470,Bière
+TK-01470,Steak haché
+TK-01471,Pâtes
+TK-01471,Eau
+TK-01471,Sauce tomate
+TK-01471,Tomates
+TK-01471,Baguette
+TK-01471,Steak haché
+TK-01472,Tomates
+TK-01472,Eau
+TK-01472,Jambon
+TK-01472,Baguette
+TK-01473,Eau
+TK-01473,Soda
+TK-01473,Bananes
+TK-01473,Tomates
+TK-01473,Jambon
+TK-01473,Salade
+TK-01473,Lait
+TK-01474,Oeufs
+TK-01474,Eau
+TK-01474,Tomates
+TK-01474,Salade
+TK-01474,Lait
+TK-01475,Eau
+TK-01475,Dentifrice
+TK-01475,Papier toilette
+TK-01475,Baguette
+TK-01475,Shampoing
+TK-01475,Lait
+TK-01476,Lait
+TK-01476,Bananes
+TK-01477,Oeufs
+TK-01477,Eau
+TK-01477,Jus d'orange
+TK-01477,Céréales
+TK-01477,Bananes
+TK-01477,Lait
+TK-01478,Eau
+TK-01478,Bananes
+TK-01478,Dentifrice
+TK-01478,Tomates
+TK-01478,Papier toilette
+TK-01478,Baguette
+TK-01478,Salade
+TK-01478,Shampoing
+TK-01479,Bananes
+TK-01479,Confiture
+TK-01479,Beurre
+TK-01479,Baguette
+TK-01479,Lait
+TK-01479,Croissants
+TK-01480,Baguette
+TK-01480,Jus d'orange
+TK-01480,Eau
+TK-01480,Céréales
+TK-01481,Bière
+TK-01481,Chips
+TK-01481,Eau
+TK-01482,Eau
+TK-01482,Bananes
+TK-01482,Tomates
+TK-01482,Jambon
+TK-01482,Salade
+TK-01483,Pâtes
+TK-01483,Eau
+TK-01483,Sauce tomate
+TK-01483,Café
+TK-01483,Confiture
+TK-01483,Baguette
+TK-01484,Riz
+TK-01484,Cacahuètes
+TK-01484,Eau
+TK-01484,Jambon
+TK-01485,Cacahuètes
+TK-01485,Yaourts
+TK-01485,Eau
+TK-01485,Soda
+TK-01485,Chips
+TK-01485,Baguette
+TK-01485,Bière
+TK-01486,Bananes
+TK-01487,Soda
+TK-01487,Pâtes
+TK-01487,Fromage râpé
+TK-01487,Sauce tomate
+TK-01488,Yaourts
+TK-01488,Jus d'orange
+TK-01488,Bananes
+TK-01488,Lait
+TK-01488,Pommes
+TK-01489,Bananes
+TK-01490,Oeufs
+TK-01490,Saucisses
+TK-01490,Tomates
+TK-01490,Bière
+TK-01490,Pommes
+TK-01491,Lait
+TK-01491,Yaourts
+TK-01491,Céréales
+TK-01491,Café
+TK-01492,Saucisses
+TK-01492,Eau
+TK-01492,Sauce tomate
+TK-01492,Pâtes
+TK-01493,Eau
+TK-01494,Pâtes
+TK-01494,Fromage râpé
+TK-01494,Sauce tomate
+TK-01494,Eau
+TK-01495,Bananes
+TK-01495,Pâtes
+TK-01495,Eau
+TK-01495,Sauce tomate
+TK-01496,Pommes
+TK-01497,Café
+TK-01497,Beurre
+TK-01497,Baguette
+TK-01497,Soda
+TK-01498,Eau
+TK-01498,Chips
+TK-01499,Shampoing
+TK-01499,Papier toilette
+TK-01499,Eau
+TK-01500,Yaourts
+TK-01500,Pâtes
+TK-01500,Sauce tomate
+TK-01500,Jus d'orange
+TK-01500,Lait
+TK-01500,Steak haché
+TK-01501,Pâtes
+TK-01501,Sauce tomate
+TK-01501,Eau
+TK-01501,Bananes
+TK-01501,Fromage râpé
+TK-01501,Steak haché
+TK-01502,Eau
+TK-01502,Bananes
+TK-01503,Lait
+TK-01503,Céréales
+TK-01503,Pommes
+TK-01504,Shampoing
+TK-01504,Yaourts
+TK-01504,Dentifrice
+TK-01505,Riz
+TK-01505,Eau
+TK-01506,Eau
+TK-01506,Bananes
+TK-01506,Confiture
+TK-01506,Beurre
+TK-01506,Baguette
+TK-01506,Lait
+TK-01507,Eau
+TK-01507,Pommes
+TK-01508,Lait
+TK-01509,Eau
+TK-01509,Bananes
+TK-01510,Yaourts
+TK-01510,Eau
+TK-01510,Bananes
+TK-01510,Céréales
+TK-01510,Lait
+TK-01511,Pommes
+TK-01511,Beurre
+TK-01511,Eau
+TK-01511,Confiture
+TK-01512,Lait
+TK-01512,Confiture
+TK-01513,Eau
+TK-01513,Saucisses
+TK-01513,Tomates
+TK-01513,Bière
+TK-01513,Steak haché
+TK-01514,Salade
+TK-01515,Yaourts
+TK-01515,Jus d'orange
+TK-01515,Céréales
+TK-01515,Baguette
+TK-01515,Lait
+TK-01516,Pâtes
+TK-01516,Sauce tomate
+TK-01516,Eau
+TK-01516,Bananes
+TK-01516,Fromage râpé
+TK-01517,Pâtes
+TK-01517,Sauce tomate
+TK-01518,Pâtes
+TK-01518,Fromage râpé
+TK-01518,Sauce tomate
+TK-01519,Oeufs
+TK-01519,Eau
+TK-01519,Café
+TK-01519,Tomates
+TK-01519,Jambon
+TK-01519,Pommes
+TK-01520,Oeufs
+TK-01520,Eau
+TK-01520,Dentifrice
+TK-01520,Tomates
+TK-01520,Papier toilette
+TK-01520,Baguette
+TK-01520,Jambon
+TK-01520,Shampoing
+TK-01521,Eau
+TK-01521,Jus d'orange
+TK-01521,Riz
+TK-01521,Confiture
+TK-01521,Baguette
+TK-01521,Lait
+TK-01521,Croissants
+TK-01522,Baguette
+TK-01522,Eau
+TK-01522,Bananes
+TK-01523,Pâtes
+TK-01523,Fromage râpé
+TK-01523,Eau
+TK-01523,Steak haché
+TK-01524,Eau
+TK-01524,Dentifrice
+TK-01524,Papier toilette
+TK-01524,Shampoing
+TK-01524,Pommes
+TK-01525,Eau
+TK-01525,Jus d'orange
+TK-01525,Céréales
+TK-01525,Lait
+TK-01525,Pommes
+TK-01526,Eau
+TK-01526,Jus d'orange
+TK-01526,Riz
+TK-01526,Bananes
+TK-01526,Baguette
+TK-01527,Café
+TK-01527,Confiture
+TK-01528,Céréales
+TK-01529,Eau
+TK-01529,Shampoing
+TK-01529,Café
+TK-01529,Bananes
+TK-01529,Confiture
+TK-01529,Dentifrice
+TK-01529,Beurre
+TK-01529,Baguette
+TK-01529,Lait
+TK-01530,Eau
+TK-01530,Confiture
+TK-01530,Beurre
+TK-01530,Baguette
+TK-01530,Lait
+TK-01531,Oeufs
+TK-01531,Eau
+TK-01531,Café
+TK-01531,Tomates
+TK-01531,Baguette
+TK-01531,Jambon
+TK-01531,Salade
+TK-01531,Bière
+TK-01531,Steak haché
+TK-01532,Riz
+TK-01532,Yaourts
+TK-01532,Eau
+TK-01532,Bananes
+TK-01533,Café
+TK-01533,Eau
+TK-01533,Pommes
+TK-01534,Yaourts
+TK-01534,Eau
+TK-01534,Jus d'orange
+TK-01534,Bananes
+TK-01534,Lait
+TK-01534,Pommes
+TK-01535,Lait
+TK-01535,Oeufs
+TK-01535,Eau
+TK-01535,Pommes
+TK-01536,Yaourts
+TK-01536,Pâtes
+TK-01536,Sauce tomate
+TK-01537,Pâtes
+TK-01537,Sauce tomate
+TK-01537,Eau
+TK-01537,Beurre
+TK-01537,Baguette
+TK-01537,Lait
+TK-01537,Pommes
+TK-01538,Baguette
+TK-01538,Eau
+TK-01539,Baguette
+TK-01539,Eau
+TK-01539,Café
+TK-01540,Oeufs
+TK-01540,Eau
+TK-01540,Tomates
+TK-01540,Baguette
+TK-01540,Jambon
+TK-01540,Salade
+TK-01541,Bananes
+TK-01542,Bananes
+TK-01542,Riz
+TK-01542,Jambon
+TK-01542,Pommes
+TK-01543,Oeufs
+TK-01543,Bière
+TK-01543,Chips
+TK-01543,Pommes
+TK-01544,Steak haché
+TK-01545,Yaourts
+TK-01545,Eau
+TK-01545,Jus d'orange
+TK-01545,Céréales
+TK-01545,Bananes
+TK-01545,Baguette
+TK-01545,Lait
+TK-01546,Yaourts
+TK-01546,Café
+TK-01546,Bananes
+TK-01546,Baguette
+TK-01546,Lait
+TK-01546,Croissants
+TK-01547,Eau
+TK-01547,Café
+TK-01547,Jus d'orange
+TK-01547,Céréales
+TK-01547,Bananes
+TK-01547,Lait
+TK-01548,Yaourts
+TK-01548,Jus d'orange
+TK-01548,Saucisses
+TK-01548,Céréales
+TK-01548,Salade
+TK-01548,Lait
+TK-01548,Steak haché
+TK-01549,Pâtes
+TK-01549,Bananes
+TK-01549,Dentifrice
+TK-01549,Papier toilette
+TK-01549,Shampoing
+TK-01549,Lait
+TK-01549,Fromage râpé
+TK-01549,Steak haché
+TK-01550,Cacahuètes
+TK-01550,Eau
+TK-01550,Soda
+TK-01550,Café
+TK-01550,Chips
+TK-01550,Beurre
+TK-01550,Baguette
+TK-01550,Lait
+TK-01550,Bière
+TK-01551,Lait
+TK-01551,Yaourts
+TK-01551,Baguette
+TK-01551,Bananes
+TK-01552,Cacahuètes
+TK-01552,Yaourts
+TK-01552,Eau
+TK-01552,Chips
+TK-01552,Lait
+TK-01552,Bière
+TK-01552,Pommes
+TK-01553,Oeufs
+TK-01553,Yaourts
+TK-01553,Eau
+TK-01553,Céréales
+TK-01553,Tomates
+TK-01553,Salade
+TK-01553,Lait
+TK-01554,Eau
+TK-01554,Dentifrice
+TK-01554,Papier toilette
+TK-01554,Baguette
+TK-01554,Shampoing
+TK-01554,Lait
+TK-01555,Shampoing
+TK-01556,Lait
+TK-01556,Céréales
+TK-01557,Yaourts
+TK-01557,Eau
+TK-01557,Bananes
+TK-01557,Céréales
+TK-01557,Pommes
+TK-01558,Shampoing
+TK-01558,Eau
+TK-01558,Dentifrice
+TK-01559,Oeufs
+TK-01559,Eau
+TK-01559,Tomates
+TK-01559,Baguette
+TK-01559,Salade
+TK-01560,Eau
+TK-01560,Saucisses
+TK-01560,Tomates
+TK-01560,Bière
+TK-01560,Steak haché
+TK-01561,Pâtes
+TK-01561,Sauce tomate
+TK-01561,Eau
+TK-01561,Café
+TK-01561,Confiture
+TK-01561,Beurre
+TK-01561,Baguette
+TK-01561,Lait
+TK-01561,Fromage râpé
+TK-01561,Steak haché
+TK-01562,Cacahuètes
+TK-01563,Yaourts
+TK-01563,Eau
+TK-01563,Jus d'orange
+TK-01563,Céréales
+TK-01563,Bananes
+TK-01563,Lait
+TK-01564,Café
+TK-01564,Beurre
+TK-01564,Baguette
+TK-01564,Confiture
+TK-01565,Shampoing
+TK-01565,Bananes
+TK-01565,Dentifrice
+TK-01566,Baguette
+TK-01566,Eau
+TK-01567,Oeufs
+TK-01567,Pâtes
+TK-01567,Eau
+TK-01567,Fromage râpé
+TK-01567,Pommes
+TK-01568,Eau
+TK-01568,Confiture
+TK-01568,Beurre
+TK-01568,Baguette
+TK-01568,Lait
+TK-01568,Croissants
+TK-01569,Shampoing
+TK-01569,Bananes
+TK-01569,Dentifrice
+TK-01569,Baguette
+TK-01569,Lait
+TK-01570,Cacahuètes
+TK-01570,Eau
+TK-01570,Soda
+TK-01570,Riz
+TK-01570,Chips
+TK-01570,Baguette
+TK-01570,Jambon
+TK-01570,Lait
+TK-01570,Bière
+TK-01571,Yaourts
+TK-01571,Jus d'orange
+TK-01571,Baguette
+TK-01571,Jambon
+TK-01571,Lait
+TK-01571,Pommes
+TK-01572,Bananes
+TK-01572,Yaourts
+TK-01572,Eau
+TK-01572,Céréales
+TK-01573,Cacahuètes
+TK-01573,Pâtes
+TK-01573,Sauce tomate
+TK-01573,Eau
+TK-01573,Lait
+TK-01573,Bière
+TK-01573,Chips
+TK-01573,Steak haché
+TK-01574,Eau
+TK-01574,Café
+TK-01574,Tomates
+TK-01574,Salade
+TK-01574,Lait
+TK-01575,Lait
+TK-01575,Cacahuètes
+TK-01575,Eau
+TK-01576,Cacahuètes
+TK-01576,Eau
+TK-01576,Soda
+TK-01576,Riz
+TK-01576,Chips
+TK-01576,Jambon
+TK-01576,Bière
+TK-01577,Cacahuètes
+TK-01577,Eau
+TK-01577,Bananes
+TK-01577,Chips
+TK-01577,Bière
+TK-01578,Bananes
+TK-01578,Cacahuètes
+TK-01578,Bière
+TK-01578,Chips
+TK-01579,Yaourts
+TK-01579,Eau
+TK-01579,Bananes
+TK-01579,Céréales
+TK-01579,Lait
+TK-01580,Lait
+TK-01580,Pâtes
+TK-01580,Fromage râpé
+TK-01580,Sauce tomate
+TK-01581,Oeufs
+TK-01581,Eau
+TK-01581,Pommes
+TK-01582,Lait
+TK-01583,Pâtes
+TK-01583,Sauce tomate
+TK-01583,Eau
+TK-01583,Soda
+TK-01583,Fromage râpé
+TK-01583,Pommes
+TK-01584,Lait
+TK-01584,Beurre
+TK-01584,Confiture
+TK-01585,Oeufs
+TK-01585,Pâtes
+TK-01585,Sauce tomate
+TK-01585,Soda
+TK-01585,Tomates
+TK-01585,Jambon
+TK-01585,Salade
+TK-01585,Steak haché
+TK-01586,Pommes
+TK-01586,Pâtes
+TK-01586,Steak haché
+TK-01587,Yaourts
+TK-01587,Eau
+TK-01588,Baguette
+TK-01589,Lait
+TK-01589,Baguette
+TK-01589,Confiture
+TK-01590,Tomates
+TK-01590,Oeufs
+TK-01590,Salade
+TK-01590,Pommes
+TK-01591,Cacahuètes
+TK-01591,Eau
+TK-01591,Chips
+TK-01591,Baguette
+TK-01591,Bière
+TK-01592,Pâtes
+TK-01592,Fromage râpé
+TK-01592,Sauce tomate
+TK-01593,Pâtes
+TK-01593,Fromage râpé
+TK-01593,Sauce tomate
+TK-01593,Steak haché
+TK-01594,Soda
+TK-01594,Bananes
+TK-01594,Dentifrice
+TK-01594,Papier toilette
+TK-01594,Shampoing
+TK-01595,Tomates
+TK-01595,Oeufs
+TK-01595,Eau
+TK-01595,Bière
+TK-01596,Pâtes
+TK-01596,Eau
+TK-01596,Sauce tomate
+TK-01596,Fromage râpé
+TK-01596,Steak haché
+TK-01597,Bananes
+TK-01598,Lait
+TK-01598,Oeufs
+TK-01598,Baguette
+TK-01599,Yaourts
+TK-01599,Eau
+TK-01599,Jus d'orange
+TK-01599,Céréales
+TK-01599,Lait
+TK-01599,Pommes
+TK-01600,Lait
+TK-01600,Jus d'orange
+TK-01600,Céréales
+TK-01600,Bananes
+TK-01601,Saucisses
+TK-01601,Bière
+TK-01601,Salade
+TK-01601,Steak haché
+TK-01602,Oeufs
+TK-01602,Pâtes
+TK-01602,Sauce tomate
+TK-01602,Eau
+TK-01602,Café
+TK-01602,Confiture
+TK-01602,Beurre
+TK-01602,Baguette
+TK-01602,Lait
+TK-01602,Fromage râpé
+TK-01602,Pommes
+TK-01603,Cacahuètes
+TK-01603,Yaourts
+TK-01603,Eau
+TK-01603,Bananes
+TK-01603,Tomates
+TK-01603,Baguette
+TK-01603,Salade
+TK-01603,Chips
+TK-01603,Pommes
+TK-01604,Café
+TK-01604,Beurre
+TK-01604,Baguette
+TK-01604,Confiture
+TK-01605,Cacahuètes
+TK-01605,Pâtes
+TK-01605,Baguette
+TK-01605,Fromage râpé
+TK-01605,Chips
+TK-01605,Bière
+TK-01605,Steak haché
+TK-01606,Oeufs
+TK-01606,Yaourts
+TK-01606,Eau
+TK-01606,Soda
+TK-01606,Jus d'orange
+TK-01606,Lait
+TK-01607,Soda
+TK-01608,Pâtes
+TK-01608,Sauce tomate
+TK-01608,Eau
+TK-01608,Baguette
+TK-01608,Fromage râpé
+TK-01609,Café
+TK-01609,Bananes
+TK-01609,Confiture
+TK-01609,Beurre
+TK-01609,Baguette
+TK-01609,Lait
+TK-01609,Pommes
+TK-01610,Lait
+TK-01610,Bananes
+TK-01610,Confiture
+TK-01611,Bananes
+TK-01611,Pommes
+TK-01612,Beurre
+TK-01612,Croissants
+TK-01612,Confiture
+TK-01613,Café
+TK-01613,Eau
+TK-01614,Pâtes
+TK-01614,Sauce tomate
+TK-01614,Eau
+TK-01614,Saucisses
+TK-01614,Fromage râpé
+TK-01614,Steak haché
+TK-01615,Soda
+TK-01615,Dentifrice
+TK-01615,Papier toilette
+TK-01615,Chips
+TK-01615,Shampoing
+TK-01615,Bière
+TK-01616,Oeufs
+TK-01616,Eau
+TK-01616,Tomates
+TK-01616,Jambon
+TK-01616,Salade
+TK-01617,Yaourts
+TK-01617,Jus d'orange
+TK-01617,Céréales
+TK-01617,Bananes
+TK-01617,Lait
+TK-01618,Saucisses
+TK-01618,Eau
+TK-01618,Bière
+TK-01619,Papier toilette
+TK-01620,Bananes
+TK-01621,Yaourts
+TK-01621,Eau
+TK-01621,Café
+TK-01621,Jus d'orange
+TK-01621,Bananes
+TK-01621,Confiture
+TK-01621,Beurre
+TK-01621,Baguette
+TK-01621,Lait
+TK-01622,Bananes
+TK-01623,Cacahuètes
+TK-01623,Eau
+TK-01623,Café
+TK-01623,Confiture
+TK-01623,Beurre
+TK-01623,Baguette
+TK-01623,Lait
+TK-01623,Croissants
+TK-01624,Pâtes
+TK-01624,Eau
+TK-01624,Sauce tomate
+TK-01624,Jus d'orange
+TK-01624,Steak haché
+TK-01625,Yaourts
+TK-01625,Eau
+TK-01625,Jus d'orange
+TK-01625,Céréales
+TK-01625,Bananes
+TK-01625,Lait
+TK-01625,Pommes
+TK-01626,Yaourts
+TK-01626,Confiture
+TK-01626,Baguette
+TK-01626,Lait
+TK-01626,Pommes
+TK-01627,Eau
+TK-01627,Riz
+TK-01627,Dentifrice
+TK-01627,Shampoing
+TK-01627,Pommes
+TK-01628,Lait
+TK-01628,Bananes
+TK-01628,Yaourts
+TK-01628,Céréales
+TK-01629,Tomates
+TK-01629,Oeufs
+TK-01630,Shampoing
+TK-01630,Dentifrice
+TK-01631,Café
+TK-01631,Confiture
+TK-01631,Beurre
+TK-01631,Baguette
+TK-01631,Lait
+TK-01632,Yaourts
+TK-01632,Eau
+TK-01632,Jus d'orange
+TK-01632,Céréales
+TK-01632,Bananes
+TK-01632,Lait
+TK-01633,Oeufs
+TK-01633,Eau
+TK-01633,Riz
+TK-01633,Jambon
+TK-01633,Bière
+TK-01633,Chips
+TK-01634,Oeufs
+TK-01634,Eau
+TK-01634,Tomates
+TK-01634,Baguette
+TK-01634,Salade
+TK-01635,Pâtes
+TK-01635,Fromage râpé
+TK-01635,Eau
+TK-01635,Steak haché
+TK-01636,Papier toilette
+TK-01637,Oeufs
+TK-01637,Pâtes
+TK-01637,Sauce tomate
+TK-01637,Eau
+TK-01637,Bananes
+TK-01637,Fromage râpé
+TK-01637,Steak haché
+TK-01638,Tomates
+TK-01638,Eau
+TK-01638,Salade
+TK-01639,Pommes
+TK-01639,Saucisses
+TK-01639,Bananes
+TK-01639,Steak haché
+TK-01640,Jus d'orange
+TK-01640,Pâtes
+TK-01640,Fromage râpé
+TK-01640,Sauce tomate
+TK-01641,Pâtes
+TK-01641,Fromage râpé
+TK-01641,Sauce tomate
+TK-01641,Salade
+TK-01642,Cacahuètes
+TK-01642,Soda
+TK-01642,Bananes
+TK-01642,Tomates
+TK-01642,Jambon
+TK-01642,Bière
+TK-01642,Chips
+TK-01643,Pâtes
+TK-01643,Eau
+TK-01643,Sauce tomate
+TK-01643,Steak haché
+TK-01643,Pommes
+TK-01644,Pâtes
+TK-01644,Fromage râpé
+TK-01644,Sauce tomate
+TK-01644,Steak haché
+TK-01645,Oeufs
+TK-01645,Cacahuètes
+TK-01645,Eau
+TK-01645,Chips
+TK-01645,Bière
+TK-01646,Yaourts
+TK-01646,Bière
+TK-01646,Chips
+TK-01646,Salade
+TK-01647,Eau
+TK-01647,Pommes
+TK-01648,Lait
+TK-01648,Beurre
+TK-01648,Eau
+TK-01648,Pommes
+TK-01649,Sauce tomate
+TK-01650,Eau
+TK-01651,Cacahuètes
+TK-01651,Eau
+TK-01651,Soda
+TK-01651,Tomates
+TK-01651,Jambon
+TK-01651,Salade
+TK-01651,Lait
+TK-01651,Bière
+TK-01651,Chips
+TK-01652,Jus d'orange
+TK-01652,Yaourts
+TK-01652,Bananes
+TK-01653,Eau
+TK-01653,Confiture
+TK-01653,Beurre
+TK-01653,Baguette
+TK-01653,Lait
+TK-01653,Croissants
+TK-01654,Eau
+TK-01655,Sauce tomate
+TK-01655,Eau
+TK-01655,Café
+TK-01655,Confiture
+TK-01655,Beurre
+TK-01655,Baguette
+TK-01655,Lait
+TK-01655,Fromage râpé
+TK-01656,Tomates
+TK-01656,Lait
+TK-01656,Bananes
+TK-01656,Salade
+TK-01657,Shampoing
+TK-01657,Papier toilette
+TK-01657,Eau
+TK-01658,Oeufs
+TK-01658,Eau
+TK-01658,Bananes
+TK-01658,Tomates
+TK-01658,Lait
+TK-01659,Yaourts
+TK-01659,Eau
+TK-01659,Jus d'orange
+TK-01659,Céréales
+TK-01659,Lait
+TK-01660,Bière
+TK-01660,Chips
+TK-01661,Eau
+TK-01661,Café
+TK-01661,Confiture
+TK-01661,Beurre
+TK-01661,Baguette
+TK-01661,Croissants
+TK-01662,Lait
+TK-01662,Papier toilette
+TK-01663,Beurre
+TK-01663,Confiture
+TK-01664,Eau
+TK-01664,Confiture
+TK-01664,Beurre
+TK-01664,Baguette
+TK-01664,Lait
+TK-01665,Eau
+TK-01665,Saucisses
+TK-01665,Lait
+TK-01665,Bière
+TK-01665,Steak haché
+TK-01666,Soda
+TK-01666,Pâtes
+TK-01666,Fromage râpé
+TK-01666,Sauce tomate
+TK-01667,Eau
+TK-01667,Soda
+TK-01668,Oeufs
+TK-01668,Eau
+TK-01668,Tomates
+TK-01668,Salade
+TK-01668,Pommes
+TK-01669,Eau
+TK-01670,Café
+TK-01670,Lait
+TK-01670,Baguette
+TK-01670,Confiture
+TK-01671,Cacahuètes
+TK-01671,Eau
+TK-01671,Soda
+TK-01671,Chips
+TK-01671,Baguette
+TK-01671,Bière
+TK-01671,Pommes
+TK-01672,Lait
+TK-01672,Beurre
+TK-01672,Eau
+TK-01672,Confiture
+TK-01673,Café
+TK-01673,Lait
+TK-01673,Bananes
+TK-01673,Confiture
+TK-01674,Jus d'orange
+TK-01674,Pâtes
+TK-01674,Fromage râpé
+TK-01675,Sauce tomate
+TK-01675,Eau
+TK-01675,Bananes
+TK-01675,Steak haché
+TK-01676,Céréales
+TK-01677,Oeufs
+TK-01677,Riz
+TK-01677,Eau
+TK-01677,Jambon
+TK-01678,Cacahuètes
+TK-01678,Yaourts
+TK-01678,Eau
+TK-01678,Jus d'orange
+TK-01678,Céréales
+TK-01678,Bananes
+TK-01678,Chips
+TK-01678,Lait
+TK-01678,Bière
+TK-01679,Tomates
+TK-01679,Eau
+TK-01679,Jambon
+TK-01680,Cacahuètes
+TK-01680,Eau
+TK-01680,Chips
+TK-01680,Lait
+TK-01680,Bière
+TK-01681,Pâtes
+TK-01681,Fromage râpé
+TK-01681,Eau
+TK-01682,Lait
+TK-01682,Yaourts
+TK-01682,Eau
+TK-01682,Céréales
+TK-01683,Oeufs
+TK-01683,Eau
+TK-01683,Café
+TK-01683,Tomates
+TK-01683,Baguette
+TK-01683,Salade
+TK-01683,Lait
+TK-01684,Yaourts
+TK-01684,Eau
+TK-01684,Jus d'orange
+TK-01684,Céréales
+TK-01684,Bananes
+TK-01684,Tomates
+TK-01684,Jambon
+TK-01684,Salade
+TK-01684,Lait
+TK-01684,Pommes
+TK-01685,Cacahuètes
+TK-01685,Eau
+TK-01685,Soda
+TK-01685,Café
+TK-01685,Bananes
+TK-01685,Chips
+TK-01685,Bière
+TK-01686,Yaourts
+TK-01686,Eau
+TK-01686,Jus d'orange
+TK-01686,Céréales
+TK-01686,Lait
+TK-01687,Shampoing
+TK-01687,Papier toilette
+TK-01687,Eau
+TK-01687,Dentifrice
+TK-01688,Pâtes
+TK-01688,Eau
+TK-01688,Sauce tomate
+TK-01688,Fromage râpé
+TK-01688,Steak haché
+TK-01689,Bananes
+TK-01690,Pâtes
+TK-01690,Eau
+TK-01690,Sauce tomate
+TK-01690,Steak haché
+TK-01691,Yaourts
+TK-01691,Céréales
+TK-01691,Tomates
+TK-01691,Salade
+TK-01691,Lait
+TK-01692,Oeufs
+TK-01692,Eau
+TK-01692,Saucisses
+TK-01692,Tomates
+TK-01692,Salade
+TK-01692,Lait
+TK-01692,Bière
+TK-01693,Oeufs
+TK-01693,Dentifrice
+TK-01693,Papier toilette
+TK-01693,Shampoing
+TK-01693,Lait
+TK-01693,Pommes
+TK-01694,Shampoing
+TK-01694,Papier toilette
+TK-01694,Eau
+TK-01694,Dentifrice
+TK-01695,Yaourts
+TK-01695,Pâtes
+TK-01695,Sauce tomate
+TK-01695,Lait
+TK-01695,Fromage râpé
+TK-01696,Shampoing
+TK-01696,Papier toilette
+TK-01696,Dentifrice
+TK-01697,Eau
+TK-01698,Pâtes
+TK-01698,Sauce tomate
+TK-01698,Eau
+TK-01698,Café
+TK-01698,Confiture
+TK-01698,Beurre
+TK-01698,Baguette
+TK-01698,Fromage râpé
+TK-01698,Steak haché
+TK-01699,Cacahuètes
+TK-01699,Eau
+TK-01699,Chips
+TK-01700,Oeufs
+TK-01700,Eau
+TK-01700,Riz
+TK-01700,Saucisses
+TK-01700,Tomates
+TK-01700,Salade
+TK-01700,Bière
+TK-01700,Steak haché
+TK-01701,Cacahuètes
+TK-01701,Bière
+TK-01701,Chips
+TK-01701,Eau
+TK-01702,Tomates
+TK-01702,Oeufs
+TK-01702,Salade
+TK-01703,Eau
+TK-01703,Dentifrice
+TK-01703,Papier toilette
+TK-01703,Beurre
+TK-01703,Baguette
+TK-01703,Croissants
+TK-01704,Yaourts
+TK-01704,Jus d'orange
+TK-01704,Céréales
+TK-01704,Bananes
+TK-01704,Lait
+TK-01705,Eau
+TK-01705,Saucisses
+TK-01705,Beurre
+TK-01705,Baguette
+TK-01705,Lait
+TK-01705,Steak haché
+TK-01706,Yaourts
+TK-01706,Eau
+TK-01706,Jus d'orange
+TK-01706,Bananes
+TK-01706,Céréales
+TK-01706,Pommes
+TK-01707,Eau
+TK-01708,Bière
+TK-01708,Chips
+TK-01709,Yaourts
+TK-01709,Jus d'orange
+TK-01709,Céréales
+TK-01709,Beurre
+TK-01709,Lait
+TK-01710,Tomates
+TK-01710,Eau
+TK-01710,Café
+TK-01710,Salade
+TK-01711,Pâtes
+TK-01711,Sauce tomate
+TK-01711,Eau
+TK-01711,Jus d'orange
+TK-01711,Céréales
+TK-01711,Bananes
+TK-01711,Lait
+TK-01711,Fromage râpé
+TK-01711,Steak haché
+TK-01712,Eau
+TK-01712,Jus d'orange
+TK-01712,Céréales
+TK-01712,Bananes
+TK-01712,Lait
+TK-01713,Oeufs
+TK-01713,Yaourts
+TK-01713,Bananes
+TK-01713,Céréales
+TK-01713,Salade
+TK-01714,Eau
+TK-01714,Saucisses
+TK-01714,Céréales
+TK-01714,Salade
+TK-01714,Lait
+TK-01715,Lait
+TK-01715,Beurre
+TK-01715,Eau
+TK-01715,Confiture
+TK-01716,Oeufs
+TK-01716,Cacahuètes
+TK-01716,Bananes
+TK-01716,Chips
+TK-01716,Bière
+TK-01717,Eau
+TK-01717,Saucisses
+TK-01717,Tomates
+TK-01717,Salade
+TK-01717,Lait
+TK-01717,Bière
+TK-01718,Eau
+TK-01718,Bananes
+TK-01718,Salade
+TK-01718,Steak haché
+TK-01719,Pâtes
+TK-01719,Sauce tomate
+TK-01719,Steak haché
+TK-01720,Eau
+TK-01720,Café
+TK-01720,Jus d'orange
+TK-01720,Confiture
+TK-01720,Beurre
+TK-01720,Lait
+TK-01721,Oeufs
+TK-01721,Yaourts
+TK-01721,Eau
+TK-01721,Café
+TK-01721,Confiture
+TK-01721,Beurre
+TK-01721,Baguette
+TK-01721,Lait
+TK-01721,Croissants
+TK-01722,Lait
+TK-01722,Jus d'orange
+TK-01722,Eau
+TK-01722,Céréales
+TK-01723,Cacahuètes
+TK-01723,Pâtes
+TK-01723,Sauce tomate
+TK-01723,Pommes
+TK-01723,Chips
+TK-01723,Fromage râpé
+TK-01723,Bière
+TK-01723,Steak haché
+TK-01724,Jus d'orange
+TK-01724,Eau
+TK-01724,Bananes
+TK-01725,Café
+TK-01725,Bananes
+TK-01726,Pâtes
+TK-01726,Fromage râpé
+TK-01726,Eau
+TK-01726,Steak haché
+TK-01727,Oeufs
+TK-01727,Yaourts
+TK-01727,Eau
+TK-01727,Céréales
+TK-01727,Bananes
+TK-01727,Tomates
+TK-01727,Jambon
+TK-01727,Lait
+TK-01728,Yaourts
+TK-01728,Eau
+TK-01728,Café
+TK-01728,Bananes
+TK-01728,Confiture
+TK-01728,Lait
+TK-01729,Soda
+TK-01729,Eau
+TK-01729,Chips
+TK-01730,Cacahuètes
+TK-01730,Eau
+TK-01730,Chips
+TK-01730,Bière
+TK-01730,Pommes
+TK-01731,Yaourts
+TK-01731,Eau
+TK-01731,Bananes
+TK-01731,Tomates
+TK-01731,Bière
+TK-01731,Steak haché
+TK-01732,Oeufs
+TK-01732,Yaourts
+TK-01732,Eau
+TK-01732,Jus d'orange
+TK-01732,Céréales
+TK-01732,Lait
+TK-01733,Jus d'orange
+TK-01733,Céréales
+TK-01733,Baguette
+TK-01733,Lait
+TK-01733,Pommes
+TK-01734,Pâtes
+TK-01734,Fromage râpé
+TK-01734,Sauce tomate
+TK-01734,Eau
+TK-01735,Yaourts
+TK-01735,Eau
+TK-01735,Café
+TK-01735,Confiture
+TK-01735,Beurre
+TK-01735,Baguette
+TK-01735,Lait
+TK-01735,Croissants
+TK-01736,Lait
+TK-01736,Bananes
+TK-01737,Eau
+TK-01737,Café
+TK-01737,Confiture
+TK-01737,Beurre
+TK-01737,Lait
+TK-01738,Yaourts
+TK-01738,Eau
+TK-01738,Soda
+TK-01738,Café
+TK-01738,Pommes
+TK-01738,Saucisses
+TK-01738,Bananes
+TK-01738,Salade
+TK-01738,Lait
+TK-01738,Steak haché
+TK-01739,Lait
+TK-01739,Bananes
+TK-01739,Céréales
+TK-01740,Oeufs
+TK-01740,Eau
+TK-01741,Lait
+TK-01741,Yaourts
+TK-01741,Eau
+TK-01742,Pâtes
+TK-01742,Sauce tomate
+TK-01742,Bananes
+TK-01742,Jambon
+TK-01742,Salade
+TK-01742,Fromage râpé
+TK-01743,Pâtes
+TK-01743,Fromage râpé
+TK-01743,Eau
+TK-01744,Pâtes
+TK-01744,Eau
+TK-01744,Sauce tomate
+TK-01744,Steak haché
+TK-01745,Yaourts
+TK-01745,Eau
+TK-01745,Bananes
+TK-01745,Céréales
+TK-01745,Baguette
+TK-01746,Lait
+TK-01746,Eau
+TK-01747,Oeufs
+TK-01747,Saucisses
+TK-01747,Tomates
+TK-01747,Jambon
+TK-01747,Salade
+TK-01747,Bière
+TK-01747,Steak haché
+TK-01748,Soda
+TK-01748,Cacahuètes
+TK-01748,Eau
+TK-01748,Chips
+TK-01749,Cacahuètes
+TK-01749,Eau
+TK-01749,Soda
+TK-01749,Bananes
+TK-01749,Chips
+TK-01749,Lait
+TK-01749,Bière
+TK-01750,Jus d'orange
+TK-01750,Eau
+TK-01751,Oeufs
+TK-01751,Pâtes
+TK-01751,Sauce tomate
+TK-01751,Steak haché
+TK-01752,Oeufs
+TK-01752,Yaourts
+TK-01752,Jus d'orange
+TK-01752,Céréales
+TK-01752,Bananes
+TK-01752,Tomates
+TK-01752,Salade
+TK-01752,Lait
+TK-01753,Oeufs
+TK-01753,Yaourts
+TK-01753,Eau
+TK-01753,Soda
+TK-01753,Riz
+TK-01753,Céréales
+TK-01753,Lait
+TK-01754,Oeufs
+TK-01754,Eau
+TK-01754,Tomates
+TK-01754,Salade
+TK-01754,Pommes
+TK-01755,Saucisses
+TK-01755,Bière
+TK-01755,Pommes
+TK-01756,Cacahuètes
+TK-01756,Yaourts
+TK-01756,Eau
+TK-01756,Bananes
+TK-01756,Chips
+TK-01756,Bière
+TK-01757,Yaourts
+TK-01757,Eau
+TK-01757,Céréales
+TK-01757,Salade
+TK-01757,Lait
+TK-01757,Bière
+TK-01758,Cacahuètes
+TK-01758,Bière
+TK-01758,Chips
+TK-01758,Pommes
+TK-01759,Pâtes
+TK-01759,Baguette
+TK-01759,Steak haché
+TK-01760,Lait
+TK-01760,Jus d'orange
+TK-01760,Oeufs
+TK-01760,Céréales
+TK-01761,Oeufs
+TK-01761,Eau
+TK-01762,Eau
+TK-01762,Jus d'orange
+TK-01762,Céréales
+TK-01762,Bananes
+TK-01762,Baguette
+TK-01762,Lait
+TK-01763,Eau
+TK-01763,Soda
+TK-01763,Café
+TK-01763,Beurre
+TK-01763,Baguette
+TK-01763,Lait
+TK-01763,Bière
+TK-01764,Eau
+TK-01764,Café
+TK-01764,Bananes
+TK-01764,Confiture
+TK-01764,Beurre
+TK-01764,Baguette
+TK-01764,Croissants
+TK-01765,Sauce tomate
+TK-01765,Pâtes
+TK-01765,Eau
+TK-01765,Beurre
+TK-01765,Baguette
+TK-01765,Lait
+TK-01765,Croissants
+TK-01766,Yaourts
+TK-01766,Pâtes
+TK-01766,Fromage râpé
+TK-01766,Sauce tomate
+TK-01767,Oeufs
+TK-01767,Pâtes
+TK-01767,Sauce tomate
+TK-01767,Eau
+TK-01767,Fromage râpé
+TK-01768,Tomates
+TK-01768,Oeufs
+TK-01768,Eau
+TK-01768,Baguette
+TK-01769,Café
+TK-01769,Papier toilette
+TK-01769,Dentifrice
+TK-01770,Oeufs
+TK-01770,Yaourts
+TK-01770,Eau
+TK-01770,Jus d'orange
+TK-01770,Céréales
+TK-01770,Tomates
+TK-01770,Jambon
+TK-01770,Salade
+TK-01770,Lait
+TK-01771,Oeufs
+TK-01771,Riz
+TK-01771,Baguette
+TK-01771,Pommes
+TK-01772,Beurre
+TK-01772,Croissants
+TK-01772,Baguette
+TK-01772,Confiture
+TK-01773,Lait
+TK-01773,Soda
+TK-01774,Cacahuètes
+TK-01774,Eau
+TK-01774,Soda
+TK-01774,Tomates
+TK-01774,Chips
+TK-01774,Baguette
+TK-01774,Jambon
+TK-01774,Salade
+TK-01774,Lait
+TK-01774,Bière
+TK-01775,Baguette
+TK-01776,Oeufs
+TK-01776,Eau
+TK-01776,Pommes
+TK-01777,Pommes
+TK-01778,Cacahuètes
+TK-01778,Yaourts
+TK-01778,Eau
+TK-01778,Soda
+TK-01778,Chips
+TK-01778,Bière
+TK-01779,Pâtes
+TK-01779,Eau
+TK-01779,Sauce tomate
+TK-01779,Fromage râpé
+TK-01779,Steak haché
+TK-01780,Pâtes
+TK-01780,Eau
+TK-01780,Sauce tomate
+TK-01780,Pommes
+TK-01780,Fromage râpé
+TK-01780,Steak haché
+TK-01781,Lait
+TK-01781,Baguette
+TK-01781,Bananes
+TK-01781,Pommes
+TK-01782,Eau
+TK-01782,Café
+TK-01782,Confiture
+TK-01782,Beurre
+TK-01782,Baguette
+TK-01783,Jus d'orange
+TK-01783,Eau
+TK-01784,Oeufs
+TK-01784,Riz
+TK-01784,Eau
+TK-01785,Café
+TK-01785,Beurre
+TK-01785,Eau
+TK-01785,Baguette
+TK-01786,Yaourts
+TK-01786,Eau
+TK-01786,Bananes
+TK-01786,Céréales
+TK-01786,Confiture
+TK-01786,Beurre
+TK-01786,Lait
+TK-01787,Yaourts
+TK-01787,Eau
+TK-01787,Jus d'orange
+TK-01787,Céréales
+TK-01787,Bananes
+TK-01787,Lait
+TK-01788,Pâtes
+TK-01788,Céréales
+TK-01788,Lait
+TK-01788,Fromage râpé
+TK-01788,Steak haché
+TK-01789,Eau
+TK-01789,Jus d'orange
+TK-01789,Baguette
+TK-01789,Jambon
+TK-01789,Salade
+TK-01789,Lait
+TK-01790,Yaourts
+TK-01790,Eau
+TK-01790,Soda
+TK-01790,Jus d'orange
+TK-01790,Bananes
+TK-01790,Céréales
+TK-01791,Yaourts
+TK-01791,Sauce tomate
+TK-01791,Bananes
+TK-01791,Fromage râpé
+TK-01791,Steak haché
+TK-01792,Pâtes
+TK-01792,Eau
+TK-01792,Soda
+TK-01792,Baguette
+TK-01792,Fromage râpé
+TK-01793,Tomates
+TK-01793,Oeufs
+TK-01793,Eau
+TK-01793,Salade
+TK-01794,Oeufs
+TK-01794,Pâtes
+TK-01794,Sauce tomate
+TK-01794,Eau
+TK-01794,Café
+TK-01794,Confiture
+TK-01794,Fromage râpé
+TK-01794,Steak haché
+TK-01795,Tomates
+TK-01795,Eau
+TK-01795,Bananes
+TK-01795,Salade
+TK-01796,Bananes
+TK-01796,Yaourts
+TK-01796,Céréales
+TK-01797,Eau
+TK-01797,Saucisses
+TK-01797,Tomates
+TK-01797,Salade
+TK-01797,Pommes
+TK-01798,Cacahuètes
+TK-01798,Soda
+TK-01798,Dentifrice
+TK-01798,Papier toilette
+TK-01798,Chips
+TK-01798,Shampoing
+TK-01798,Bière
+TK-01799,Oeufs
+TK-01799,Bananes
+TK-01799,Tomates
+TK-01799,Baguette
+TK-01799,Salade
+TK-01800,Cacahuètes
+TK-01800,Bière
+TK-01800,Chips
+TK-01800,Eau
+TK-01801,Bananes
+TK-01801,Dentifrice
+TK-01801,Tomates
+TK-01801,Papier toilette
+TK-01801,Baguette
+TK-01801,Jambon
+TK-01801,Salade
+TK-01801,Shampoing
+TK-01801,Lait
+TK-01802,Beurre
+TK-01802,Eau
+TK-01802,Baguette
+TK-01802,Confiture
+TK-01803,Eau
+TK-01803,Beurre
+TK-01803,Lait
+TK-01803,Croissants
+TK-01803,Pommes
+TK-01804,Eau
+TK-01804,Saucisses
+TK-01804,Dentifrice
+TK-01804,Papier toilette
+TK-01804,Shampoing
+TK-01804,Bière
+TK-01805,Pâtes
+TK-01805,Eau
+TK-01805,Sauce tomate
+TK-01805,Baguette
+TK-01805,Lait
+TK-01805,Fromage râpé
+TK-01805,Steak haché
+TK-01806,Pâtes
+TK-01806,Fromage râpé
+TK-01806,Sauce tomate
+TK-01806,Eau
+TK-01807,Cacahuètes
+TK-01807,Eau
+TK-01807,Riz
+TK-01807,Chips
+TK-01807,Bière
+TK-01808,Pommes
+TK-01809,Pâtes
+TK-01809,Sauce tomate
+TK-01809,Eau
+TK-01809,Café
+TK-01809,Jus d'orange
+TK-01809,Beurre
+TK-01809,Baguette
+TK-01809,Fromage râpé
+TK-01809,Steak haché
+TK-01810,Eau
+TK-01810,Pommes
+TK-01811,Saucisses
+TK-01811,Salade
+TK-01811,Steak haché
+TK-01812,Yaourts
+TK-01812,Café
+TK-01812,Jus d'orange
+TK-01812,Céréales
+TK-01812,Bananes
+TK-01812,Beurre
+TK-01812,Baguette
+TK-01812,Lait
+TK-01813,Lait
+TK-01814,Oeufs
+TK-01814,Riz
+TK-01815,Bananes
+TK-01815,Pâtes
+TK-01815,Fromage râpé
+TK-01815,Sauce tomate
+TK-01816,Oeufs
+TK-01816,Confiture
+TK-01816,Baguette
+TK-01816,Bière
+TK-01816,Chips
+TK-01817,Yaourts
+TK-01817,Bananes
+TK-01817,Céréales
+TK-01817,Lait
+TK-01817,Bière
+TK-01817,Chips
+TK-01818,Eau
+TK-01818,Café
+TK-01818,Pommes
+TK-01818,Saucisses
+TK-01818,Confiture
+TK-01818,Tomates
+TK-01818,Beurre
+TK-01818,Salade
+TK-01818,Lait
+TK-01818,Bière
+TK-01818,Steak haché
+TK-01819,Cacahuètes
+TK-01819,Eau
+TK-01819,Chips
+TK-01819,Baguette
+TK-01819,Bière
+TK-01820,Pâtes
+TK-01820,Sauce tomate
+TK-01820,Eau
+TK-01820,Lait
+TK-01820,Fromage râpé
+TK-01821,Café
+TK-01821,Croissants
+TK-01821,Eau
+TK-01821,Confiture
+TK-01822,Lait
+TK-01822,Croissants
+TK-01822,Baguette
+TK-01822,Eau
+TK-01823,Cacahuètes
+TK-01823,Jus d'orange
+TK-01823,Céréales
+TK-01823,Bière
+TK-01823,Chips
+TK-01824,Pâtes
+TK-01824,Sauce tomate
+TK-01824,Eau
+TK-01824,Soda
+TK-01824,Café
+TK-01824,Confiture
+TK-01824,Beurre
+TK-01824,Baguette
+TK-01824,Lait
+TK-01824,Fromage râpé
+TK-01824,Pommes
+TK-01825,Eau
+TK-01825,Café
+TK-01825,Confiture
+TK-01825,Beurre
+TK-01825,Baguette
+TK-01825,Lait
+TK-01826,Tomates
+TK-01826,Saucisses
+TK-01826,Eau
+TK-01826,Bière
+TK-01827,Oeufs
+TK-01827,Pâtes
+TK-01827,Sauce tomate
+TK-01827,Bananes
+TK-01827,Papier toilette
+TK-01827,Shampoing
+TK-01827,Fromage râpé
+TK-01828,Oeufs
+TK-01828,Eau
+TK-01828,Bananes
+TK-01828,Dentifrice
+TK-01829,Pâtes
+TK-01829,Sauce tomate
+TK-01829,Beurre
+TK-01829,Baguette
+TK-01829,Lait
+TK-01829,Croissants
+TK-01829,Fromage râpé
+TK-01829,Steak haché
+TK-01830,Papier toilette
+TK-01830,Dentifrice
+TK-01831,Pâtes
+TK-01831,Fromage râpé
+TK-01831,Sauce tomate
+TK-01832,Tomates
+TK-01832,Oeufs
+TK-01832,Salade
+TK-01833,Riz
+TK-01833,Eau
+TK-01834,Eau
+TK-01834,Café
+TK-01834,Beurre
+TK-01834,Baguette
+TK-01834,Lait
+TK-01835,Beurre
+TK-01835,Baguette
+TK-01836,Confiture
+TK-01837,Yaourts
+TK-01837,Eau
+TK-01837,Jus d'orange
+TK-01837,Céréales
+TK-01837,Lait
+TK-01838,Oeufs
+TK-01838,Eau
+TK-01838,Jus d'orange
+TK-01838,Riz
+TK-01838,Céréales
+TK-01839,Yaourts
+TK-01839,Eau
+TK-01839,Soda
+TK-01839,Chips
+TK-01839,Bière
+TK-01840,Lait
+TK-01840,Beurre
+TK-01840,Bananes
+TK-01840,Confiture
+TK-01841,Eau
+TK-01841,Café
+TK-01841,Confiture
+TK-01841,Baguette
+TK-01841,Lait
+TK-01841,Croissants
+TK-01842,Café
+TK-01842,Beurre
+TK-01842,Baguette
+TK-01842,Confiture
+TK-01843,Baguette
+TK-01843,Riz
+TK-01843,Eau
+TK-01843,Soda
+TK-01844,Fromage râpé
+TK-01845,Oeufs
+TK-01845,Soda
+TK-01845,Bananes
+TK-01845,Tomates
+TK-01845,Baguette
+TK-01845,Jambon
+TK-01845,Salade
+TK-01845,Pommes
+TK-01846,Café
+TK-01846,Confiture
+TK-01846,Beurre
+TK-01846,Baguette
+TK-01846,Lait
+TK-01847,Eau
+TK-01848,Eau
+TK-01848,Pommes
+TK-01849,Pâtes
+TK-01849,Fromage râpé
+TK-01849,Sauce tomate
+TK-01849,Eau
+TK-01850,Eau
+TK-01850,Café
+TK-01850,Saucisses
+TK-01850,Confiture
+TK-01850,Beurre
+TK-01850,Baguette
+TK-01850,Salade
+TK-01850,Bière
+TK-01851,Pâtes
+TK-01851,Sauce tomate
+TK-01851,Eau
+TK-01851,Fromage râpé
+TK-01851,Chips
+TK-01851,Bière
+TK-01851,Pommes
+TK-01852,Cacahuètes
+TK-01852,Café
+TK-01852,Bananes
+TK-01852,Confiture
+TK-01852,Beurre
+TK-01852,Baguette
+TK-01852,Lait
+TK-01852,Croissants
+TK-01852,Bière
+TK-01852,Chips
+TK-01853,Bananes
+TK-01853,Bière
+TK-01853,Chips
+TK-01853,Eau
+TK-01854,Pâtes
+TK-01854,Sauce tomate
+TK-01854,Eau
+TK-01854,Bananes
+TK-01854,Fromage râpé
+TK-01854,Steak haché
+TK-01855,Cacahuètes
+TK-01855,Eau
+TK-01855,Soda
+TK-01855,Jus d'orange
+TK-01855,Dentifrice
+TK-01855,Papier toilette
+TK-01855,Shampoing
+TK-01855,Chips
+TK-01855,Pommes
+TK-01856,Pâtes
+TK-01856,Sauce tomate
+TK-01856,Eau
+TK-01856,Jus d'orange
+TK-01856,Dentifrice
+TK-01856,Papier toilette
+TK-01856,Shampoing
+TK-01856,Lait
+TK-01856,Fromage râpé
+TK-01856,Pommes
+TK-01857,Oeufs
+TK-01857,Riz
+TK-01857,Soda
+TK-01857,Jambon
+TK-01858,Pâtes
+TK-01858,Fromage râpé
+TK-01858,Sauce tomate
+TK-01858,Eau
+TK-01859,Tomates
+TK-01859,Saucisses
+TK-01859,Bananes
+TK-01859,Steak haché
+TK-01860,Café
+TK-01860,Confiture
+TK-01860,Beurre
+TK-01860,Baguette
+TK-01860,Croissants
+TK-01861,Bananes
+TK-01861,Pâtes
+TK-01861,Eau
+TK-01861,Sauce tomate
+TK-01862,Oeufs
+TK-01862,Café
+TK-01862,Beurre
+TK-01862,Baguette
+TK-01862,Lait
+TK-01863,Lait
+TK-01863,Cacahuètes
+TK-01863,Bière
+TK-01863,Chips
+TK-01864,Soda
+TK-01864,Bière
+TK-01864,Chips
+TK-01865,Saucisses
+TK-01865,Baguette
+TK-01865,Salade
+TK-01865,Steak haché
+TK-01866,Oeufs
+TK-01867,Yaourts
+TK-01867,Eau
+TK-01867,Confiture
+TK-01867,Beurre
+TK-01867,Baguette
+TK-01867,Lait
+TK-01867,Croissants
+TK-01867,Pommes
+TK-01868,Eau
+TK-01868,Bananes
+TK-01869,Pâtes
+TK-01869,Sauce tomate
+TK-01869,Eau
+TK-01869,Soda
+TK-01869,Café
+TK-01869,Pommes
+TK-01869,Bananes
+TK-01869,Confiture
+TK-01869,Baguette
+TK-01869,Lait
+TK-01869,Croissants
+TK-01869,Steak haché
+TK-01870,Tomates
+TK-01870,Baguette
+TK-01870,Salade
+TK-01871,Eau
+TK-01871,Café
+TK-01871,Bananes
+TK-01871,Confiture
+TK-01871,Beurre
+TK-01871,Lait
+TK-01872,Riz
+TK-01872,Yaourts
+TK-01872,Jambon
+TK-01873,Pâtes
+TK-01873,Eau
+TK-01873,Bananes
+TK-01873,Fromage râpé
+TK-01873,Pommes
+TK-01874,Eau
+TK-01875,Pâtes
+TK-01875,Sauce tomate
+TK-01875,Jus d'orange
+TK-01875,Dentifrice
+TK-01875,Papier toilette
+TK-01875,Fromage râpé
+TK-01876,Yaourts
+TK-01877,Cacahuètes
+TK-01877,Yaourts
+TK-01877,Soda
+TK-01877,Céréales
+TK-01877,Bananes
+TK-01877,Lait
+TK-01877,Chips
+TK-01877,Pommes
+TK-01878,Eau
+TK-01878,Dentifrice
+TK-01878,Tomates
+TK-01878,Papier toilette
+TK-01878,Baguette
+TK-01878,Jambon
+TK-01878,Shampoing
+TK-01879,Yaourts
+TK-01879,Eau
+TK-01880,Eau
+TK-01881,Cacahuètes
+TK-01881,Dentifrice
+TK-01881,Papier toilette
+TK-01881,Shampoing
+TK-01881,Bière
+TK-01882,Yaourts
+TK-01882,Jus d'orange
+TK-01882,Céréales
+TK-01882,Bananes
+TK-01882,Baguette
+TK-01882,Lait
+TK-01883,Eau
+TK-01883,Café
+TK-01883,Confiture
+TK-01883,Beurre
+TK-01883,Baguette
+TK-01883,Lait
+TK-01884,Eau
+TK-01884,Bananes
+TK-01885,Cacahuètes
+TK-01885,Bière
+TK-01885,Chips
+TK-01886,Tomates
+TK-01886,Chips
+TK-01886,Baguette
+TK-01886,Salade
+TK-01886,Bière
+TK-01887,Pâtes
+TK-01887,Sauce tomate
+TK-01887,Eau
+TK-01887,Yaourts
+TK-01887,Baguette
+TK-01887,Fromage râpé
+TK-01888,Bananes
+TK-01888,Bière
+TK-01888,Chips
+TK-01888,Eau
+TK-01889,Eau
+TK-01890,Yaourts
+TK-01890,Bière
+TK-01890,Chips
+TK-01890,Eau
+TK-01891,Cacahuètes
+TK-01891,Eau
+TK-01891,Soda
+TK-01891,Bananes
+TK-01891,Chips
+TK-01891,Bière
+TK-01892,Eau
+TK-01892,Bière
+TK-01892,Steak haché
+TK-01893,Eau
+TK-01893,Dentifrice
+TK-01893,Papier toilette
+TK-01893,Baguette
+TK-01893,Shampoing
+TK-01894,Eau
+TK-01895,Oeufs
+TK-01895,Eau
+TK-01895,Café
+TK-01895,Confiture
+TK-01895,Baguette
+TK-01895,Lait
+TK-01896,Eau
+TK-01896,Jus d'orange
+TK-01896,Confiture
+TK-01896,Beurre
+TK-01896,Baguette
+TK-01896,Croissants
+TK-01897,Shampoing
+TK-01898,Oeufs
+TK-01898,Riz
+TK-01898,Eau
+TK-01898,Soda
+TK-01899,Soda
+TK-01899,Saucisses
+TK-01899,Tomates
+TK-01899,Baguette
+TK-01899,Salade
+TK-01899,Steak haché
+TK-01900,Yaourts
+TK-01900,Eau
+TK-01900,Café
+TK-01900,Beurre
+TK-01900,Baguette
+TK-01900,Lait
+TK-01900,Croissants
+TK-01901,Riz
+TK-01901,Eau
+TK-01902,Lait
+TK-01902,Saucisses
+TK-01902,Eau
+TK-01902,Bière
+TK-01903,Tomates
+TK-01903,Baguette
+TK-01903,Bananes
+TK-01903,Salade
+TK-01904,Oeufs
+TK-01904,Eau
+TK-01904,Beurre
+TK-01904,Jambon
+TK-01904,Lait
+TK-01905,Tomates
+TK-01905,Eau
+TK-01906,Lait
+TK-01906,Jus d'orange
+TK-01906,Céréales
+TK-01907,Cacahuètes
+TK-01907,Eau
+TK-01907,Soda
+TK-01907,Dentifrice
+TK-01907,Chips
+TK-01907,Shampoing
+TK-01907,Lait
+TK-01907,Bière
+TK-01908,Eau
+TK-01908,Café
+TK-01908,Confiture
+TK-01908,Beurre
+TK-01908,Baguette
+TK-01908,Lait
+TK-01909,Lait
+TK-01909,Bananes
+TK-01910,Lait
+TK-01910,Eau
+TK-01911,Eau
+TK-01911,Café
+TK-01911,Saucisses
+TK-01911,Beurre
+TK-01911,Baguette
+TK-01911,Lait
+TK-01911,Pommes
+TK-01912,Eau
+TK-01913,Yaourts
+TK-01913,Café
+TK-01913,Jus d'orange
+TK-01913,Céréales
+TK-01913,Bananes
+TK-01913,Beurre
+TK-01913,Baguette
+TK-01913,Lait
+TK-01913,Croissants
+TK-01914,Pâtes
+TK-01914,Sauce tomate
+TK-01914,Eau
+TK-01914,Jus d'orange
+TK-01914,Bananes
+TK-01914,Lait
+TK-01914,Fromage râpé
+TK-01915,Yaourts
+TK-01915,Eau
+TK-01915,Jus d'orange
+TK-01915,Bananes
+TK-01915,Céréales
+TK-01915,Dentifrice
+TK-01915,Papier toilette
+TK-01915,Shampoing
+TK-01916,Lait
+TK-01916,Bananes
+TK-01916,Saucisses
+TK-01916,Bière
+TK-01917,Bière
+TK-01917,Chips
+TK-01918,Eau
+TK-01918,Riz
+TK-01918,Dentifrice
+TK-01918,Papier toilette
+TK-01918,Shampoing
+TK-01918,Lait
+TK-01919,Soda
+TK-01919,Café
+TK-01919,Confiture
+TK-01919,Beurre
+TK-01919,Baguette
+TK-01919,Lait
+TK-01919,Bière
+TK-01919,Chips
+TK-01920,Oeufs
+TK-01920,Riz
+TK-01920,Yaourts
+TK-01920,Bananes
+TK-01921,Lait
+TK-01921,Yaourts
+TK-01921,Eau
+TK-01922,Eau
+TK-01922,Bananes
+TK-01922,Confiture
+TK-01922,Lait
+TK-01922,Pommes
+TK-01923,Eau
+TK-01924,Café
+TK-01924,Bière
+TK-01924,Chips
+TK-01924,Eau
+TK-01925,Pâtes
+TK-01925,Sauce tomate
+TK-01925,Eau
+TK-01925,Yaourts
+TK-01925,Tomates
+TK-01925,Baguette
+TK-01925,Jambon
+TK-01925,Salade
+TK-01925,Fromage râpé
+TK-01926,Pâtes
+TK-01926,Fromage râpé
+TK-01926,Steak haché
+TK-01927,Lait
+TK-01927,Eau
+TK-01927,Bananes
+TK-01928,Céréales
+TK-01929,Eau
+TK-01930,Eau
+TK-01930,Saucisses
+TK-01930,Tomates
+TK-01930,Salade
+TK-01930,Lait
+TK-01931,Cacahuètes
+TK-01931,Pâtes
+TK-01931,Sauce tomate
+TK-01931,Soda
+TK-01931,Eau
+TK-01931,Bière
+TK-01931,Steak haché
+TK-01932,Eau
+TK-01932,Confiture
+TK-01932,Tomates
+TK-01932,Beurre
+TK-01932,Baguette
+TK-01932,Jambon
+TK-01932,Salade
+TK-01932,Lait
+TK-01932,Croissants
+TK-01933,Oeufs
+TK-01933,Sauce tomate
+TK-01933,Eau
+TK-01933,Tomates
+TK-01933,Baguette
+TK-01933,Fromage râpé
+TK-01934,Pâtes
+TK-01934,Sauce tomate
+TK-01934,Yaourts
+TK-01934,Jus d'orange
+TK-01934,Céréales
+TK-01934,Bananes
+TK-01934,Lait
+TK-01934,Fromage râpé
+TK-01935,Pâtes
+TK-01935,Sauce tomate
+TK-01935,Eau
+TK-01935,Saucisses
+TK-01935,Bananes
+TK-01935,Baguette
+TK-01935,Salade
+TK-01935,Fromage râpé
+TK-01935,Bière
+TK-01935,Steak haché
+TK-01936,Tomates
+TK-01936,Yaourts
+TK-01936,Baguette
+TK-01936,Salade
+TK-01937,Eau
+TK-01937,Pommes
+TK-01938,Tomates
+TK-01938,Oeufs
+TK-01938,Eau
+TK-01938,Salade
+TK-01939,Yaourts
+TK-01939,Pâtes
+TK-01939,Fromage râpé
+TK-01939,Pommes
+TK-01940,Pâtes
+TK-01940,Eau
+TK-01940,Dentifrice
+TK-01940,Papier toilette
+TK-01940,Baguette
+TK-01940,Shampoing
+TK-01940,Fromage râpé
+TK-01941,Pâtes
+TK-01941,Eau
+TK-01941,Confiture
+TK-01941,Beurre
+TK-01941,Baguette
+TK-01941,Fromage râpé
+TK-01942,Oeufs
+TK-01942,Eau
+TK-01942,Café
+TK-01942,Confiture
+TK-01942,Beurre
+TK-01942,Baguette
+TK-01942,Lait
+TK-01943,Eau
+TK-01944,Oeufs
+TK-01944,Yaourts
+TK-01944,Eau
+TK-01944,Jus d'orange
+TK-01944,Riz
+TK-01944,Céréales
+TK-01944,Lait
+TK-01945,Eau
+TK-01945,Café
+TK-01945,Beurre
+TK-01945,Baguette
+TK-01945,Lait
+TK-01945,Croissants
+TK-01946,Tomates
+TK-01946,Bananes
+TK-01946,Jambon
+TK-01946,Salade
+TK-01947,Tomates
+TK-01947,Eau
+TK-01947,Salade
+TK-01947,Pommes
+TK-01948,Saucisses
+TK-01948,Eau
+TK-01948,Salade
+TK-01948,Pommes
+TK-01949,Oeufs
+TK-01949,Tomates
+TK-01949,Jambon
+TK-01949,Salade
+TK-01949,Pommes
+TK-01950,Eau
+TK-01950,Bananes
+TK-01951,Café
+TK-01951,Beurre
+TK-01951,Baguette
+TK-01951,Lait
+TK-01952,Eau
+TK-01952,Saucisses
+TK-01952,Tomates
+TK-01952,Salade
+TK-01952,Bière
+TK-01953,Cacahuètes
+TK-01953,Soda
+TK-01953,Bananes
+TK-01953,Dentifrice
+TK-01953,Chips
+TK-01953,Baguette
+TK-01953,Shampoing
+TK-01953,Bière
+TK-01954,Baguette
+TK-01955,Tomates
+TK-01955,Eau
+TK-01955,Jambon
+TK-01956,Eau
+TK-01956,Soda
+TK-01956,Riz
+TK-01956,Bière
+TK-01956,Pommes
+TK-01957,Oeufs
+TK-01957,Riz
+TK-01957,Yaourts
+TK-01958,Eau
+TK-01958,Jambon
+TK-01958,Pommes
+TK-01959,Yaourts
+TK-01959,Pâtes
+TK-01959,Sauce tomate
+TK-01959,Jus d'orange
+TK-01959,Céréales
+TK-01959,Bananes
+TK-01959,Baguette
+TK-01959,Lait
+TK-01959,Fromage râpé
+TK-01960,Oeufs
+TK-01960,Riz
+TK-01960,Lait
+TK-01961,Cacahuètes
+TK-01961,Yaourts
+TK-01961,Eau
+TK-01961,Céréales
+TK-01961,Lait
+TK-01961,Bière
+TK-01961,Chips
+TK-01962,Cacahuètes
+TK-01962,Yaourts
+TK-01962,Eau
+TK-01962,Jus d'orange
+TK-01962,Bananes
+TK-01962,Céréales
+TK-01962,Lait
+TK-01962,Bière
+TK-01962,Chips
+TK-01963,Pâtes
+TK-01963,Sauce tomate
+TK-01963,Soda
+TK-01963,Lait
+TK-01963,Fromage râpé
+TK-01963,Steak haché
+TK-01964,Café
+TK-01964,Beurre
+TK-01964,Eau
+TK-01964,Confiture
+TK-01965,Oeufs
+TK-01965,Yaourts
+TK-01965,Eau
+TK-01965,Riz
+TK-01965,Baguette
+TK-01966,Eau
+TK-01967,Yaourts
+TK-01967,Eau
+TK-01967,Céréales
+TK-01967,Baguette
+TK-01967,Salade
+TK-01967,Lait
+TK-01967,Bière
+TK-01967,Steak haché
+TK-01968,Tomates
+TK-01968,Salade
+TK-01969,Café
+TK-01969,Lait
+TK-01969,Confiture
+TK-01970,Shampoing
+TK-01970,Yaourts
+TK-01970,Dentifrice
+TK-01971,Cacahuètes
+TK-01971,Bière
+TK-01972,Café
+TK-01972,Beurre
+TK-01972,Baguette
+TK-01972,Lait
+TK-01972,Pommes
+TK-01973,Café
+TK-01974,Yaourts
+TK-01974,Eau
+TK-01974,Jus d'orange
+TK-01974,Céréales
+TK-01974,Bananes
+TK-01974,Lait
+TK-01975,Café
+TK-01975,Beurre
+TK-01975,Lait
+TK-01975,Confiture
+TK-01976,Beurre
+TK-01976,Baguette
+TK-01976,Eau
+TK-01977,Yaourts
+TK-01977,Pâtes
+TK-01977,Sauce tomate
+TK-01977,Eau
+TK-01977,Jus d'orange
+TK-01977,Céréales
+TK-01977,Bananes
+TK-01977,Baguette
+TK-01977,Lait
+TK-01977,Fromage râpé
+TK-01978,Bananes
+TK-01978,Cacahuètes
+TK-01978,Bière
+TK-01978,Chips
+TK-01979,Oeufs
+TK-01979,Eau
+TK-01979,Café
+TK-01979,Tomates
+TK-01979,Beurre
+TK-01979,Baguette
+TK-01979,Salade
+TK-01980,Eau
+TK-01980,Saucisses
+TK-01980,Lait
+TK-01980,Bière
+TK-01980,Steak haché
+TK-01981,Yaourts
+TK-01981,Eau
+TK-01981,Dentifrice
+TK-01981,Papier toilette
+TK-01981,Shampoing
+TK-01982,Eau
+TK-01983,Pâtes
+TK-01983,Sauce tomate
+TK-01983,Eau
+TK-01983,Bananes
+TK-01983,Fromage râpé
+TK-01984,Pâtes
+TK-01984,Sauce tomate
+TK-01984,Bananes
+TK-01984,Lait
+TK-01984,Fromage râpé
+TK-01984,Steak haché
+TK-01985,Eau
+TK-01985,Café
+TK-01985,Jus d'orange
+TK-01985,Confiture
+TK-01985,Beurre
+TK-01986,Soda
+TK-01986,Bière
+TK-01986,Chips
+TK-01987,Café
+TK-01987,Saucisses
+TK-01987,Confiture
+TK-01987,Beurre
+TK-01987,Baguette
+TK-01987,Salade
+TK-01987,Lait
+TK-01987,Croissants
+TK-01987,Bière
+TK-01987,Steak haché
+TK-01988,Pâtes
+TK-01988,Sauce tomate
+TK-01988,Eau
+TK-01988,Confiture
+TK-01988,Beurre
+TK-01988,Baguette
+TK-01988,Fromage râpé
+TK-01988,Steak haché
+TK-01989,Saucisses
+TK-01989,Eau
+TK-01989,Bière
+TK-01989,Steak haché
+TK-01990,Lait
+TK-01990,Cacahuètes
+TK-01990,Bière
+TK-01990,Chips
+TK-01991,Lait
+TK-01991,Eau
+TK-01991,Céréales
+TK-01991,Pommes
+TK-01992,Eau
+TK-01992,Saucisses
+TK-01992,Salade
+TK-01992,Bière
+TK-01992,Steak haché
+TK-01993,Jus d'orange
+TK-01993,Pâtes
+TK-01993,Fromage râpé
+TK-01993,Sauce tomate
+TK-01994,Pâtes
+TK-01994,Sauce tomate
+TK-01994,Confiture
+TK-01994,Beurre
+TK-01994,Baguette
+TK-01994,Lait
+TK-01994,Fromage râpé
+TK-01995,Yaourts
+TK-01995,Eau
+TK-01995,Soda
+TK-01995,Saucisses
+TK-01995,Bananes
+TK-01995,Tomates
+TK-01995,Steak haché
+TK-01996,Pâtes
+TK-01996,Sauce tomate
+TK-01996,Jus d'orange
+TK-01996,Céréales
+TK-01996,Bananes
+TK-01996,Lait
+TK-01996,Fromage râpé
+TK-01996,Steak haché
+TK-01997,Baguette
+TK-01997,Eau
+TK-01998,Eau
+TK-01998,Soda
+TK-01998,Bananes
+TK-01998,Dentifrice
+TK-01998,Papier toilette
+TK-01998,Shampoing
+TK-01999,Yaourts
+TK-01999,Eau
+TK-01999,Jus d'orange
+TK-01999,Céréales
+TK-01999,Tomates
+TK-01999,Baguette
+TK-01999,Jambon
+TK-01999,Salade
+TK-02000,Oeufs
+TK-02000,Yaourts
+TK-02000,Café
+TK-02000,Tomates
+TK-02000,Jambon
+TK-02000,Salade
